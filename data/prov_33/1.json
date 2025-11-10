@@ -17,7 +17,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 103,
-      "jumlah_terdaftar": 666,
+      "jumlah_terdaftar": 689,
       "program_studi": "[{\"id\":\"4f7a53df-a963-4a1c-80aa-8fbea498d288\",\"title\":\"Kesehatan Masyarakat\"},{\"id\":\"2c1f894d-16df-471c-abe7-6939d132c6b0\",\"title\":\"Komunikasi\"},{\"id\":\"681a6e41-f24c-464d-838c-480fdef72f66\",\"title\":\"Sosiologi\"},{\"id\":\"3e1f167b-ac1f-4208-b1f7-ff2244791c64\",\"title\":\"Psikologi\"},{\"id\":\"e4a0d07b-d242-480b-b2fb-7a1c66ffc2fd\",\"title\":\"Kesejahteraan Sosial\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -92,7 +92,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 50,
-      "jumlah_terdaftar": 85,
+      "jumlah_terdaftar": 89,
       "program_studi": "[{\"id\":\"2be07689-5c0a-4a1c-8ce5-d9132f31c1b4\",\"title\":\"Pendidikan Vokasional Teknik Mesin\"},{\"id\":\"2b263bf1-305b-4375-ae40-c6233867a141\",\"title\":\"Pendidikan Vokasional Teknik Elektronika\"},{\"id\":\"c74715fe-7056-4659-bfcf-614fff14b5c6\",\"title\":\"Pendidikan Vokasional Teknik Elektro\"},{\"id\":\"fcba3402-73ac-47c2-be3b-0c138e105d52\",\"title\":\"Pendidikan Teknik Mekatronika\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -167,7 +167,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 50,
-      "jumlah_terdaftar": 91,
+      "jumlah_terdaftar": 93,
       "program_studi": "[{\"id\":\"c74715fe-7056-4659-bfcf-614fff14b5c6\",\"title\":\"Pendidikan Vokasional Teknik Elektro\"},{\"id\":\"ad2a0508-9010-45b1-8655-fb0ab798b5ee\",\"title\":\"Teknik Elektro Industri\"},{\"id\":\"2b263bf1-305b-4375-ae40-c6233867a141\",\"title\":\"Pendidikan Vokasional Teknik Elektronika\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -242,7 +242,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 50,
-      "jumlah_terdaftar": 94,
+      "jumlah_terdaftar": 99,
       "program_studi": "[{\"id\":\"f02b1bc5-d74d-481d-a977-a4fb94920c3c\",\"title\":\"Teknologi Pengolahan Karet dan Plastik\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -317,7 +317,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 50,
-      "jumlah_terdaftar": 12,
+      "jumlah_terdaftar": 32,
       "program_studi": "[{\"id\":\"8b6ace77-5ccd-4376-a5bd-73366799e9b6\",\"title\":\"Teknik Elektronika\"},{\"id\":\"93594dd7-0c1d-48c0-8f50-fd4bfde199b3\",\"title\":\"Teknik Elektro\"},{\"id\":\"ad2a0508-9010-45b1-8655-fb0ab798b5ee\",\"title\":\"Teknik Elektro Industri\"},{\"id\":\"2fee5a6d-a685-4a85-911b-5aa7e4980851\",\"title\":\"Teknik Industri\"},{\"id\":\"15ef29c8-682e-41db-83b6-3b97edc66770\",\"title\":\"Teknik Mesin Industri\"}]",
       "jenjang": "[\"Sarjana\",\"Diploma\"]",
       "ref_status_posisi": {
@@ -392,7 +392,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 46,
-      "jumlah_terdaftar": 147,
+      "jumlah_terdaftar": 162,
       "program_studi": "[{\"id\":\"681a6e41-f24c-464d-838c-480fdef72f66\",\"title\":\"Sosiologi\"},{\"id\":\"962c1629-486b-4945-a41b-721772a336ee\",\"title\":\"Ekonomi Syariah\"},{\"id\":\"b0415630-93a3-4def-95bb-919785f21569\",\"title\":\"Manajemen Keuangan dan Perbankan Syariah\"},{\"id\":\"d7f0c20d-d3be-4657-9252-5dddad5ddc6b\",\"title\":\"Kewirausahaaan\"},{\"id\":\"e4a0d07b-d242-480b-b2fb-7a1c66ffc2fd\",\"title\":\"Kesejahteraan Sosial\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -417,6 +417,81 @@
         "updated_at": "2025-10-30 15:58:07",
         "kode_kabupaten": "3374",
         "nama_kabupaten": "KOTA SEMARANG",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-11 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-14 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": null
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": null
+      }
+    },
+    {
+      "id_posisi": "a05216a8-ab76-4cb0-8d50-2d4a5f873b64",
+      "posisi": "Perawat",
+      "deskripsi_posisi": "memberikan asuhan keperawatan, memantau kondisi pasien, memberikan obat dan tindakan medis, memberikan edukasi kesehatan, serta memberikan dukungan emosional kepada pasien dan keluarga",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "5fa89722-fbed-4af3-8bfc-49f27896c7ab",
+      "created_at": "2025-11-10 09:17:05",
+      "updated_at": "2025-11-10 09:18:57",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 40,
+      "jumlah_terdaftar": 54,
+      "program_studi": "[{\"id\":\"1b10c018-7e0a-4f55-9d0d-07ffdbc1b12b\",\"title\":\"Keperawatan\"}]",
+      "jenjang": "[\"Diploma\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "5fa89722-fbed-4af3-8bfc-49f27896c7ab",
+        "id_sumber_dana": null,
+        "id_perusahaan": "752bd8e9-aec2-47b8-97cd-278821faa1be",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "752bd8e9-aec2-47b8-97cd-278821faa1be",
+        "id_desa": null,
+        "nama_perusahaan": "Rumah Sakit Umum Daerah Dr. Soeratno Gemolong",
+        "deskripsi_perusahaan": null,
+        "alamat": "Jl.  R. Ngt. Tjitrosantjoko 10",
+        "logo": "https://wlkp-assets.kemnaker.go.id/companies/4f298d15-dd54-49ca-98cb-3e660185cf27/69113c00c5664.png",
+        "banner": "https://wlkp-assets.kemnaker.go.id/companies/4f298d15-dd54-49ca-98cb-3e660185cf27/69113c03501b0.png",
+        "created_at": "2025-11-10 09:17:05",
+        "updated_at": "2025-11-10 09:18:57",
+        "kode_kabupaten": "3314",
+        "nama_kabupaten": "KAB. SRAGEN",
         "kode_provinsi": "33",
         "nama_provinsi": "JAWA TENGAH"
       },
@@ -542,7 +617,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 30,
-      "jumlah_terdaftar": 13,
+      "jumlah_terdaftar": 15,
       "program_studi": "[{\"id\":\"9c45e738-34b0-48d4-90ff-e9ac9cade490\",\"title\":\"Keperawatan\"},{\"id\":\"7c1d1e9e-a3f9-45c4-850d-81d90800a6b0\",\"title\":\"Keperawatan Gigi\"},{\"id\":\"f8c6dc7e-03fd-45ab-b219-2128008eb006\",\"title\":\"Keperawatan Anestesiologi\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -617,7 +692,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 25,
-      "jumlah_terdaftar": 142,
+      "jumlah_terdaftar": 147,
       "program_studi": "[{\"id\":\"57f6069e-c934-4ce1-adff-bc62e4d551bf\",\"title\":\"Ekonomi Syari'ah\"},{\"id\":\"40cb3ed6-d81d-460d-99f0-1e95095ea5d3\",\"title\":\"Keuangan Dan Perbankan Syari ah\"},{\"id\":\"681a6e41-f24c-464d-838c-480fdef72f66\",\"title\":\"Sosiologi\"},{\"id\":\"e4a0d07b-d242-480b-b2fb-7a1c66ffc2fd\",\"title\":\"Kesejahteraan Sosial\"},{\"id\":\"d7f0c20d-d3be-4657-9252-5dddad5ddc6b\",\"title\":\"Kewirausahaaan\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -692,7 +767,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 20,
-      "jumlah_terdaftar": 38,
+      "jumlah_terdaftar": 40,
       "program_studi": "[{\"id\":\"93594dd7-0c1d-48c0-8f50-fd4bfde199b3\",\"title\":\"Teknik Elektro\"},{\"id\":\"ea498c86-2eeb-4dc2-8844-f546e73a4aee\",\"title\":\"Teknik Komputer\"},{\"id\":\"151f4ff2-c4f7-4934-a27f-b3d877ea2c88\",\"title\":\"Rekayasa Sistem Komputer\"},{\"id\":\"f8b90887-5b04-4cac-b152-820731ae98af\",\"title\":\"Elektronika dan Instrumentasi\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -767,7 +842,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 20,
-      "jumlah_terdaftar": 173,
+      "jumlah_terdaftar": 174,
       "program_studi": "[{\"id\":\"1b10c018-7e0a-4f55-9d0d-07ffdbc1b12b\",\"title\":\"Keperawatan\"},{\"id\":\"9c45e738-34b0-48d4-90ff-e9ac9cade490\",\"title\":\"Keperawatan\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -842,7 +917,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 19,
-      "jumlah_terdaftar": 0,
+      "jumlah_terdaftar": 3,
       "program_studi": "[{\"id\":\"27f828fc-c4b1-493b-92d5-ce4f9f37eef1\",\"title\":\"Bahasa Mandarin\"},{\"id\":\"aef35891-26c4-4bc9-ac2e-af19a7f6ddc3\",\"title\":\"Bahasa Mandarin Untuk Komunikasi Bisnis Dan Profesional\"},{\"id\":\"22363117-4e7b-4152-9587-4ca318c43d34\",\"title\":\"Bahasa Mandarin dan Kebudayaan Tiongkok\"},{\"id\":\"2cc80211-5076-4e36-be5c-bacc5fefed2b\",\"title\":\"Bahasa Mandarin untuk Komunikasi Bisnis dan Profesional\"},{\"id\":\"09994878-6a02-4ced-be13-9f67b7d3cfe7\",\"title\":\"Pendidikan Bahasa Mandarin\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -917,7 +992,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 18,
-      "jumlah_terdaftar": 18,
+      "jumlah_terdaftar": 20,
       "program_studi": "[{\"id\":\"74377bd7-0efe-4e39-aae1-c79cbb55fc2a\",\"title\":\"Ilmu Keperawatan\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -992,7 +1067,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 18,
-      "jumlah_terdaftar": 3,
+      "jumlah_terdaftar": 10,
       "program_studi": "[{\"id\":\"2c1f894d-16df-471c-abe7-6939d132c6b0\",\"title\":\"Komunikasi\"},{\"id\":\"e2843b4a-1c93-44b9-bafd-c667c91efd9c\",\"title\":\"Desain Media\"},{\"id\":\"e90b7fe8-f4a5-4a1c-85f8-e929004b29e1\",\"title\":\"Desain Grafis\"},{\"id\":\"9808ccda-82eb-47cd-a2e5-78d6baf95192\",\"title\":\"Pemasaran Digital\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -1067,7 +1142,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 17,
-      "jumlah_terdaftar": 116,
+      "jumlah_terdaftar": 124,
       "program_studi": "[{\"id\":\"9c45e738-34b0-48d4-90ff-e9ac9cade490\",\"title\":\"Keperawatan\"},{\"id\":\"74377bd7-0efe-4e39-aae1-c79cbb55fc2a\",\"title\":\"Ilmu Keperawatan\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -1142,7 +1217,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 16,
-      "jumlah_terdaftar": 63,
+      "jumlah_terdaftar": 64,
       "program_studi": "[{\"id\":\"1a5b76fb-aa41-453b-8fb7-1d7feb7a210c\",\"title\":\"Manajemen Pendidikan\"},{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"},{\"id\":\"a73784d0-41ec-4092-ac5a-0ff902f8557a\",\"title\":\"Perbankan Syariah\"},{\"id\":\"e302e4d3-234f-4a83-b48c-b6f0e1dfc97b\",\"title\":\"Kewirausahaan\"},{\"id\":\"52a964a0-7aba-4921-a5a0-13c4a7de6d3d\",\"title\":\"Ilmu Kesejahteraan Sosial\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -1217,7 +1292,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 15,
-      "jumlah_terdaftar": 38,
+      "jumlah_terdaftar": 39,
       "program_studi": "[{\"id\":\"46dfcdcf-660f-41c6-b7f5-87b7a0183fbc\",\"title\":\"Pendidikan Akuntansi\"},{\"id\":\"0b0a2a05-888a-43fc-ac2f-faa42ffd95da\",\"title\":\"Perpajakan\"},{\"id\":\"ae73f44b-835b-498b-a10a-95eaa32fbe0b\",\"title\":\"Sistem Informasi\"},{\"id\":\"b1d47991-f9e7-47c4-8e42-317b52b4d330\",\"title\":\"Ilmu Hukum\"},{\"id\":\"5195be92-310c-4e2b-9b65-7fd772390892\",\"title\":\"Pendidikan agama Islam\"}]",
       "jenjang": "[\"Sarjana\",\"Diploma\"]",
       "ref_status_posisi": {
@@ -1292,7 +1367,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 15,
-      "jumlah_terdaftar": 89,
+      "jumlah_terdaftar": 90,
       "program_studi": "[{\"id\":\"4b75083a-8204-4373-a93f-f1ebb9c9778d\",\"title\":\"Arsitektur\"},{\"id\":\"9dfcaa37-a44b-4331-87ab-bd32dc1066cb\",\"title\":\"Desain Komunikasi Visual\"},{\"id\":\"3e1f167b-ac1f-4208-b1f7-ff2244791c64\",\"title\":\"Psikologi\"},{\"id\":\"8bdce5f1-553c-40b4-a5f5-9e5ff9387b60\",\"title\":\"Sistem Informasi\"},{\"id\":\"a86f123a-2b95-4d24-b49d-174d3a639d91\",\"title\":\"Statistika\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -1367,7 +1442,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 15,
-      "jumlah_terdaftar": 120,
+      "jumlah_terdaftar": 119,
       "program_studi": "[{\"id\":\"2c1f894d-16df-471c-abe7-6939d132c6b0\",\"title\":\"Komunikasi\"},{\"id\":\"43be1f0e-b279-448d-b448-5a53ec9c3ebd\",\"title\":\"Perhotelan\"},{\"id\":\"4d35da79-f44d-422b-848c-9944062cb2f4\",\"title\":\"Bisnis\"},{\"id\":\"b16054f8-8d35-4fdf-af76-94724b15b73f\",\"title\":\"Manajemen Bisnis\"},{\"id\":\"c13ae920-a48f-4a7c-8c89-2b286a7fc225\",\"title\":\"Akuntansi\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -1442,7 +1517,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 15,
-      "jumlah_terdaftar": 26,
+      "jumlah_terdaftar": 25,
       "program_studi": "[{\"id\":\"8fec93ac-f0e7-4d81-8fe9-041878d180fa\",\"title\":\"Mesin Industri\"},{\"id\":\"21442969-5763-4416-bb8d-56a80e55ada9\",\"title\":\"Teknik Mesin\"},{\"id\":\"15ef29c8-682e-41db-83b6-3b97edc66770\",\"title\":\"Teknik Mesin Industri\"},{\"id\":\"93594dd7-0c1d-48c0-8f50-fd4bfde199b3\",\"title\":\"Teknik Elektro\"},{\"id\":\"ad2a0508-9010-45b1-8655-fb0ab798b5ee\",\"title\":\"Teknik Elektro Industri\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -1517,7 +1592,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 15,
-      "jumlah_terdaftar": 102,
+      "jumlah_terdaftar": 101,
       "program_studi": "[{\"id\":\"44c12a8c-7a88-47ea-87fb-0e7202a1390d\",\"title\":\"Administrasi\"},{\"id\":\"702dfd8b-b5b8-40fb-843b-4d503451b314\",\"title\":\"Ekonomi\"},{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"},{\"id\":\"7a5d1b51-9511-4538-8bee-9b4e7c7531bf\",\"title\":\"Administrasi Logistik\"},{\"id\":\"a238d168-b0a9-41cf-83bc-20e0220ca871\",\"title\":\"Manajemen Logistik dan Material\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -1592,7 +1667,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 15,
-      "jumlah_terdaftar": 32,
+      "jumlah_terdaftar": 33,
       "program_studi": "[{\"id\":\"1b10c018-7e0a-4f55-9d0d-07ffdbc1b12b\",\"title\":\"Keperawatan\"}]",
       "jenjang": "[\"Sarjana\",\"Diploma\"]",
       "ref_status_posisi": {
@@ -1667,7 +1742,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 15,
-      "jumlah_terdaftar": 68,
+      "jumlah_terdaftar": 69,
       "program_studi": "[{\"id\":\"74377bd7-0efe-4e39-aae1-c79cbb55fc2a\",\"title\":\"Ilmu Keperawatan\"},{\"id\":\"1b10c018-7e0a-4f55-9d0d-07ffdbc1b12b\",\"title\":\"Keperawatan\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -1742,7 +1817,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 15,
-      "jumlah_terdaftar": 192,
+      "jumlah_terdaftar": 188,
       "program_studi": "[{\"id\":\"1b10c018-7e0a-4f55-9d0d-07ffdbc1b12b\",\"title\":\"Keperawatan\"}]",
       "jenjang": "[\"Diploma\"]",
       "ref_status_posisi": {
@@ -1967,7 +2042,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 14,
-      "jumlah_terdaftar": 3,
+      "jumlah_terdaftar": 5,
       "program_studi": "[{\"id\":\"14f42c27-ca9c-4c31-bb09-24f7069f8c9f\",\"title\":\"Bisnis Perhotelan\"},{\"id\":\"626a759c-a7c3-4a90-98b6-6a8153fe346c\",\"title\":\"Manajemen Perhotelan\"},{\"id\":\"9889a8b6-d54b-41c7-b83b-f591a55ca812\",\"title\":\"Manajemen Perhotelan dan Pariwisata\"},{\"id\":\"d3359e88-f714-44b9-8ea8-80e0e8eb1b8f\",\"title\":\"Pengelolaan Perhotelan\"},{\"id\":\"43be1f0e-b279-448d-b448-5a53ec9c3ebd\",\"title\":\"Perhotelan\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -2042,7 +2117,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 13,
-      "jumlah_terdaftar": 18,
+      "jumlah_terdaftar": 19,
       "program_studi": "[{\"id\":\"4c832689-ed8c-409f-b90d-04a1407d4f1a\",\"title\":\"Teknologi Bank Darah\"}]",
       "jenjang": "[\"Diploma\"]",
       "ref_status_posisi": {
@@ -2117,7 +2192,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 12,
-      "jumlah_terdaftar": 21,
+      "jumlah_terdaftar": 22,
       "program_studi": "[{\"id\":\"21442969-5763-4416-bb8d-56a80e55ada9\",\"title\":\"Teknik Mesin\"},{\"id\":\"93594dd7-0c1d-48c0-8f50-fd4bfde199b3\",\"title\":\"Teknik Elektro\"},{\"id\":\"4dd3d9d0-6f26-49c2-97d1-e97ced429b1e\",\"title\":\"Teknik Listrik\"},{\"id\":\"04a4f53f-0b69-4219-8090-76e6e0c20940\",\"title\":\"Teknik Mekatronika\"},{\"id\":\"4a13d96b-6f3c-4640-84f6-91100792859c\",\"title\":\"Teknik Alat Berat\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -2192,7 +2267,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 12,
-      "jumlah_terdaftar": 14,
+      "jumlah_terdaftar": 16,
       "program_studi": "[{\"id\":\"3df7d61a-7da9-4697-983b-f41f13d0d473\",\"title\":\"Teknik Manufaktur Mesin\"},{\"id\":\"15ef29c8-682e-41db-83b6-3b97edc66770\",\"title\":\"Teknik Mesin Industri\"},{\"id\":\"21442969-5763-4416-bb8d-56a80e55ada9\",\"title\":\"Teknik Mesin\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -2267,7 +2342,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 12,
-      "jumlah_terdaftar": 116,
+      "jumlah_terdaftar": 113,
       "program_studi": "[{\"id\":\"756f54c1-3c42-44fd-8723-24c9e5d810cc\",\"title\":\"Rekam Medis dan Informasi Kesehatan\"},{\"id\":\"da149569-d575-4653-b1cf-162978a3a733\",\"title\":\"Ilmu Rekam Medis\"},{\"id\":\"b350d75a-9020-42b3-a3f7-3363beca1b94\",\"title\":\"Rekam Medik\"},{\"id\":\"50d8f5b7-c0fe-47f4-ab0d-3a661cca21bc\",\"title\":\"Perekam dan Informatika Kesehatan\"},{\"id\":\"dd8fe68c-897f-45cf-accb-9638fded86fc\",\"title\":\"Perekam Medis dan Informasi Kesehatan\"}]",
       "jenjang": "[\"Diploma\"]",
       "ref_status_posisi": {
@@ -2342,7 +2417,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 12,
-      "jumlah_terdaftar": 37,
+      "jumlah_terdaftar": 40,
       "program_studi": "[{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"},{\"id\":\"d7f0c20d-d3be-4657-9252-5dddad5ddc6b\",\"title\":\"Kewirausahaaan\"},{\"id\":\"e4a0d07b-d242-480b-b2fb-7a1c66ffc2fd\",\"title\":\"Kesejahteraan Sosial\"},{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"},{\"id\":\"4c45ff97-deac-4acf-840f-03e9eff6ad4f\",\"title\":\"Perbankan Syari'ah\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -2401,6 +2476,306 @@
       }
     },
     {
+      "id_posisi": "a04e5850-6f6a-4e74-80e0-7a44d1736e15",
+      "posisi": "ADMINISTRASI (ADMIN)",
+      "deskripsi_posisi": "Bertanggung jawab atas pengelolaan data, dokumen, dan kegiatan administrasi perusahaan agar berjalan tertib dan efisien.\n\nTugas dan Tanggung Jawab:\nMengelola arsip dan dokumen perusahaan.\nMembuat laporan harian, mingguan, dan bulanan.\nMembantu koordinasi antar divisi dan memastikan alur kerja berjalan lancar.\nMelayani kebutuhan administrasi internal dan eksternal.\nMengoperasikan aplikasi perkantoran seperti Word, Excel, dan Google Workspace.\n\nKualifikasi:\nPendidikan D3/S1 (Diutamakan Administrasi, Manajemen, atau Akuntansi).\nMenguasai Microsoft Office dan komputer dasar.\nTeliti, rapi, jujur, dan bertanggung jawab.\nMemiliki kemampuan komunikasi yang baik.\nMampu bekerja dalam tim maupun secara mandiri.",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "2f755b47-b0fc-4c9c-bc6b-5168abe4cde2",
+      "created_at": "2025-11-08 13:20:31",
+      "updated_at": "2025-11-08 13:26:41",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 12,
+      "jumlah_terdaftar": 6,
+      "program_studi": "[{\"id\":\"44c12a8c-7a88-47ea-87fb-0e7202a1390d\",\"title\":\"Administrasi\"},{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"},{\"id\":\"c13ae920-a48f-4a7c-8c89-2b286a7fc225\",\"title\":\"Akuntansi\"}]",
+      "jenjang": "[\"Diploma\",\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "2f755b47-b0fc-4c9c-bc6b-5168abe4cde2",
+        "id_sumber_dana": null,
+        "id_perusahaan": "692071db-acb5-441a-9685-a091cd4b1574",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "692071db-acb5-441a-9685-a091cd4b1574",
+        "id_desa": null,
+        "nama_perusahaan": "Kinarya Surya Utama",
+        "deskripsi_perusahaan": null,
+        "alamat": "Jalan KH Ahmad Dahlan Nomor 72",
+        "logo": "https://wlkp-assets.kemnaker.go.id/companies/478cb927-1916-4f06-90c2-2f7cf9b6a4d0/690ee064e1fa8.png",
+        "banner": "https://wlkp-assets.kemnaker.go.id/companies/478cb927-1916-4f06-90c2-2f7cf9b6a4d0/690ee06dcc924.png",
+        "created_at": "2025-11-08 13:20:31",
+        "updated_at": "2025-11-08 13:26:41",
+        "kode_kabupaten": "3329",
+        "nama_kabupaten": "KAB. BREBES",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-11 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-14 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": null
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": null
+      }
+    },
+    {
+      "id_posisi": "a0524fff-cec8-4684-aa73-3f8176929560",
+      "posisi": "PEMBINA KEPRIBADIAN",
+      "deskripsi_posisi": "1. Menyusun dan melaksanakan program pembinaan karakter warga binaan.\n2. Melatih keterampilan komunikasi dan pengendalian diri\n3. Melakukan evaluasi hasil pembinaan kepribadian.\n4. Menyusun laporan perkembangan individu.",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "c5f077b7-6325-4ec6-bdb0-020eede468f3",
+      "created_at": "2025-11-10 08:53:11",
+      "updated_at": "2025-11-10 08:53:11",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 12,
+      "jumlah_terdaftar": 4,
+      "program_studi": "[{\"id\":\"0bc0e2c9-9c10-4bf4-be94-fbe6c480968f\",\"title\":\"Pendidikan AGama Islam\"},{\"id\":\"ca6db21e-4566-482b-a6bd-eb004b55effb\",\"title\":\"Pendidikan Agama Kristen\"},{\"id\":\"cc7efbac-6312-4a76-bb15-901aea26d27b\",\"title\":\"Pendidikan Keagamaan Katolik\"},{\"id\":\"9cd9d15c-d9eb-4d4a-8f13-7f6272e6c8ee\",\"title\":\"Pendidikan Olahraga Dan Kesehatan\"},{\"id\":\"bf0b7d57-cfef-42f1-82a2-aa75edcbdef2\",\"title\":\"Pendidikan Kewarganegaraan\"}]",
+      "jenjang": "[\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "c5f077b7-6325-4ec6-bdb0-020eede468f3",
+        "id_sumber_dana": null,
+        "id_perusahaan": "34c7daec-48eb-4e03-9f1c-b5e9ff5e9cce",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "34c7daec-48eb-4e03-9f1c-b5e9ff5e9cce",
+        "id_desa": null,
+        "nama_perusahaan": "LEMBAGA PEMASYARAKATAN KELAS IIA BESI",
+        "deskripsi_perusahaan": null,
+        "alamat": "Jalan Nusakambangan, Tambakreja, Kec. Cilacap Selatan, Kabupaten Cilacap, Jawa Tengah",
+        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/MuW1A7iDOGOKp5aQCcEMNOB7GVmao6TNmhfqgRby.png",
+        "banner": null,
+        "created_at": "2025-11-10 08:53:11",
+        "updated_at": "2025-11-10 08:53:11",
+        "kode_kabupaten": "3301",
+        "nama_kabupaten": "KAB. CILACAP",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-11 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-14 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": "LEMBAGA PEMASYARAKATAN KELAS IIA BESI"
+      }
+    },
+    {
+      "id_posisi": "a04e5a3b-9596-4371-8727-d51e7c6df641",
+      "posisi": "MARKETING EKSEKUTIF",
+      "deskripsi_posisi": "Menjalin hubungan dengan pelanggan, memasarkan produk atau layanan perusahaan, serta mencapai target penjualan yang telah ditetapkan.\n\nTugas dan Tanggung Jawab:\nMelakukan promosi dan penawaran produk kepada calon klien.\nMenjaga hubungan baik dengan pelanggan lama dan baru.\nMembuat laporan hasil kegiatan pemasaran dan penjualan.\nBerkontribusi dalam perencanaan strategi marketing perusahaan.\nMenganalisis tren pasar dan kebutuhan konsumen.\n\nKualifikasi:\nPendidikan D3/S1 (Diutamakan Pemasaran, Manajemen, atau Komunikasi).\nMemiliki kemampuan negosiasi dan komunikasi yang baik.\nBerpenampilan menarik, aktif, dan berorientasi pada hasil.\nMampu bekerja dengan target.",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "2f755b47-b0fc-4c9c-bc6b-5168abe4cde2",
+      "created_at": "2025-11-08 13:20:31",
+      "updated_at": "2025-11-08 13:26:41",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 11,
+      "jumlah_terdaftar": 0,
+      "program_studi": "[{\"id\":\"2c1f894d-16df-471c-abe7-6939d132c6b0\",\"title\":\"Komunikasi\"},{\"id\":\"e12302ac-c8dc-4d0a-90a7-402f6fafd27e\",\"title\":\"Manajemen Pemasaran\\/Marketing\"}]",
+      "jenjang": "[\"Diploma\",\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "2f755b47-b0fc-4c9c-bc6b-5168abe4cde2",
+        "id_sumber_dana": null,
+        "id_perusahaan": "692071db-acb5-441a-9685-a091cd4b1574",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "692071db-acb5-441a-9685-a091cd4b1574",
+        "id_desa": null,
+        "nama_perusahaan": "Kinarya Surya Utama",
+        "deskripsi_perusahaan": null,
+        "alamat": "Jalan KH Ahmad Dahlan Nomor 72",
+        "logo": "https://wlkp-assets.kemnaker.go.id/companies/478cb927-1916-4f06-90c2-2f7cf9b6a4d0/690ee064e1fa8.png",
+        "banner": "https://wlkp-assets.kemnaker.go.id/companies/478cb927-1916-4f06-90c2-2f7cf9b6a4d0/690ee06dcc924.png",
+        "created_at": "2025-11-08 13:20:31",
+        "updated_at": "2025-11-08 13:26:41",
+        "kode_kabupaten": "3329",
+        "nama_kabupaten": "KAB. BREBES",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-11 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-14 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": null
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": null
+      }
+    },
+    {
+      "id_posisi": "a0525111-6ea4-48fa-ad80-34de540cd0e8",
+      "posisi": "PEMBINA KEMANDIRIAN",
+      "deskripsi_posisi": "1. Melatih warga binaan dalam keterampilan kerja dan kewirausahaan.\n2. Menyusun jadwal dan materi pelatihan kerja.\n3. Melakukan pendampingan selama praktik kerja.\n4. Mengevaluasi kemampuan dan kesiapan kerja",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "c5f077b7-6325-4ec6-bdb0-020eede468f3",
+      "created_at": "2025-11-10 08:53:11",
+      "updated_at": "2025-11-10 08:53:11",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 11,
+      "jumlah_terdaftar": 2,
+      "program_studi": "[{\"id\":\"74f0be5f-6abc-455b-b326-4a3d62e1a8cf\",\"title\":\"Peternakan\"},{\"id\":\"6107d202-63c7-4740-ba37-e422caef7e3f\",\"title\":\"Ilmu Pertanian\"},{\"id\":\"88b12c72-e32f-40e7-a121-7c357c07d7fd\",\"title\":\"Ilmu Perikanan\"},{\"id\":\"2fcca542-3387-47da-8b07-96e36b8225dc\",\"title\":\"Tata Boga\"},{\"id\":\"6192694b-194b-45de-af84-8eb010ba0c3a\",\"title\":\"Teknik Otomotif\"}]",
+      "jenjang": "[\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "c5f077b7-6325-4ec6-bdb0-020eede468f3",
+        "id_sumber_dana": null,
+        "id_perusahaan": "34c7daec-48eb-4e03-9f1c-b5e9ff5e9cce",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "34c7daec-48eb-4e03-9f1c-b5e9ff5e9cce",
+        "id_desa": null,
+        "nama_perusahaan": "LEMBAGA PEMASYARAKATAN KELAS IIA BESI",
+        "deskripsi_perusahaan": null,
+        "alamat": "Jalan Nusakambangan, Tambakreja, Kec. Cilacap Selatan, Kabupaten Cilacap, Jawa Tengah",
+        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/MuW1A7iDOGOKp5aQCcEMNOB7GVmao6TNmhfqgRby.png",
+        "banner": null,
+        "created_at": "2025-11-10 08:53:11",
+        "updated_at": "2025-11-10 08:53:11",
+        "kode_kabupaten": "3301",
+        "nama_kabupaten": "KAB. CILACAP",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-11 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-14 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": "LEMBAGA PEMASYARAKATAN KELAS IIA BESI"
+      }
+    },
+    {
       "id_posisi": "a036642a-6da4-4a1f-8f1d-2dcc94fe6ce6",
       "posisi": "PROSES CONTROL",
       "deskripsi_posisi": "Deskripsi Pekerjaan\n1. Melakukan kegiatan kontrol standar parameter kualitas proses produksi\n2. Melakukan kegiatan inpeksi prosedur kerja dan instruksi kerja\n3. Melakukan kegiatan kontrol keselamatan kerja\n4. Melakukan kegiatan kontrol proses engineer",
@@ -2417,7 +2792,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 10,
-      "jumlah_terdaftar": 27,
+      "jumlah_terdaftar": 28,
       "program_studi": "[{\"id\":\"f233f939-8568-4d57-aea8-6d731e7b480d\",\"title\":\"Teknik Kimia\"},{\"id\":\"2fee5a6d-a685-4a85-911b-5aa7e4980851\",\"title\":\"Teknik Industri\"},{\"id\":\"03fa0c8f-47f8-4042-951a-a08e48aea3ac\",\"title\":\"Teknik Lingkungan\"},{\"id\":\"714be104-06d6-41e1-8b54-5bc8a3b39f7b\",\"title\":\"Teknik Keselamatan Dan Kesehatan Kerja\"},{\"id\":\"21442969-5763-4416-bb8d-56a80e55ada9\",\"title\":\"Teknik Mesin\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -2476,6 +2851,81 @@
       }
     },
     {
+      "id_posisi": "a03c0391-a31e-492a-9b5b-34794978178f",
+      "posisi": "Staff Operasional dan Distribusi Lapangan",
+      "deskripsi_posisi": "- Membantu penyampaian informasi dan publikasi kegiatan perusahaan kepada pihak internal maupun eksternal.\n- Menjalin dan menjaga hubungan baik dengan mitra, konsumen, serta instansi terkait melalui komunikasi yang sopan dan profesional.\n- Membantu penyusunan serta pendistribusian dokumen, surat resmi, dan materi publikasi perusahaan.\n- Melaksanakan kegiatan pendistribusian produk atau dokumen sesuai jadwal.\n- Memastikan setiap produk atau dokumen yang dikirim diterima dengan baik oleh pihak yang dituju serta menjaga ketepatan waktu pengantaran.\n- Melakukan pencatatan dan pelaporan hasil pendistribusian sebagai bentuk pertanggungjawaban kegiatan lapangan.\n- Berkoordinasi dengan bagian administrasi, logistik, dan komunikasi untuk memastikan kelancaran arus informasi dan distribusi.",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "c3c4b097-edc6-4992-ab2c-b6a2d3d9cd08",
+      "created_at": "2025-10-06 10:11:16",
+      "updated_at": "2025-10-29 10:46:58",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 10,
+      "jumlah_terdaftar": 7,
+      "program_studi": "[{\"id\":\"702dfd8b-b5b8-40fb-843b-4d503451b314\",\"title\":\"Ekonomi\"},{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"},{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"},{\"id\":\"e3668d6d-acab-4f65-8d20-262e73fe8f36\",\"title\":\"Manajemen Pemasaran\"},{\"id\":\"2fee5a6d-a685-4a85-911b-5aa7e4980851\",\"title\":\"Teknik Industri\"}]",
+      "jenjang": "[\"Diploma\",\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "c3c4b097-edc6-4992-ab2c-b6a2d3d9cd08",
+        "id_sumber_dana": null,
+        "id_perusahaan": "c1dc547a-e030-4788-b504-1a456b1ff6cb",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "c1dc547a-e030-4788-b504-1a456b1ff6cb",
+        "id_desa": null,
+        "nama_perusahaan": "Kalimaya Alunna Indonesia",
+        "deskripsi_perusahaan": null,
+        "alamat": "Perumda II Gergunung Gg. Anggrek No.62",
+        "logo": null,
+        "banner": null,
+        "created_at": "2025-10-06 10:11:16",
+        "updated_at": "2025-10-29 10:46:58",
+        "kode_kabupaten": "3372",
+        "nama_kabupaten": "KOTA SURAKARTA",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-11 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-14 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": null
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": null
+      }
+    },
+    {
       "id_posisi": "a0443676-5a5f-471c-a7d7-68d69a0cfc86",
       "posisi": "Perawat",
       "deskripsi_posisi": "Menjalankan Asuhan Keperawatan, pemantauan kondisi pasien, Administrasi keperawata, edukasi pasien, koordinasi dan kolaborasi, dan Pemeliharaan Kebersihan dan Keselamatan",
@@ -2492,7 +2942,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 10,
-      "jumlah_terdaftar": 3,
+      "jumlah_terdaftar": 2,
       "program_studi": "[{\"id\":\"74377bd7-0efe-4e39-aae1-c79cbb55fc2a\",\"title\":\"Ilmu Keperawatan\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -2567,7 +3017,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 10,
-      "jumlah_terdaftar": 24,
+      "jumlah_terdaftar": 28,
       "program_studi": "[{\"id\":\"f143ceae-2c51-40f5-aa92-831c8564b258\",\"title\":\"Manajemen Logistik\"},{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"},{\"id\":\"2fee5a6d-a685-4a85-911b-5aa7e4980851\",\"title\":\"Teknik Industri\"},{\"id\":\"efe8aadb-f7ed-42ab-b1cc-b94dc0862d13\",\"title\":\"Teknik Logistik\"},{\"id\":\"9d46d840-695e-4ecf-915c-ef58ebc36d9b\",\"title\":\"Administrasi Bisnis\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -2642,7 +3092,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 10,
-      "jumlah_terdaftar": 19,
+      "jumlah_terdaftar": 22,
       "program_studi": "[{\"id\":\"93594dd7-0c1d-48c0-8f50-fd4bfde199b3\",\"title\":\"Teknik Elektro\"},{\"id\":\"ea498c86-2eeb-4dc2-8844-f546e73a4aee\",\"title\":\"Teknik Komputer\"},{\"id\":\"151f4ff2-c4f7-4934-a27f-b3d877ea2c88\",\"title\":\"Rekayasa Sistem Komputer\"},{\"id\":\"04a4f53f-0b69-4219-8090-76e6e0c20940\",\"title\":\"Teknik Mekatronika\"},{\"id\":\"c22cf5fd-9748-45ec-b148-d98f5b9a2936\",\"title\":\"Teknik Robotika dan Kecerdasan Buatan\"}]",
       "jenjang": "[\"Sarjana\",\"Diploma\"]",
       "ref_status_posisi": {
@@ -2717,7 +3167,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 10,
-      "jumlah_terdaftar": 25,
+      "jumlah_terdaftar": 26,
       "program_studi": "[{\"id\":\"873c0570-903c-4f75-a456-7b28baf6ed4a\",\"title\":\"Hospitality dan Pariwisata\"},{\"id\":\"9889a8b6-d54b-41c7-b83b-f591a55ca812\",\"title\":\"Manajemen Perhotelan dan Pariwisata\"},{\"id\":\"43be1f0e-b279-448d-b448-5a53ec9c3ebd\",\"title\":\"Perhotelan\"},{\"id\":\"dec01280-1d49-4d62-85ed-4eac35bb3e2b\",\"title\":\"Pariwisata\"},{\"id\":\"626a759c-a7c3-4a90-98b6-6a8153fe346c\",\"title\":\"Manajemen Perhotelan\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -2792,7 +3242,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 10,
-      "jumlah_terdaftar": 202,
+      "jumlah_terdaftar": 207,
       "program_studi": "[{\"id\":\"44c12a8c-7a88-47ea-87fb-0e7202a1390d\",\"title\":\"Administrasi\"},{\"id\":\"c13ae920-a48f-4a7c-8c89-2b286a7fc225\",\"title\":\"Akuntansi\"},{\"id\":\"702dfd8b-b5b8-40fb-843b-4d503451b314\",\"title\":\"Ekonomi\"},{\"id\":\"fd3ebf70-4f4b-4dab-a7ab-ec31d20bd01b\",\"title\":\"Hukum\"},{\"id\":\"32ee6e1d-cec9-44a4-84d3-53ea4db85b9d\",\"title\":\"ILMU PEMERINTAHAN\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -2867,7 +3317,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 10,
-      "jumlah_terdaftar": 19,
+      "jumlah_terdaftar": 21,
       "program_studi": "[{\"id\":\"93594dd7-0c1d-48c0-8f50-fd4bfde199b3\",\"title\":\"Teknik Elektro\"},{\"id\":\"7c3c987b-edcc-46d6-9c49-80335db2542e\",\"title\":\"Teknik Biomedik\"},{\"id\":\"ea498c86-2eeb-4dc2-8844-f546e73a4aee\",\"title\":\"Teknik Komputer\"},{\"id\":\"2af76ee1-e45a-4c6b-8be2-c3aafb23d7c7\",\"title\":\"Elektronika Instrumentasi\"},{\"id\":\"151f4ff2-c4f7-4934-a27f-b3d877ea2c88\",\"title\":\"Rekayasa Sistem Komputer\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -2942,7 +3392,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 10,
-      "jumlah_terdaftar": 11,
+      "jumlah_terdaftar": 12,
       "program_studi": "[{\"id\":\"0866e43f-e96a-4f8c-91b1-5b33772f73ff\",\"title\":\"Teknik Listrik Industri\"},{\"id\":\"1e0d82f5-d29b-4542-b0ba-5e579c6f099f\",\"title\":\"Teknik Otomasi Industri\"},{\"id\":\"21442969-5763-4416-bb8d-56a80e55ada9\",\"title\":\"Teknik Mesin\"},{\"id\":\"4dd3d9d0-6f26-49c2-97d1-e97ced429b1e\",\"title\":\"Teknik Listrik\"},{\"id\":\"8b6ace77-5ccd-4376-a5bd-73366799e9b6\",\"title\":\"Teknik Elektronika\"}]",
       "jenjang": "[\"Sarjana\",\"Diploma\"]",
       "ref_status_posisi": {
@@ -3017,7 +3467,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 10,
-      "jumlah_terdaftar": 299,
+      "jumlah_terdaftar": 308,
       "program_studi": "[{\"id\":\"276643ca-999d-4f19-901c-d5d111941713\",\"title\":\"Administrasi BIsnis\"},{\"id\":\"892ba44f-bf94-4fc8-8813-8d755f917e77\",\"title\":\"Statistika Terapan dan Komputasi\"},{\"id\":\"fd3ebf70-4f4b-4dab-a7ab-ec31d20bd01b\",\"title\":\"Hukum\"},{\"id\":\"702dfd8b-b5b8-40fb-843b-4d503451b314\",\"title\":\"Ekonomi\"},{\"id\":\"9dfcaa37-a44b-4331-87ab-bd32dc1066cb\",\"title\":\"Desain Komunikasi Visual\"}]",
       "jenjang": "[\"Sarjana\",\"Diploma\"]",
       "ref_status_posisi": {
@@ -3167,7 +3617,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 10,
-      "jumlah_terdaftar": 19,
+      "jumlah_terdaftar": 20,
       "program_studi": "[{\"id\":\"2fee5a6d-a685-4a85-911b-5aa7e4980851\",\"title\":\"Teknik Industri\"},{\"id\":\"21442969-5763-4416-bb8d-56a80e55ada9\",\"title\":\"Teknik Mesin\"},{\"id\":\"92946e7d-846d-49cd-9bfa-896131c9c06d\",\"title\":\"Teknik Pembuatan Garmen\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -3242,7 +3692,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 10,
-      "jumlah_terdaftar": 17,
+      "jumlah_terdaftar": 16,
       "program_studi": "[{\"id\":\"0e32b9ee-95c1-4503-95b0-3ddad4c4b0fa\",\"title\":\"Tata Busana\"},{\"id\":\"234d6456-396d-4c54-9491-9caa0572fd15\",\"title\":\"Pendidikan Tata Busana\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -3392,7 +3842,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 10,
-      "jumlah_terdaftar": 70,
+      "jumlah_terdaftar": 72,
       "program_studi": "[{\"id\":\"2e30ba9d-39d8-4066-ae2d-d424376c9abf\",\"title\":\"Teknologi Penangkapan Ikan\"},{\"id\":\"5a621c1a-91c4-437b-a642-9dd52029d02e\",\"title\":\"Teknologi Dan Manajemen Perikanan Tangkap\"},{\"id\":\"33e56449-7c23-4f51-9250-b3ab05a16185\",\"title\":\"Pemanfaatan Sumberdaya Perikanan\"},{\"id\":\"38cbbc45-b07a-4445-b4a0-85e10e3f5980\",\"title\":\"Manajemen Sumber Daya Perairan\"},{\"id\":\"73dff254-d6d9-45a6-84e9-5bca4854af06\",\"title\":\"Permesinan Perikanan\"}]",
       "jenjang": "[\"Sarjana\",\"Diploma\"]",
       "ref_status_posisi": {
@@ -3542,7 +3992,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 10,
-      "jumlah_terdaftar": 33,
+      "jumlah_terdaftar": 30,
       "program_studi": "[{\"id\":\"44c12a8c-7a88-47ea-87fb-0e7202a1390d\",\"title\":\"Administrasi\"},{\"id\":\"c13ae920-a48f-4a7c-8c89-2b286a7fc225\",\"title\":\"Akuntansi\"},{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -3617,7 +4067,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 10,
-      "jumlah_terdaftar": 4,
+      "jumlah_terdaftar": 11,
       "program_studi": "[{\"id\":\"44c12a8c-7a88-47ea-87fb-0e7202a1390d\",\"title\":\"Administrasi\"},{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"},{\"id\":\"c13ae920-a48f-4a7c-8c89-2b286a7fc225\",\"title\":\"Akuntansi\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -3692,7 +4142,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 9,
-      "jumlah_terdaftar": 3,
+      "jumlah_terdaftar": 4,
       "program_studi": "[{\"id\":\"0e32b9ee-95c1-4503-95b0-3ddad4c4b0fa\",\"title\":\"Tata Busana\"},{\"id\":\"3e5aa23b-499f-4837-befc-9e907077c6df\",\"title\":\"Teknik Tekstil\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -3717,6 +4167,81 @@
         "updated_at": "2025-10-28 17:21:35",
         "kode_kabupaten": "3309",
         "nama_kabupaten": "KAB. BOYOLALI",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-11 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-14 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": null
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": null
+      }
+    },
+    {
+      "id_posisi": "a04cafdb-ae56-44a8-93e3-13ddff7f2464",
+      "posisi": "SOCIAL MEDIA SPECIALIST",
+      "deskripsi_posisi": "Mengelola, mengembangkan, dan mengoptimalkan media sosial perusahaan untuk meningkatkan engagement, awareness, dan konversi.\n\nTugas dan Tanggung Jawab:\nMembuat strategi konten sesuai target audiens dan tren terkini.\nMengelola akun media sosial (Instagram, Facebook, TikTok, YouTube, dsb).\nMembuat caption, konsep visual, serta jadwal posting.\nMemantau insight, menganalisis performa konten, dan membuat laporan bulanan.\nBerkolaborasi dengan tim desain dan marketing untuk kampanye digital.\n\nKualifikasi:\nMinimal pendidikan D3/S1 di bidang Komunikasi, Marketing, Desain, atau sejenisnya.\nMenguasai copywriting dan pembuatan konten digital.\nPaham algoritma dan tren media sosial terkini.\nKreatif, komunikatif, dan terbiasa dengan target.",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "7a7f011a-1d89-437e-8150-6193ab5bef60",
+      "created_at": "2025-11-05 18:26:41",
+      "updated_at": "2025-11-05 18:38:34",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 9,
+      "jumlah_terdaftar": 0,
+      "program_studi": "[{\"id\":\"2c1f894d-16df-471c-abe7-6939d132c6b0\",\"title\":\"Komunikasi\"},{\"id\":\"e12302ac-c8dc-4d0a-90a7-402f6fafd27e\",\"title\":\"Manajemen Pemasaran\\/Marketing\"},{\"id\":\"e90b7fe8-f4a5-4a1c-85f8-e929004b29e1\",\"title\":\"Desain Grafis\"},{\"id\":\"e2843b4a-1c93-44b9-bafd-c667c91efd9c\",\"title\":\"Desain Media\"}]",
+      "jenjang": "[\"Diploma\",\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "7a7f011a-1d89-437e-8150-6193ab5bef60",
+        "id_sumber_dana": null,
+        "id_perusahaan": "c49c9f26-b836-47ef-8ad9-48e8e9d9b57e",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "c49c9f26-b836-47ef-8ad9-48e8e9d9b57e",
+        "id_desa": null,
+        "nama_perusahaan": "Kuasa Triehans Semesta",
+        "deskripsi_perusahaan": null,
+        "alamat": "JALAN YOS SUDARSO KOMPLEKS ISLAMIC CENTRE BREBES BLOK SAPPHIRE NOMOR 07",
+        "logo": "https://wlkp-assets.kemnaker.go.id/companies/cd191df5-ce57-4ce5-92df-7def480f9fcd/690b1fc01b3bc.png",
+        "banner": "https://wlkp-assets.kemnaker.go.id/companies/cd191df5-ce57-4ce5-92df-7def480f9fcd/690b1fcd53100.jpeg",
+        "created_at": "2025-11-05 18:26:41",
+        "updated_at": "2025-11-05 18:38:34",
+        "kode_kabupaten": "3329",
+        "nama_kabupaten": "KAB. BREBES",
         "kode_provinsi": "33",
         "nama_provinsi": "JAWA TENGAH"
       },
@@ -3917,7 +4442,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 8,
-      "jumlah_terdaftar": 31,
+      "jumlah_terdaftar": 32,
       "program_studi": "[{\"id\":\"a4cd875c-c20b-42d9-a4da-a634722d42b9\",\"title\":\"Teknik Sipil\"},{\"id\":\"b1d47991-f9e7-47c4-8e42-317b52b4d330\",\"title\":\"Ilmu Hukum\"},{\"id\":\"e90b7fe8-f4a5-4a1c-85f8-e929004b29e1\",\"title\":\"Desain Grafis\"},{\"id\":\"03b570a2-c678-4413-aa47-bfed8308fac5\",\"title\":\"Teknik Informatika\"},{\"id\":\"37972e05-4e53-4f9d-beb1-a301de6a2572\",\"title\":\"Akuntansi Keuangan\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -4217,7 +4742,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 8,
-      "jumlah_terdaftar": 64,
+      "jumlah_terdaftar": 68,
       "program_studi": "[{\"id\":\"44c12a8c-7a88-47ea-87fb-0e7202a1390d\",\"title\":\"Administrasi\"},{\"id\":\"c13ae920-a48f-4a7c-8c89-2b286a7fc225\",\"title\":\"Akuntansi\"},{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"},{\"id\":\"e12302ac-c8dc-4d0a-90a7-402f6fafd27e\",\"title\":\"Manajemen Pemasaran\\/Marketing\"},{\"id\":\"9d46d840-695e-4ecf-915c-ef58ebc36d9b\",\"title\":\"Administrasi Bisnis\"}]",
       "jenjang": "[\"Sarjana\",\"Diploma\"]",
       "ref_status_posisi": {
@@ -4292,7 +4817,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 8,
-      "jumlah_terdaftar": 131,
+      "jumlah_terdaftar": 137,
       "program_studi": "[{\"id\":\"44c12a8c-7a88-47ea-87fb-0e7202a1390d\",\"title\":\"Administrasi\"},{\"id\":\"702dfd8b-b5b8-40fb-843b-4d503451b314\",\"title\":\"Ekonomi\"},{\"id\":\"2c1f894d-16df-471c-abe7-6939d132c6b0\",\"title\":\"Komunikasi\"},{\"id\":\"9dfcaa37-a44b-4331-87ab-bd32dc1066cb\",\"title\":\"Desain Komunikasi Visual\"},{\"id\":\"2c019b50-943b-44d2-b6e3-167c77a71302\",\"title\":\"Teknika\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -4367,7 +4892,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 8,
-      "jumlah_terdaftar": 44,
+      "jumlah_terdaftar": 45,
       "program_studi": "[{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"},{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"},{\"id\":\"92f5f89b-dc4d-44ec-b562-f3f67116aa3a\",\"title\":\"Hubungan Internasional\"},{\"id\":\"8631f68c-a0f0-4758-9251-a62190209909\",\"title\":\"Hubungan Masyarakat\"},{\"id\":\"3e1f167b-ac1f-4208-b1f7-ff2244791c64\",\"title\":\"Psikologi\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -4442,7 +4967,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 8,
-      "jumlah_terdaftar": 56,
+      "jumlah_terdaftar": 65,
       "program_studi": "[{\"id\":\"59679f7e-6b7d-4dc3-a773-6275ad7d2405\",\"title\":\"Kebidanan\"},{\"id\":\"91fd0149-3c12-43b9-ada5-7d7274f3a063\",\"title\":\"kebidanan\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -4517,7 +5042,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 8,
-      "jumlah_terdaftar": 31,
+      "jumlah_terdaftar": 34,
       "program_studi": "[{\"id\":\"56c79c03-f7a5-4a3c-905b-4a19f91808cd\",\"title\":\"Perjalanan Wisata\"},{\"id\":\"43be1f0e-b279-448d-b448-5a53ec9c3ebd\",\"title\":\"Perhotelan\"},{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"},{\"id\":\"ab4266f3-7655-4e0b-ada0-4fe089741849\",\"title\":\"Biologi\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -4667,7 +5192,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 8,
-      "jumlah_terdaftar": 93,
+      "jumlah_terdaftar": 90,
       "program_studi": "[{\"id\":\"1b10c018-7e0a-4f55-9d0d-07ffdbc1b12b\",\"title\":\"Keperawatan\"}]",
       "jenjang": "[\"Diploma\"]",
       "ref_status_posisi": {
@@ -4801,6 +5326,81 @@
       }
     },
     {
+      "id_posisi": "a04cae0b-63f1-4e81-b5ee-2cd583df5a88",
+      "posisi": "ADMINISTRASI (ADMIN)",
+      "deskripsi_posisi": "Bertanggung jawab atas pengelolaan data, dokumen, dan kegiatan administrasi perusahaan agar berjalan tertib dan efisien.\n\nTugas dan Tanggung Jawab:\nMengelola arsip dan dokumen perusahaan.\nMembuat laporan harian, mingguan, dan bulanan.\nMembantu koordinasi antar divisi dan memastikan alur kerja berjalan lancar.\nMelayani kebutuhan administrasi internal dan eksternal.\nMengoperasikan aplikasi perkantoran seperti Word, Excel, dan Google Workspace.\n\nKualifikasi:\nPendidikan D3/S1 (Diutamakan Administrasi, Manajemen, atau Akuntansi).\nMenguasai Microsoft Office dan komputer dasar.\nTeliti, rapi, jujur, dan bertanggung jawab.\nMemiliki kemampuan komunikasi yang baik.\nMampu bekerja dalam tim maupun secara mandiri.",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "7a7f011a-1d89-437e-8150-6193ab5bef60",
+      "created_at": "2025-11-05 18:26:41",
+      "updated_at": "2025-11-05 18:38:34",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 8,
+      "jumlah_terdaftar": 3,
+      "program_studi": "[{\"id\":\"44c12a8c-7a88-47ea-87fb-0e7202a1390d\",\"title\":\"Administrasi\"},{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"},{\"id\":\"c13ae920-a48f-4a7c-8c89-2b286a7fc225\",\"title\":\"Akuntansi\"}]",
+      "jenjang": "[\"Diploma\",\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "7a7f011a-1d89-437e-8150-6193ab5bef60",
+        "id_sumber_dana": null,
+        "id_perusahaan": "c49c9f26-b836-47ef-8ad9-48e8e9d9b57e",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "c49c9f26-b836-47ef-8ad9-48e8e9d9b57e",
+        "id_desa": null,
+        "nama_perusahaan": "Kuasa Triehans Semesta",
+        "deskripsi_perusahaan": null,
+        "alamat": "JALAN YOS SUDARSO KOMPLEKS ISLAMIC CENTRE BREBES BLOK SAPPHIRE NOMOR 07",
+        "logo": "https://wlkp-assets.kemnaker.go.id/companies/cd191df5-ce57-4ce5-92df-7def480f9fcd/690b1fc01b3bc.png",
+        "banner": "https://wlkp-assets.kemnaker.go.id/companies/cd191df5-ce57-4ce5-92df-7def480f9fcd/690b1fcd53100.jpeg",
+        "created_at": "2025-11-05 18:26:41",
+        "updated_at": "2025-11-05 18:38:34",
+        "kode_kabupaten": "3329",
+        "nama_kabupaten": "KAB. BREBES",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-11 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-14 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": null
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": null
+      }
+    },
+    {
       "id_posisi": "a04cde8d-6d9c-46b1-b44b-b43498254b7f",
       "posisi": "Asisten Apoteker",
       "deskripsi_posisi": "Melaksanakan penyiapan pekerjaan kefarmasian yang meliputi penyiapan pengelolaan perbekalan farmasi dan pelayanan farmasi klinik sesuai dengan petunjuk kerja dan arahan pimpinan dalam melaksanakan penyiapan pelayanan kefarmasian",
@@ -4817,7 +5417,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 8,
-      "jumlah_terdaftar": 4,
+      "jumlah_terdaftar": 9,
       "program_studi": "[{\"id\":\"4f53bef4-5310-443b-82bc-1e99f1f2ef08\",\"title\":\"Farmasi\"}]",
       "jenjang": "[\"Diploma\"]",
       "ref_status_posisi": {
@@ -4876,6 +5476,81 @@
       }
     },
     {
+      "id_posisi": "a04e5947-6dec-4ebd-a3b8-fd7d7ce0effb",
+      "posisi": "SOCIAL MEDIA SPECIALIST",
+      "deskripsi_posisi": "Mengelola, mengembangkan, dan mengoptimalkan media sosial perusahaan untuk meningkatkan engagement, awareness, dan konversi.\n\nTugas dan Tanggung Jawab:\nMembuat strategi konten sesuai target audiens dan tren terkini.\nMengelola akun media sosial (Instagram, Facebook, TikTok, YouTube, dsb).\nMembuat caption, konsep visual, serta jadwal posting.\nMemantau insight, menganalisis performa konten, dan membuat laporan bulanan.\nBerkolaborasi dengan tim desain dan marketing untuk kampanye digital.\n\nKualifikasi:\nMinimal pendidikan D3/S1 di bidang Komunikasi, Marketing, Desain, atau sejenisnya.\nMenguasai copywriting dan pembuatan konten digital.\nPaham algoritma dan tren media sosial terkini.\nKreatif, komunikatif, dan terbiasa dengan target.",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "2f755b47-b0fc-4c9c-bc6b-5168abe4cde2",
+      "created_at": "2025-11-08 13:20:31",
+      "updated_at": "2025-11-08 13:26:41",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 8,
+      "jumlah_terdaftar": 0,
+      "program_studi": "[{\"id\":\"2c1f894d-16df-471c-abe7-6939d132c6b0\",\"title\":\"Komunikasi\"},{\"id\":\"9808ccda-82eb-47cd-a2e5-78d6baf95192\",\"title\":\"Pemasaran Digital\"},{\"id\":\"e2843b4a-1c93-44b9-bafd-c667c91efd9c\",\"title\":\"Desain Media\"},{\"id\":\"e90b7fe8-f4a5-4a1c-85f8-e929004b29e1\",\"title\":\"Desain Grafis\"}]",
+      "jenjang": "[\"Diploma\",\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "2f755b47-b0fc-4c9c-bc6b-5168abe4cde2",
+        "id_sumber_dana": null,
+        "id_perusahaan": "692071db-acb5-441a-9685-a091cd4b1574",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "692071db-acb5-441a-9685-a091cd4b1574",
+        "id_desa": null,
+        "nama_perusahaan": "Kinarya Surya Utama",
+        "deskripsi_perusahaan": null,
+        "alamat": "Jalan KH Ahmad Dahlan Nomor 72",
+        "logo": "https://wlkp-assets.kemnaker.go.id/companies/478cb927-1916-4f06-90c2-2f7cf9b6a4d0/690ee064e1fa8.png",
+        "banner": "https://wlkp-assets.kemnaker.go.id/companies/478cb927-1916-4f06-90c2-2f7cf9b6a4d0/690ee06dcc924.png",
+        "created_at": "2025-11-08 13:20:31",
+        "updated_at": "2025-11-08 13:26:41",
+        "kode_kabupaten": "3329",
+        "nama_kabupaten": "KAB. BREBES",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-11 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-14 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": null
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": null
+      }
+    },
+    {
       "id_posisi": "a03969c9-8b42-4243-9f2f-d432467d7df1",
       "posisi": "Desain Pola",
       "deskripsi_posisi": "Perancangan, pembuatan prototipe (pola kertas), dan penyesuaian pola agar sesuai dengan ukuran, bahan, dan desain yang diinginkan. Tugas ini dimulai dari menerjemahkan sketsa desain menjadi pola teknis, lalu membuat pola yang akurat sebagai templat untuk memotong kain dengan presisi tinggi untuk menghasilkan pakaian yang pas dan berkualitas",
@@ -4892,7 +5567,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 7,
-      "jumlah_terdaftar": 12,
+      "jumlah_terdaftar": 13,
       "program_studi": "[{\"id\":\"fd3ebf70-4f4b-4dab-a7ab-ec31d20bd01b\",\"title\":\"Hukum\"},{\"id\":\"7bb8aae0-80b9-4920-8b3b-ef71a17e47be\",\"title\":\"Pendidikan Kepelatihan Olah Raga\"},{\"id\":\"c11dd7f8-c590-4d43-98e3-18f29fd4fae0\",\"title\":\"Pendidikan Jasmani Kesehatan & Rekreasi\"},{\"id\":\"78cd38b3-4f9f-45bf-8648-a9a5ca1135cd\",\"title\":\"Sejarah\"},{\"id\":\"6cc338db-15f6-4a30-a320-1605e01bb828\",\"title\":\"Pendidikan Guru Sekolah Dasar (PGSD)\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -4967,7 +5642,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 7,
-      "jumlah_terdaftar": 46,
+      "jumlah_terdaftar": 45,
       "program_studi": "[{\"id\":\"2fee5a6d-a685-4a85-911b-5aa7e4980851\",\"title\":\"Teknik Industri\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -5042,7 +5717,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 7,
-      "jumlah_terdaftar": 15,
+      "jumlah_terdaftar": 16,
       "program_studi": "[{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"},{\"id\":\"e3668d6d-acab-4f65-8d20-262e73fe8f36\",\"title\":\"Manajemen Pemasaran\"},{\"id\":\"f143ceae-2c51-40f5-aa92-831c8564b258\",\"title\":\"Manajemen Logistik\"},{\"id\":\"702dfd8b-b5b8-40fb-843b-4d503451b314\",\"title\":\"Ekonomi\"},{\"id\":\"1f689063-dea5-4f2d-9f81-f6bbc67aaf54\",\"title\":\"Teknik  Industri\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -5117,7 +5792,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 7,
-      "jumlah_terdaftar": 12,
+      "jumlah_terdaftar": 14,
       "program_studi": "[{\"id\":\"353f2b75-6879-4191-852b-670f6f1e098e\",\"title\":\"Teknologi Pangan\"},{\"id\":\"f2f8893d-eba4-406e-926f-b372a599ee08\",\"title\":\"Agribisnis\"},{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"},{\"id\":\"1f689063-dea5-4f2d-9f81-f6bbc67aaf54\",\"title\":\"Teknik  Industri\"},{\"id\":\"26b331e7-f48b-45d6-8aca-06d4168ea230\",\"title\":\"Teknologi Pertanian\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -5192,7 +5867,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 7,
-      "jumlah_terdaftar": 125,
+      "jumlah_terdaftar": 127,
       "program_studi": "[{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"},{\"id\":\"62a8013c-575a-4abb-889f-8128eb259936\",\"title\":\"Bahasa Inggris\"},{\"id\":\"dec01280-1d49-4d62-85ed-4eac35bb3e2b\",\"title\":\"Pariwisata\"},{\"id\":\"c4b284d8-0e5a-4917-bfd6-8a0b9b60c903\",\"title\":\"Manajemen Transportasi Udara\"},{\"id\":\"30292e7c-dc82-4156-852d-5a98d2fa3d38\",\"title\":\"Manajemen Bandar Udara\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -5342,7 +6017,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 7,
-      "jumlah_terdaftar": 39,
+      "jumlah_terdaftar": 40,
       "program_studi": "[{\"id\":\"59679f7e-6b7d-4dc3-a773-6275ad7d2405\",\"title\":\"Kebidanan\"}]",
       "jenjang": "[\"Diploma\"]",
       "ref_status_posisi": {
@@ -5492,7 +6167,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 7,
-      "jumlah_terdaftar": 29,
+      "jumlah_terdaftar": 30,
       "program_studi": "[{\"id\":\"2fee5a6d-a685-4a85-911b-5aa7e4980851\",\"title\":\"Teknik Industri\"},{\"id\":\"1bdf95aa-c48f-485d-8c7a-bb28356ae590\",\"title\":\"Teknik Produksi dan Proses Manufaktur\"},{\"id\":\"275bb92a-f5fa-485f-bf0c-5c0e9d4500d7\",\"title\":\"Manajemen Sumber Daya Manusia\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -5567,7 +6242,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 7,
-      "jumlah_terdaftar": 9,
+      "jumlah_terdaftar": 13,
       "program_studi": "[{\"id\":\"2e30ba9d-39d8-4066-ae2d-d424376c9abf\",\"title\":\"Teknologi Penangkapan Ikan\"},{\"id\":\"5a621c1a-91c4-437b-a642-9dd52029d02e\",\"title\":\"Teknologi Dan Manajemen Perikanan Tangkap\"},{\"id\":\"54f2f889-b4c8-4fb8-89c1-13d0f0b678f2\",\"title\":\"Pemanfaatan Sumber Daya Perikanan\"},{\"id\":\"38cbbc45-b07a-4445-b4a0-85e10e3f5980\",\"title\":\"Manajemen Sumber Daya Perairan\"},{\"id\":\"73dff254-d6d9-45a6-84e9-5bca4854af06\",\"title\":\"Permesinan Perikanan\"}]",
       "jenjang": "[\"Sarjana\",\"Diploma\"]",
       "ref_status_posisi": {
@@ -5792,7 +6467,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 6,
-      "jumlah_terdaftar": 16,
+      "jumlah_terdaftar": 15,
       "program_studi": "[{\"id\":\"29828497-eb35-4007-a024-9ba85712a0d2\",\"title\":\"Pendidikan Teknik Elektro\"},{\"id\":\"93594dd7-0c1d-48c0-8f50-fd4bfde199b3\",\"title\":\"Teknik Elektro\"},{\"id\":\"ad2a0508-9010-45b1-8655-fb0ab798b5ee\",\"title\":\"Teknik Elektro Industri\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -5867,7 +6542,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 6,
-      "jumlah_terdaftar": 7,
+      "jumlah_terdaftar": 6,
       "program_studi": "[{\"id\":\"4cbe2e55-0952-43f7-8d3d-f53ed8dfc92a\",\"title\":\"Akuntansi Bisnis Digital\"}]",
       "jenjang": "[\"Diploma\"]",
       "ref_status_posisi": {
@@ -5942,7 +6617,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 6,
-      "jumlah_terdaftar": 0,
+      "jumlah_terdaftar": 1,
       "program_studi": "[{\"id\":\"dec01280-1d49-4d62-85ed-4eac35bb3e2b\",\"title\":\"Pariwisata\"}]",
       "jenjang": "[\"Diploma\"]",
       "ref_status_posisi": {
@@ -6092,7 +6767,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 6,
-      "jumlah_terdaftar": 47,
+      "jumlah_terdaftar": 50,
       "program_studi": "[{\"id\":\"c13ae920-a48f-4a7c-8c89-2b286a7fc225\",\"title\":\"Akuntansi\"},{\"id\":\"d5d70731-4169-42b2-90ba-028f85f4798e\",\"title\":\"Manajemen Informatika\"},{\"id\":\"03b570a2-c678-4413-aa47-bfed8308fac5\",\"title\":\"Teknik Informatika\"},{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"},{\"id\":\"112d50ec-5feb-4a3f-828e-f024b4d0438d\",\"title\":\"Akuntansi Manajemen\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -6301,6 +6976,81 @@
       }
     },
     {
+      "id_posisi": "a04856c1-cb75-42b5-9944-4fb0f1eef05e",
+      "posisi": "Cook",
+      "deskripsi_posisi": "Mempersiapkan makanan dengan cara memotong, memotong dadu, mengiris, mengukur dan mengatur\nMencampur bahan-bahan sesuai dengan resep yang dibuat oleh koki eksekutif atau manajemen restoran\nMengakomodasi alergi makanan pelanggan atau permintaan penggantian\nMenambahkan hiasan atau barang dekoratif ke hidangan\nMenjaga dapur tetap bersih dan higienis\nMemeriksa inventaris makanan dan mengisi kembali barang sesuai kebutuhan",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "c629fdc2-399e-4df8-a6bb-c8114c2150a1",
+      "created_at": "2025-11-05 10:32:27",
+      "updated_at": "2025-11-05 17:16:25",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 6,
+      "jumlah_terdaftar": 0,
+      "program_studi": "[{\"id\":\"ec875251-11f8-48c2-af78-cb9da3a6a741\",\"title\":\"Pendidikan Vokasional Seni Kuliner\"},{\"id\":\"62330947-6ad4-45fe-96c3-475d04150d05\",\"title\":\"Seni Kuliner\"},{\"id\":\"1637be2b-6ceb-43e8-b992-9c1fbed835fa\",\"title\":\"Seni Kuliner dan Pengelolaan Jasa Makanan\"}]",
+      "jenjang": "[\"Diploma\",\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "c629fdc2-399e-4df8-a6bb-c8114c2150a1",
+        "id_sumber_dana": null,
+        "id_perusahaan": "64a552b6-8f4e-4fb3-9ee5-bb660dc6ca72",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "64a552b6-8f4e-4fb3-9ee5-bb660dc6ca72",
+        "id_desa": null,
+        "nama_perusahaan": "Taman Safari Indonesia",
+        "deskripsi_perusahaan": null,
+        "alamat": "Jl. Pantai Sigandu – Ujungnegoro Desa Klidang Lor dan atau Desa Depok",
+        "logo": null,
+        "banner": null,
+        "created_at": "2025-11-05 10:32:27",
+        "updated_at": "2025-11-05 17:16:25",
+        "kode_kabupaten": "3325",
+        "nama_kabupaten": "KAB. BATANG",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-11 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-14 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": null
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": null
+      }
+    },
+    {
       "id_posisi": "a04be68f-4c84-4191-abc0-bb33114ad50c",
       "posisi": "Staff Mekanik",
       "deskripsi_posisi": "Merencananakan perawatan dan perbaikan mesin Mengawasi perawatan dan perbaikan mesin Membersihkan bagian mesin Memeriksa bagian mesin Melakukan penyetelan bagian mesin Melakukan penggantian mesin dan komponen Melakukan Perbaikan berkesinambungan proses produksi",
@@ -6317,7 +7067,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 6,
-      "jumlah_terdaftar": 6,
+      "jumlah_terdaftar": 7,
       "program_studi": "[{\"id\":\"21442969-5763-4416-bb8d-56a80e55ada9\",\"title\":\"Teknik Mesin\"},{\"id\":\"2be07689-5c0a-4a1c-8ce5-d9132f31c1b4\",\"title\":\"Pendidikan Vokasional Teknik Mesin\"},{\"id\":\"0ca14ee7-a3c3-4096-a777-505f62932165\",\"title\":\"Teknik Mesin dan Manufaktur\"},{\"id\":\"93594dd7-0c1d-48c0-8f50-fd4bfde199b3\",\"title\":\"Teknik Elektro\"},{\"id\":\"04a4f53f-0b69-4219-8090-76e6e0c20940\",\"title\":\"Teknik Mekatronika\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -6392,7 +7142,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 6,
-      "jumlah_terdaftar": 6,
+      "jumlah_terdaftar": 13,
       "program_studi": "[{\"id\":\"62a8013c-575a-4abb-889f-8128eb259936\",\"title\":\"Bahasa Inggris\"},{\"id\":\"5a1ed582-2e67-48bc-8cd8-09eecc170787\",\"title\":\"Pendidikan  Bahasa Inggris\"},{\"id\":\"be34ecce-4cdc-4f21-8ce1-50a4205aef13\",\"title\":\"Bahasa Inggris Untuk Komunikasi Bisnis Dan Profesional\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -6448,6 +7198,231 @@
       },
       "sub_government_agency": {
         "sub_government_agency_name": "PIP Semarang"
+      }
+    },
+    {
+      "id_posisi": "a0525f14-a923-4b38-9f55-498a42eea2da",
+      "posisi": "Pembina Kepribadian",
+      "deskripsi_posisi": "1.  Menyusun  dan  melaksanakan  program pembinaan karakter warga binaan. \n2. Melatih  keterampilan  komunikasi  dan pengendalian diri.\n3. Melakukan  evaluasi  hasil  pembinaan kepribadian.\n4. Menyusun laporan perkembangan individu. \n5. Melatih warga binaan dalam keterampilan kerja dan kewirausahaan.\n6. Menyusun jadwal dan materi pelatihan kerja. \n7.  Melakukan pendampingan  selama  praktik kerja.\n8. Mengevaluasi kemampuan dan kesiapan kerja",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "2c8b293e-9f47-45a6-b477-8fe12c48f395",
+      "created_at": "2025-11-10 10:17:52",
+      "updated_at": "2025-11-10 10:17:52",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 6,
+      "jumlah_terdaftar": 2,
+      "program_studi": "[{\"id\":\"0bc0e2c9-9c10-4bf4-be94-fbe6c480968f\",\"title\":\"Pendidikan AGama Islam\"},{\"id\":\"a3448135-1037-4f9a-b201-5f0e6ae32211\",\"title\":\"Seni Tari\"},{\"id\":\"b3f66ecf-b894-4716-906e-a61feaef621b\",\"title\":\"Seni Musik\"},{\"id\":\"6107d202-63c7-4740-ba37-e422caef7e3f\",\"title\":\"Ilmu Pertanian\"},{\"id\":\"16744e3c-4bf9-4987-a672-99b61d86ea23\",\"title\":\"Budidaya  Perikanan Air Tawar\"}]",
+      "jenjang": "[\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "2c8b293e-9f47-45a6-b477-8fe12c48f395",
+        "id_sumber_dana": null,
+        "id_perusahaan": "6e69cc98-729e-4107-b6f7-7698ec01b535",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "6e69cc98-729e-4107-b6f7-7698ec01b535",
+        "id_desa": null,
+        "nama_perusahaan": "RUMAH TAHANAN NEGARA KELAS IIB BANYUMAS",
+        "deskripsi_perusahaan": null,
+        "alamat": "Jl. Alun-alun Banyumas No. 2 Sudagaran, Kecamatan Banyumas, Kab. Banyumas",
+        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/MYKeG9DLfKWi2LAP7FiFOiF5iXfyCD7PuR6s73OL.jpg",
+        "banner": null,
+        "created_at": "2025-11-10 10:17:52",
+        "updated_at": "2025-11-10 10:17:52",
+        "kode_kabupaten": "3302",
+        "nama_kabupaten": "KAB. BANYUMAS",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-11 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-14 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": "RUMAH TAHANAN NEGARA KELAS IIB BANYUMAS"
+      }
+    },
+    {
+      "id_posisi": "a0526bb9-ece8-4fb9-b30c-f1605de70f68",
+      "posisi": "Pengawas Transportasi Perkeretaapian",
+      "deskripsi_posisi": "Melaksanakan pengujian teknis terhadap sarana perkeretaapian (lokomotif, gerbong, kereta) untuk memastikan kelaikan operasi dan keselamatan sesuai dengan standar teknis dan regulasi yang berlaku.\nMelaksanakan pemeriksaan, perawatan, dan perbaikan prasarana perkeretaapian (jalur rel, jembatan, stasiun) untuk menjaga kondisi teknis dan kelaikan jalan prasarana.",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "660ab2e7-6a99-4773-9cb4-7bf0951da6b4",
+      "created_at": "2025-11-10 14:02:07",
+      "updated_at": "2025-11-10 14:02:07",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 6,
+      "jumlah_terdaftar": 13,
+      "program_studi": "[{\"id\":\"21442969-5763-4416-bb8d-56a80e55ada9\",\"title\":\"Teknik Mesin\"},{\"id\":\"a4cd875c-c20b-42d9-a4da-a634722d42b9\",\"title\":\"Teknik Sipil\"},{\"id\":\"93594dd7-0c1d-48c0-8f50-fd4bfde199b3\",\"title\":\"Teknik Elektro\"}]",
+      "jenjang": "[\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "660ab2e7-6a99-4773-9cb4-7bf0951da6b4",
+        "id_sumber_dana": null,
+        "id_perusahaan": "2eea5b4d-722f-4813-8dd9-a462690a9850",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "2eea5b4d-722f-4813-8dd9-a462690a9850",
+        "id_desa": null,
+        "nama_perusahaan": "Balai Teknik Perkeretaapian Kelas I Semarang",
+        "deskripsi_perusahaan": null,
+        "alamat": "Jl. Prambanan Barat Raya no 1A Ngaliyan Semarang",
+        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/PTGvS4kpo9gmbEoQSW5tRPA083TOTTlHm3N3fDC0.jpg",
+        "banner": null,
+        "created_at": "2025-11-10 14:02:07",
+        "updated_at": "2025-11-10 14:02:07",
+        "kode_kabupaten": "3374",
+        "nama_kabupaten": "KOTA SEMARANG",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-11 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-14 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": "Kementerian Perhubungan"
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": "Balai Teknik Perkeretaapian Kelas I Semarang"
+      }
+    },
+    {
+      "id_posisi": "a0527635-39a0-4748-8f75-9028336c2faa",
+      "posisi": "PENGELOLA DAN PENYUSUN LAPORAN",
+      "deskripsi_posisi": "1. Mengumpulkan data dari unit kerja untuk disusun menjaadi laporan kegiatan.\n2. Memeriksa kelengkapan dan akurasi data laporan.\n3. Membuat ringkasan hasil kegiatan atau program.\n4. Menyusun laporan akhir untuk pimpinan.",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "a80dc475-82f4-4c87-a1b6-defba29a7236",
+      "created_at": "2025-11-10 09:49:51",
+      "updated_at": "2025-11-10 09:49:51",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 6,
+      "jumlah_terdaftar": 4,
+      "program_studi": "[{\"id\":\"fd3ebf70-4f4b-4dab-a7ab-ec31d20bd01b\",\"title\":\"Hukum\"},{\"id\":\"b725ac52-6009-47c6-a349-3c15a8dc9141\",\"title\":\"Ilmu Politik\"}]",
+      "jenjang": "[\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "a80dc475-82f4-4c87-a1b6-defba29a7236",
+        "id_sumber_dana": null,
+        "id_perusahaan": "d8c9c134-903e-41de-abbd-410aafa2b62a",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "d8c9c134-903e-41de-abbd-410aafa2b62a",
+        "id_desa": null,
+        "nama_perusahaan": "KANIM KELAS II NON TPI WONOSOBO",
+        "deskripsi_perusahaan": null,
+        "alamat": "Jl. Raya Banyumas KM 5,5, Selomerto, Kradenan, Selomerto, Kec. Selomerto, Kabupaten Wonosobo, Jawa Tengah 56361",
+        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/YEXaac8es3On5cnERvCU1AEffGoOAx31xTFTeKUH.jpg",
+        "banner": null,
+        "created_at": "2025-11-10 09:49:51",
+        "updated_at": "2025-11-10 09:49:51",
+        "kode_kabupaten": "3307",
+        "nama_kabupaten": "KAB. WONOSOBO",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-11 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-14 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": "KANIM KELAS II NON TPI WONOSOBO"
       }
     },
     {
@@ -6524,981 +7499,6 @@
       "sub_government_agency": {
         "sub_government_agency_name": null
       }
-    },
-    {
-      "id_posisi": "a0367445-74a9-464a-bfd3-cc11aeb0aae7",
-      "posisi": "Divisi Marketing",
-      "deskripsi_posisi": "Divisi ini berfokus pada perencanaan strategi pemasaran, riset pasar, branding, dan komunikasi pelanggan. Peserta akan belajar menyusun strategi promosi, menganalisis tren pasar, serta mengukur efektivitas kampanye marketing.",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "fbb49871-c67c-4e28-ac88-f02ebc7b39bb",
-      "created_at": "2025-10-13 13:43:02",
-      "updated_at": "2025-11-06 16:24:23",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 5,
-      "jumlah_terdaftar": 14,
-      "program_studi": "[{\"id\":\"e3668d6d-acab-4f65-8d20-262e73fe8f36\",\"title\":\"Manajemen Pemasaran\"},{\"id\":\"276643ca-999d-4f19-901c-d5d111941713\",\"title\":\"Administrasi BIsnis\"},{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"},{\"id\":\"e12302ac-c8dc-4d0a-90a7-402f6fafd27e\",\"title\":\"Manajemen Pemasaran\\/Marketing\"},{\"id\":\"8631f68c-a0f0-4758-9251-a62190209909\",\"title\":\"Hubungan Masyarakat\"}]",
-      "jenjang": "[\"Diploma\",\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "fbb49871-c67c-4e28-ac88-f02ebc7b39bb",
-        "id_sumber_dana": null,
-        "id_perusahaan": "b2e02eb2-69a2-41a5-8a62-06118180592e",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "b2e02eb2-69a2-41a5-8a62-06118180592e",
-        "id_desa": null,
-        "nama_perusahaan": "Bersama Edukarya Juara",
-        "deskripsi_perusahaan": null,
-        "alamat": "DUSUN NGRIGO RT 009 /RW 003",
-        "logo": null,
-        "banner": null,
-        "created_at": "2025-10-13 13:43:02",
-        "updated_at": "2025-11-06 16:24:23",
-        "kode_kabupaten": "3374",
-        "nama_kabupaten": "KOTA SEMARANG",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-11 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-14 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": null
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": null
-      }
-    },
-    {
-      "id_posisi": "a039debd-168a-4aa6-acec-79b39121e772",
-      "posisi": "PRODUKSI",
-      "deskripsi_posisi": "Staff Produksi bertanggung jawab memastikan proses produksi berjalan lancar sesuai target, standar kualitas, dan prosedur perusahaan. Tugasnya meliputi memantau jalannya produksi, mengontrol penggunaan bahan baku, menjaga kualitas produk, serta melaporkan hasil produksi harian. Selain itu, Staff Produksi berkoordinasi dengan departemen terkait untuk kelancaran operasional, menjaga kebersihan dan keselamatan kerja, serta berkontribusi dalam peningkatan efisiensi dan produktivitas di area produksi.",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "7ae507f1-45f1-4e21-a63a-20d8a9573ca7",
-      "created_at": "2025-10-10 08:57:53",
-      "updated_at": "2025-10-29 08:42:53",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 5,
-      "jumlah_terdaftar": 10,
-      "program_studi": "[{\"id\":\"21442969-5763-4416-bb8d-56a80e55ada9\",\"title\":\"Teknik Mesin\"},{\"id\":\"93594dd7-0c1d-48c0-8f50-fd4bfde199b3\",\"title\":\"Teknik Elektro\"}]",
-      "jenjang": "[\"Sarjana\",\"Diploma\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "7ae507f1-45f1-4e21-a63a-20d8a9573ca7",
-        "id_sumber_dana": null,
-        "id_perusahaan": "52ce175c-f656-41f3-9c89-60edd044af2e",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "52ce175c-f656-41f3-9c89-60edd044af2e",
-        "id_desa": null,
-        "nama_perusahaan": "Hardo Soloplast",
-        "deskripsi_perusahaan": "PT Hardo Soloplast bergerak dibidang Polypropylene Woven Bag dan Semen BAg",
-        "alamat": "JL. RAYA PALUR KM.8,JETIS,JATEN,KARANGANYAR",
-        "logo": "https://wlkp-assets.kemnaker.go.id/companies/52ce175c-f656-41f3-9c89-60edd044af2e/5d89d38e26042.png",
-        "banner": "https://wlkp-assets.kemnaker.go.id/companies/52ce175c-f656-41f3-9c89-60edd044af2e/5d89d3919b808.png",
-        "created_at": "2025-10-10 08:57:53",
-        "updated_at": "2025-10-29 08:42:53",
-        "kode_kabupaten": "3313",
-        "nama_kabupaten": "KAB. KARANGANYAR",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-11 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-14 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": null
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": null
-      }
-    },
-    {
-      "id_posisi": "a03a0dae-d907-4ae2-9a35-8f703e8c5898",
-      "posisi": "STAFF DIGITAL MARKETING",
-      "deskripsi_posisi": "Mengelola media sosial\nMembuat & mengelola konten & kampanye\nMelakukan riset produk, analisis tren pasar & kebutuhan konsumen",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "b3d0c7d4-285c-405d-a0ed-4611b0f08431",
-      "created_at": "2025-10-29 10:48:38",
-      "updated_at": null,
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 5,
-      "jumlah_terdaftar": 16,
-      "program_studi": "[{\"id\":\"9dfcaa37-a44b-4331-87ab-bd32dc1066cb\",\"title\":\"Desain Komunikasi Visual\"},{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"},{\"id\":\"9808ccda-82eb-47cd-a2e5-78d6baf95192\",\"title\":\"Pemasaran Digital\"},{\"id\":\"cd78f576-e879-4614-b14d-3ba660a9e461\",\"title\":\"Teknik Informatika Multimedia\"}]",
-      "jenjang": "[\"Diploma\",\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "b3d0c7d4-285c-405d-a0ed-4611b0f08431",
-        "id_sumber_dana": null,
-        "id_perusahaan": "6c11ca46-f7a1-48cc-b27e-8bec44b4a95c",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "6c11ca46-f7a1-48cc-b27e-8bec44b4a95c",
-        "id_desa": null,
-        "nama_perusahaan": "Akshana Group Indonesia",
-        "deskripsi_perusahaan": null,
-        "alamat": "Jalan Taman Maluku Nomor 4",
-        "logo": "https://wlkp-assets.kemnaker.go.id/companies/6c11ca46-f7a1-48cc-b27e-8bec44b4a95c/681071188f410.png",
-        "banner": null,
-        "created_at": "2025-10-29 10:48:38",
-        "updated_at": null,
-        "kode_kabupaten": "3374",
-        "nama_kabupaten": "KOTA SEMARANG",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-11 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-14 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": null
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": null
-      }
-    },
-    {
-      "id_posisi": "a03a2653-fe29-479d-9ead-d821302d23bb",
-      "posisi": "Consumer Loan Sales Support",
-      "deskripsi_posisi": "Mengelola Pengajuan Kredit",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "353f7c96-277f-4e33-8540-f66369b87c36",
-      "created_at": "2025-10-29 12:22:52",
-      "updated_at": "2025-10-29 13:01:31",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 5,
-      "jumlah_terdaftar": 46,
-      "program_studi": "[{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"},{\"id\":\"702dfd8b-b5b8-40fb-843b-4d503451b314\",\"title\":\"Ekonomi\"},{\"id\":\"48aa9751-2871-4a15-ba58-7dd9246be837\",\"title\":\"Ilmu Ekonomi\"},{\"id\":\"e3668d6d-acab-4f65-8d20-262e73fe8f36\",\"title\":\"Manajemen Pemasaran\"},{\"id\":\"9808ccda-82eb-47cd-a2e5-78d6baf95192\",\"title\":\"Pemasaran Digital\"}]",
-      "jenjang": "[\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "353f7c96-277f-4e33-8540-f66369b87c36",
-        "id_sumber_dana": null,
-        "id_perusahaan": "f30cfb50-7a26-42a0-bc0e-baa2c08dc2af",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "f30cfb50-7a26-42a0-bc0e-baa2c08dc2af",
-        "id_desa": null,
-        "nama_perusahaan": "Btn Kc Pekalongan",
-        "deskripsi_perusahaan": null,
-        "alamat": "JL. MEREDEKA NO.7, PEKALONGAN",
-        "logo": null,
-        "banner": null,
-        "created_at": "2025-10-29 12:22:52",
-        "updated_at": "2025-10-29 13:01:31",
-        "kode_kabupaten": "3375",
-        "nama_kabupaten": "KOTA PEKALONGAN",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-11 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-14 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": null
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": null
-      }
-    },
-    {
-      "id_posisi": "a03a2743-a93c-4404-a041-ba1a69508a95",
-      "posisi": "Funding & Transaction Sales Support",
-      "deskripsi_posisi": "Melakukan marketing terhadap calon nasabah",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "353f7c96-277f-4e33-8540-f66369b87c36",
-      "created_at": "2025-10-29 12:22:52",
-      "updated_at": "2025-10-29 13:01:31",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 5,
-      "jumlah_terdaftar": 29,
-      "program_studi": "[{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"},{\"id\":\"702dfd8b-b5b8-40fb-843b-4d503451b314\",\"title\":\"Ekonomi\"},{\"id\":\"e12302ac-c8dc-4d0a-90a7-402f6fafd27e\",\"title\":\"Manajemen Pemasaran\\/Marketing\"},{\"id\":\"e3668d6d-acab-4f65-8d20-262e73fe8f36\",\"title\":\"Manajemen Pemasaran\"},{\"id\":\"9808ccda-82eb-47cd-a2e5-78d6baf95192\",\"title\":\"Pemasaran Digital\"}]",
-      "jenjang": "[\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "353f7c96-277f-4e33-8540-f66369b87c36",
-        "id_sumber_dana": null,
-        "id_perusahaan": "f30cfb50-7a26-42a0-bc0e-baa2c08dc2af",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "f30cfb50-7a26-42a0-bc0e-baa2c08dc2af",
-        "id_desa": null,
-        "nama_perusahaan": "Btn Kc Pekalongan",
-        "deskripsi_perusahaan": null,
-        "alamat": "JL. MEREDEKA NO.7, PEKALONGAN",
-        "logo": null,
-        "banner": null,
-        "created_at": "2025-10-29 12:22:52",
-        "updated_at": "2025-10-29 13:01:31",
-        "kode_kabupaten": "3375",
-        "nama_kabupaten": "KOTA PEKALONGAN",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-11 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-14 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": null
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": null
-      }
-    },
-    {
-      "id_posisi": "a03a2b92-93d3-4f0f-87f2-f5e3356d3a89",
-      "posisi": "Kasir",
-      "deskripsi_posisi": "- melakukan transaksi masuk\n- pelayanan",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "16454169-e301-4696-a9e8-783a28af9ed9",
-      "created_at": "2025-10-29 12:43:34",
-      "updated_at": "2025-11-08 10:39:04",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 5,
-      "jumlah_terdaftar": 3,
-      "program_studi": "[{\"id\":\"a89dbd3d-191f-4da7-8824-08123aa214f8\",\"title\":\"Administrasi Keuangan Dan Perbankan\"},{\"id\":\"e2ceca3e-19c6-4aae-aa29-c36be7f76487\",\"title\":\"Administrasi Keuangan\"},{\"id\":\"951196b9-2c2b-421b-a5f4-9007ec942008\",\"title\":\"Administrasi Keuangan Publik\"}]",
-      "jenjang": "[\"Diploma\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "16454169-e301-4696-a9e8-783a28af9ed9",
-        "id_sumber_dana": null,
-        "id_perusahaan": "2d07ea41-a2f0-4a93-8899-6a6bd332901b",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "2d07ea41-a2f0-4a93-8899-6a6bd332901b",
-        "id_desa": null,
-        "nama_perusahaan": "Matahari Department Store",
-        "deskripsi_perusahaan": "Matahari Dept Store Purwokerto didirikan pada tanggal 4 Februari 1995. Untuk kayawan saat ini berjumlah 50 untuk karyawan matahari dan kurang lebih 80 orang untuk karyawan suplier.\nKami buka dari jam 09.30 - 21.30.Penuhi segala kebutuhan anda hanya di matahari Departemen Store Purwokerto",
-        "alamat": "53. MDS Pertokoan Kebondalem, Jalan Jendral Suprapto",
-        "logo": "https://wlkp-assets.kemnaker.go.id/companies/2d07ea41-a2f0-4a93-8899-6a6bd332901b/6901808859112.jpg",
-        "banner": "https://wlkp-assets.kemnaker.go.id/companies/2d07ea41-a2f0-4a93-8899-6a6bd332901b/690180b9e98bd.jpg",
-        "created_at": "2025-10-29 12:43:34",
-        "updated_at": "2025-11-08 10:39:04",
-        "kode_kabupaten": "3302",
-        "nama_kabupaten": "KAB. BANYUMAS",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-11 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-14 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": null
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": null
-      }
-    },
-    {
-      "id_posisi": "a03a4328-4f64-4512-8cd5-b729f2f37874",
-      "posisi": "Content Creator",
-      "deskripsi_posisi": "1. Membuat ide dan konsep konten kreatif untuk media sosial.\n2. Melakukan proses shooting dan tampil di depan kamera (on-cam).\n3. Mengedit video dan menyesuaikan dengan gaya brand.\n4. Membantu mengelola jadwal upload dan performa konten.\n5. Berkolaborasi dengan tim marketing dan desain untuk pembuatan konten promosi",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "6a6a8901-4e28-4b94-afaf-61baa4bce55d",
-      "created_at": "2025-10-06 20:09:43",
-      "updated_at": "2025-10-29 09:12:20",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 5,
-      "jumlah_terdaftar": 13,
-      "program_studi": "[{\"id\":\"9dfcaa37-a44b-4331-87ab-bd32dc1066cb\",\"title\":\"Desain Komunikasi Visual\"},{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"},{\"id\":\"000f6e6c-87f9-4fae-bb7a-fbfa97ffb3b7\",\"title\":\"Teknologi Multimedia Broadcasting\"},{\"id\":\"a5fb0a56-78ec-485e-84a0-b85f818c3ed1\",\"title\":\"Teknologi Multimedia dan Broadcasting\"},{\"id\":\"3d140669-9979-4888-bccf-2b7df9ee0061\",\"title\":\"Penyiaran Radio dan Televisi\"}]",
-      "jenjang": "[\"Diploma\",\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "6a6a8901-4e28-4b94-afaf-61baa4bce55d",
-        "id_sumber_dana": null,
-        "id_perusahaan": "df91b15a-8e52-4cd5-b7c1-1bf862278810",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "df91b15a-8e52-4cd5-b7c1-1bf862278810",
-        "id_desa": null,
-        "nama_perusahaan": "Erhanesia Digima Mukitama",
-        "deskripsi_perusahaan": "PT Erhanesia Digima Mukitama (ERDIGMA) merupakan perusahaan Digital Marketing yang bergerak di bidang consumer health. Erdigma dalam perjalanannya memiliki misi untuk menciptakan produk terbaik untuk kehidupan yang lebih baik melalui pemanfaatan teknologi dan inovasi terkini (product leadership). Selain hal tersebut perusahaan juga fokus untuk membangun ekosistem bisnis yang unggul, transparan, akuntabel dan lincah (agile) dalam merespon dinamika pasar dan pelanggan (operational excellence).",
-        "alamat": "Jalan Mayor Jendral Sungkono KM 5,  Desa Blater, Kecamatan Kalimanah, Kabupaten Purbalingga",
-        "logo": "https://wlkp-assets.kemnaker.go.id/companies/df91b15a-8e52-4cd5-b7c1-1bf862278810/650bcc80e673e.png",
-        "banner": "https://wlkp-assets.kemnaker.go.id/companies/df91b15a-8e52-4cd5-b7c1-1bf862278810/650c2aece687c.png",
-        "created_at": "2025-10-06 20:09:43",
-        "updated_at": "2025-10-29 09:12:20",
-        "kode_kabupaten": "3303",
-        "nama_kabupaten": "KAB. PURBALINGGA",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-11 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-14 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": null
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": null
-      }
-    },
-    {
-      "id_posisi": "a03a44c5-dc2a-4923-9f10-9dfcdf959c6a",
-      "posisi": "Video Editor",
-      "deskripsi_posisi": "1. Mengedit video untuk kebutuhan promosi dan konten media sosial. (Capcut 7 Adobe Family Savvy) \n2. Memotong, menyusun, dan menambahkan efek visual serta audio sesuai konsep.\n3. Membuat versi video pendek untuk TikTok, Reels, atau Yoube Shorts.\n4. Berkolaborasi dengan tim kreatif dan content creator dalam produksi konten.\n5. Menjaga kualitas visual dan konsistensi brand pada setiap output video",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "6a6a8901-4e28-4b94-afaf-61baa4bce55d",
-      "created_at": "2025-10-06 20:09:43",
-      "updated_at": "2025-10-29 09:12:20",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 5,
-      "jumlah_terdaftar": 10,
-      "program_studi": "[{\"id\":\"9dfcaa37-a44b-4331-87ab-bd32dc1066cb\",\"title\":\"Desain Komunikasi Visual\"},{\"id\":\"18f1fc9e-e9d1-4855-9d42-d86edd8519b6\",\"title\":\"Multimedia\"},{\"id\":\"e0e11095-ded4-4c6b-9353-79b2f92719d0\",\"title\":\"Film Dan Televisi\"},{\"id\":\"0397cb69-3411-4c91-b3a1-defbe5932670\",\"title\":\"Manajemen & Produksi Film Video & TV\"},{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"}]",
-      "jenjang": "[\"Sarjana\",\"Diploma\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "6a6a8901-4e28-4b94-afaf-61baa4bce55d",
-        "id_sumber_dana": null,
-        "id_perusahaan": "df91b15a-8e52-4cd5-b7c1-1bf862278810",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "df91b15a-8e52-4cd5-b7c1-1bf862278810",
-        "id_desa": null,
-        "nama_perusahaan": "Erhanesia Digima Mukitama",
-        "deskripsi_perusahaan": "PT Erhanesia Digima Mukitama (ERDIGMA) merupakan perusahaan Digital Marketing yang bergerak di bidang consumer health. Erdigma dalam perjalanannya memiliki misi untuk menciptakan produk terbaik untuk kehidupan yang lebih baik melalui pemanfaatan teknologi dan inovasi terkini (product leadership). Selain hal tersebut perusahaan juga fokus untuk membangun ekosistem bisnis yang unggul, transparan, akuntabel dan lincah (agile) dalam merespon dinamika pasar dan pelanggan (operational excellence).",
-        "alamat": "Jalan Mayor Jendral Sungkono KM 5,  Desa Blater, Kecamatan Kalimanah, Kabupaten Purbalingga",
-        "logo": "https://wlkp-assets.kemnaker.go.id/companies/df91b15a-8e52-4cd5-b7c1-1bf862278810/650bcc80e673e.png",
-        "banner": "https://wlkp-assets.kemnaker.go.id/companies/df91b15a-8e52-4cd5-b7c1-1bf862278810/650c2aece687c.png",
-        "created_at": "2025-10-06 20:09:43",
-        "updated_at": "2025-10-29 09:12:20",
-        "kode_kabupaten": "3303",
-        "nama_kabupaten": "KAB. PURBALINGGA",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-11 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-14 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": null
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": null
-      }
-    },
-    {
-      "id_posisi": "a03a53af-42b0-4268-97f1-3c53397bfeb8",
-      "posisi": "Content Creator",
-      "deskripsi_posisi": "Menulis dan mengembangkan konten informatif, inspiratif, dan relevan untuk berbagai platform digital. Memastikan gaya bahasa dan pesan yang disampaikan konsisten dengan identitas brand serta mampu menarik perhatian target audiens.",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "6a6a8901-4e28-4b94-afaf-61baa4bce55d",
-      "created_at": "2025-10-06 20:09:43",
-      "updated_at": "2025-10-29 09:12:20",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 5,
-      "jumlah_terdaftar": 13,
-      "program_studi": "[{\"id\":\"9dfcaa37-a44b-4331-87ab-bd32dc1066cb\",\"title\":\"Desain Komunikasi Visual\"},{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"}]",
-      "jenjang": "[\"Sarjana\",\"Diploma\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "6a6a8901-4e28-4b94-afaf-61baa4bce55d",
-        "id_sumber_dana": null,
-        "id_perusahaan": "df91b15a-8e52-4cd5-b7c1-1bf862278810",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "df91b15a-8e52-4cd5-b7c1-1bf862278810",
-        "id_desa": null,
-        "nama_perusahaan": "Erhanesia Digima Mukitama",
-        "deskripsi_perusahaan": "PT Erhanesia Digima Mukitama (ERDIGMA) merupakan perusahaan Digital Marketing yang bergerak di bidang consumer health. Erdigma dalam perjalanannya memiliki misi untuk menciptakan produk terbaik untuk kehidupan yang lebih baik melalui pemanfaatan teknologi dan inovasi terkini (product leadership). Selain hal tersebut perusahaan juga fokus untuk membangun ekosistem bisnis yang unggul, transparan, akuntabel dan lincah (agile) dalam merespon dinamika pasar dan pelanggan (operational excellence).",
-        "alamat": "Jalan Mayor Jendral Sungkono KM 5,  Desa Blater, Kecamatan Kalimanah, Kabupaten Purbalingga",
-        "logo": "https://wlkp-assets.kemnaker.go.id/companies/df91b15a-8e52-4cd5-b7c1-1bf862278810/650bcc80e673e.png",
-        "banner": "https://wlkp-assets.kemnaker.go.id/companies/df91b15a-8e52-4cd5-b7c1-1bf862278810/650c2aece687c.png",
-        "created_at": "2025-10-06 20:09:43",
-        "updated_at": "2025-10-29 09:12:20",
-        "kode_kabupaten": "3303",
-        "nama_kabupaten": "KAB. PURBALINGGA",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-11 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-14 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": null
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": null
-      }
-    },
-    {
-      "id_posisi": "a03a541f-46d2-4d6e-a023-346bc41f83a3",
-      "posisi": "Video Editor",
-      "deskripsi_posisi": "Melakukan proses penyuntingan video mulai dari pemilihan footage, penyusunan timeline, pemberian efek visual dan suara, hingga final rendering. Memastikan hasil video memiliki alur cerita yang kuat, berkualitas tinggi, dan sesuai dengan tujuan komunikasi brand.",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "6a6a8901-4e28-4b94-afaf-61baa4bce55d",
-      "created_at": "2025-10-06 20:09:43",
-      "updated_at": "2025-10-29 09:12:20",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 5,
-      "jumlah_terdaftar": 7,
-      "program_studi": "[{\"id\":\"9dfcaa37-a44b-4331-87ab-bd32dc1066cb\",\"title\":\"Desain Komunikasi Visual\"},{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"},{\"id\":\"a5fb0a56-78ec-485e-84a0-b85f818c3ed1\",\"title\":\"Teknologi Multimedia dan Broadcasting\"}]",
-      "jenjang": "[\"Sarjana\",\"Diploma\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "6a6a8901-4e28-4b94-afaf-61baa4bce55d",
-        "id_sumber_dana": null,
-        "id_perusahaan": "df91b15a-8e52-4cd5-b7c1-1bf862278810",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "df91b15a-8e52-4cd5-b7c1-1bf862278810",
-        "id_desa": null,
-        "nama_perusahaan": "Erhanesia Digima Mukitama",
-        "deskripsi_perusahaan": "PT Erhanesia Digima Mukitama (ERDIGMA) merupakan perusahaan Digital Marketing yang bergerak di bidang consumer health. Erdigma dalam perjalanannya memiliki misi untuk menciptakan produk terbaik untuk kehidupan yang lebih baik melalui pemanfaatan teknologi dan inovasi terkini (product leadership). Selain hal tersebut perusahaan juga fokus untuk membangun ekosistem bisnis yang unggul, transparan, akuntabel dan lincah (agile) dalam merespon dinamika pasar dan pelanggan (operational excellence).",
-        "alamat": "Jalan Mayor Jendral Sungkono KM 5,  Desa Blater, Kecamatan Kalimanah, Kabupaten Purbalingga",
-        "logo": "https://wlkp-assets.kemnaker.go.id/companies/df91b15a-8e52-4cd5-b7c1-1bf862278810/650bcc80e673e.png",
-        "banner": "https://wlkp-assets.kemnaker.go.id/companies/df91b15a-8e52-4cd5-b7c1-1bf862278810/650c2aece687c.png",
-        "created_at": "2025-10-06 20:09:43",
-        "updated_at": "2025-10-29 09:12:20",
-        "kode_kabupaten": "3303",
-        "nama_kabupaten": "KAB. PURBALINGGA",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-11 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-14 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": null
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": null
-      }
-    },
-    {
-      "id_posisi": "a03a5807-a282-44e5-aca9-27942c9bac92",
-      "posisi": "Host Live",
-      "deskripsi_posisi": "Menjadi pembawa acara dalam sesi siaran langsung (live streaming) untuk memperkenalkan produk, menjawab pertanyaan audiens, serta mendorong penjualan. Menampilkan kepribadian yang menarik dan komunikatif agar audiens tetap terlibat dan tertarik terhadap produk yang ditawarkan.",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "6a6a8901-4e28-4b94-afaf-61baa4bce55d",
-      "created_at": "2025-10-06 20:09:43",
-      "updated_at": "2025-10-29 09:12:20",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 5,
-      "jumlah_terdaftar": 17,
-      "program_studi": "[{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"}]",
-      "jenjang": "[\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "6a6a8901-4e28-4b94-afaf-61baa4bce55d",
-        "id_sumber_dana": null,
-        "id_perusahaan": "df91b15a-8e52-4cd5-b7c1-1bf862278810",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "df91b15a-8e52-4cd5-b7c1-1bf862278810",
-        "id_desa": null,
-        "nama_perusahaan": "Erhanesia Digima Mukitama",
-        "deskripsi_perusahaan": "PT Erhanesia Digima Mukitama (ERDIGMA) merupakan perusahaan Digital Marketing yang bergerak di bidang consumer health. Erdigma dalam perjalanannya memiliki misi untuk menciptakan produk terbaik untuk kehidupan yang lebih baik melalui pemanfaatan teknologi dan inovasi terkini (product leadership). Selain hal tersebut perusahaan juga fokus untuk membangun ekosistem bisnis yang unggul, transparan, akuntabel dan lincah (agile) dalam merespon dinamika pasar dan pelanggan (operational excellence).",
-        "alamat": "Jalan Mayor Jendral Sungkono KM 5,  Desa Blater, Kecamatan Kalimanah, Kabupaten Purbalingga",
-        "logo": "https://wlkp-assets.kemnaker.go.id/companies/df91b15a-8e52-4cd5-b7c1-1bf862278810/650bcc80e673e.png",
-        "banner": "https://wlkp-assets.kemnaker.go.id/companies/df91b15a-8e52-4cd5-b7c1-1bf862278810/650c2aece687c.png",
-        "created_at": "2025-10-06 20:09:43",
-        "updated_at": "2025-10-29 09:12:20",
-        "kode_kabupaten": "3303",
-        "nama_kabupaten": "KAB. PURBALINGGA",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-11 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-14 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": null
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": null
-      }
-    },
-    {
-      "id_posisi": "a03a6362-4b07-43e6-9d6b-c4bee646d940",
-      "posisi": "Digital Marketing",
-      "deskripsi_posisi": "- Mengelola iklan digital (Meta Ads, Google Ads, TikTok Ads) dan memonitor performanya.\n- Melakukan analisis data traffic, engagement, dan konversi penjualan online.\n- Mengoptimalkan SEO dan SEM untuk website/marketplace.\n- Membuat laporan performa digital marketing bulanan.",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "c3c4b097-edc6-4992-ab2c-b6a2d3d9cd08",
-      "created_at": "2025-10-06 10:11:16",
-      "updated_at": "2025-10-29 10:46:58",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 5,
-      "jumlah_terdaftar": 15,
-      "program_studi": "[{\"id\":\"9808ccda-82eb-47cd-a2e5-78d6baf95192\",\"title\":\"Pemasaran Digital\"},{\"id\":\"bc80b454-a801-4ac2-8bbf-c3a35fb85dba\",\"title\":\"Manajemen Operasi Bisnis Digital\"},{\"id\":\"0c353635-be19-41e3-abef-287c8fd73d32\",\"title\":\"Teknologi Informasi\"},{\"id\":\"eb32519f-3ca3-4918-accb-d8102338300c\",\"title\":\"Matematika\"},{\"id\":\"a86f123a-2b95-4d24-b49d-174d3a639d91\",\"title\":\"Statistika\"}]",
-      "jenjang": "[\"Diploma\",\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "c3c4b097-edc6-4992-ab2c-b6a2d3d9cd08",
-        "id_sumber_dana": null,
-        "id_perusahaan": "c1dc547a-e030-4788-b504-1a456b1ff6cb",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "c1dc547a-e030-4788-b504-1a456b1ff6cb",
-        "id_desa": null,
-        "nama_perusahaan": "Kalimaya Alunna Indonesia",
-        "deskripsi_perusahaan": null,
-        "alamat": "Perumda II Gergunung Gg. Anggrek No.62",
-        "logo": null,
-        "banner": null,
-        "created_at": "2025-10-06 10:11:16",
-        "updated_at": "2025-10-29 10:46:58",
-        "kode_kabupaten": "3372",
-        "nama_kabupaten": "KOTA SURAKARTA",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-11 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-14 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": null
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": null
-      }
-    },
-    {
-      "id_posisi": "a03a7437-644c-4317-b320-17abc6a78751",
-      "posisi": "Konten Kreator",
-      "deskripsi_posisi": "- Membuat konsep, naskah, dan konten foto/video untuk media sosial.\n- Mengelola kalender konten mingguan dan mengunggah sesuai jadwal.\n- Melakukan editing foto/video dengan gaya visual sesuai branding perusahaan.\n- Berkolaborasi dengan tim marketing dan KOL untuk mendukung kampanye promosi.",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "c3c4b097-edc6-4992-ab2c-b6a2d3d9cd08",
-      "created_at": "2025-10-06 10:11:16",
-      "updated_at": "2025-10-29 10:46:58",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 5,
-      "jumlah_terdaftar": 11,
-      "program_studi": "[{\"id\":\"9dfcaa37-a44b-4331-87ab-bd32dc1066cb\",\"title\":\"Desain Komunikasi Visual\"},{\"id\":\"e90b7fe8-f4a5-4a1c-85f8-e929004b29e1\",\"title\":\"Desain Grafis\"},{\"id\":\"bef61511-23f4-4602-96e5-1661680bf4de\",\"title\":\"Komunikasi Digital dan Media\"},{\"id\":\"36fb3242-37bc-421f-a9dd-09a4f37c7f86\",\"title\":\"Manajemen Informasi Komunikasi\"},{\"id\":\"246e6e8a-413d-4dff-9d82-161b6222f8d0\",\"title\":\"Ilmu Komputer\"}]",
-      "jenjang": "[\"Diploma\",\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "c3c4b097-edc6-4992-ab2c-b6a2d3d9cd08",
-        "id_sumber_dana": null,
-        "id_perusahaan": "c1dc547a-e030-4788-b504-1a456b1ff6cb",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "c1dc547a-e030-4788-b504-1a456b1ff6cb",
-        "id_desa": null,
-        "nama_perusahaan": "Kalimaya Alunna Indonesia",
-        "deskripsi_perusahaan": null,
-        "alamat": "Perumda II Gergunung Gg. Anggrek No.62",
-        "logo": null,
-        "banner": null,
-        "created_at": "2025-10-06 10:11:16",
-        "updated_at": "2025-10-29 10:46:58",
-        "kode_kabupaten": "3372",
-        "nama_kabupaten": "KOTA SURAKARTA",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-11 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-14 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": null
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": null
-      }
     }
   ],
   "meta": {
@@ -7506,7 +7506,7 @@
       "current_page": 1,
       "first_page_url": null,
       "from": 1,
-      "last_page": 12,
+      "last_page": 15,
       "last_page_url": null,
       "links": null,
       "next_page_url": null,
@@ -7514,7 +7514,8 @@
       "per_page": 100,
       "prev_page_url": null,
       "to": 100,
-      "total": 1181
+      "total": 1466
     }
-  }
+  },
+  "_scraped_at": "2025-11-10T11:31:50.155547+00:00"
 }

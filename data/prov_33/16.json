@@ -2,10 +2,10 @@
   "data": [],
   "meta": {
     "pagination": {
-      "current_page": 9,
+      "current_page": 16,
       "first_page_url": null,
       "from": null,
-      "last_page": 8,
+      "last_page": 15,
       "last_page_url": null,
       "links": null,
       "next_page_url": null,
@@ -13,7 +13,8 @@
       "per_page": 100,
       "prev_page_url": null,
       "to": null,
-      "total": 767
+      "total": 1466
     }
-  }
+  },
+  "_scraped_at": "2025-11-10T11:31:54.269482+00:00"
 }
