@@ -96,6 +96,14 @@ class VacancySearch:
             if cp.get(k):
                 parts.append(str(cp.get(k)))
 
+        # also include a cleaned form of nama_kabupaten without prefixes like 'KAB.' or 'KOTA'
+        raw_kab = (cp.get("nama_kabupaten") or "")
+        if raw_kab:
+            clean = raw_kab.replace("KAB.", "").replace("KAB", "").replace("KOTA.", "").replace("KOTA", "")
+            clean = clean.replace(".", "").strip()
+            if clean:
+                parts.append(clean)
+
         # program_studi (JSON-encoded string)
         ps_titles = _parse_program_studi(item.get("program_studi"))
         parts.extend(ps_titles)

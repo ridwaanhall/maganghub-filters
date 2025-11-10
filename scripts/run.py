@@ -61,16 +61,25 @@ def main(argv: Optional[list[str]] = None) -> int:
         jumlah_kuota = _safe_int(item.get("jumlah_kuota"))
         jumlah_terdaftar = _safe_int(item.get("jumlah_terdaftar"))
 
-        probability = None
+        applicants_per_slot = None
+        acceptance_prob = None
         if jumlah_kuota and jumlah_kuota != 0:
-            # per user's formula: (jumlah_terdaftar + 1) / jumlah_kuota
             jt = jumlah_terdaftar if jumlah_terdaftar is not None else 0
             try:
-                probability = (jt + 1) / jumlah_kuota
+                applicants_per_slot = (jt + 1) / jumlah_kuota
             except Exception:
-                probability = None
+                applicants_per_slot = None
+            try:
+                # estimated acceptance probability under simple random selection
+                acceptance_prob = jumlah_kuota / (jt + 1) if (jt + 1) > 0 else 1.0
+                # cap to 1.0
+                if acceptance_prob > 1.0:
+                    acceptance_prob = 1.0
+            except Exception:
+                acceptance_prob = None
 
-        prob_text = f"{probability:.2f}" if isinstance(probability, float) else "-"
+        app_text = f"{applicants_per_slot:.2f}" if isinstance(applicants_per_slot, float) else "-"
+        accept_pct_text = f"{(acceptance_prob * 100):.2f}%" if isinstance(acceptance_prob, float) else "-"
 
         rows.append([
             i,
@@ -79,25 +88,28 @@ def main(argv: Optional[list[str]] = None) -> int:
             nama_kab or "-",
             jumlah_kuota if jumlah_kuota is not None else "-",
             jumlah_terdaftar if jumlah_terdaftar is not None else "-",
-            prob_text,
+            app_text,
+            accept_pct_text,
         ])
 
         # enrich item for optional saving
         item_copy = dict(item)
-        item_copy["_probability"] = probability
+        item_copy["_applicants_per_slot"] = applicants_per_slot
+        item_copy["_acceptance_prob"] = acceptance_prob
         enriched_results.append(item_copy)
 
     # Try to pretty-print a table using tabulate if available
     try:
         from tabulate import tabulate
 
-        headers = ["#", "posisi", "perusahaan", "kabupaten", "kuota", "terdaftar", "prob"]
+        headers = ["#", "posisi", "perusahaan", "kabupaten", "kuota", "terdaftar", "app/slot", "accept%"]
         print(tabulate(rows, headers=headers, tablefmt="github"))
     except Exception:
         # Fallback to manual formatting
-        col_widths = [max(len(str(cell)) for cell in col) for col in zip(*([[h for h in ["#","posisi","perusahaan","kabupaten","kuota","terdaftar","prob"]]] + rows))]
+        col_headers = ["#", "posisi", "perusahaan", "kabupaten", "kuota", "terdaftar", "app/slot", "accept%"]
+        col_widths = [max(len(str(cell)) for cell in col) for col in zip(*([[h for h in col_headers]] + rows))]
         fmt = "  ".join(f"{{:<{w}}}" for w in col_widths)
-        headers = ["#", "posisi", "perusahaan", "kabupaten", "kuota", "terdaftar", "prob"]
+        headers = col_headers
         print(fmt.format(*headers))
         print("-" * (sum(col_widths) + 2 * (len(col_widths) - 1)))
         for r in rows:
