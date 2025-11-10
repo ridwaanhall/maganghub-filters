@@ -78,12 +78,7 @@ Examples
 Structured search (no `--deep` required):
 
 ```powershell
-python .\scripts\run.py --dir data\prov_33 \
-  --nama_kabupaten "boyolali klaten" \
-  --program_studi "informatika matematika management" \
-  --posisi "web dev" \
-  --deskripsi_posisi "python" \
-  --accept desc
+python .\scripts\run.py --dir data\prov_33 --nama_kabupaten "boyolali surakarta sukoharjo" --program_studi "hukum ekonomi islam" --posisi "" --deskripsi_posisi "" --accept desc
 ```
 
 - `--nama_kabupaten` — space-separated tokens (OR within field). Matches cleaned `nama_kabupaten` (prefixes like `KAB.` / `KOTA` are removed) or province. Example: `boyolali`.
