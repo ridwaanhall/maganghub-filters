@@ -167,7 +167,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 2,
-      "jumlah_terdaftar": 2,
+      "jumlah_terdaftar": 3,
       "program_studi": "[{\"id\":\"e3dc76a4-7b3f-42eb-ad1a-151635e66514\",\"title\":\"Teknik Elektromedik\"},{\"id\":\"397999dc-4597-4cb1-aa5b-e6bbfff06b81\",\"title\":\"Teknologi Elektromedis\"},{\"id\":\"0d8c8faa-6dfb-47c3-a9b1-14a0d965aa00\",\"title\":\"Elektromedik\"}]",
       "jenjang": "[\"Diploma\"]",
       "ref_status_posisi": {
@@ -542,7 +542,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 2,
-      "jumlah_terdaftar": 4,
+      "jumlah_terdaftar": 5,
       "program_studi": "[{\"id\":\"246e6e8a-413d-4dff-9d82-161b6222f8d0\",\"title\":\"Ilmu Komputer\"},{\"id\":\"7c00825c-7ca8-4b48-b711-ea6d145fe879\",\"title\":\"Sistem Komputer\"},{\"id\":\"472b7351-ef6b-41e7-b27c-07ab64f2ed16\",\"title\":\"Pendidikan Ilmu Komputer\"},{\"id\":\"ea498c86-2eeb-4dc2-8844-f546e73a4aee\",\"title\":\"Teknik Komputer\"},{\"id\":\"969f7107-9849-4ef7-a0de-da0294adf8ca\",\"title\":\"Pendidikan Komputer\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -1292,7 +1292,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 2,
-      "jumlah_terdaftar": 0,
+      "jumlah_terdaftar": 1,
       "program_studi": "[{\"id\":\"9dfcaa37-a44b-4331-87ab-bd32dc1066cb\",\"title\":\"Desain Komunikasi Visual\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -1367,7 +1367,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 2,
-      "jumlah_terdaftar": 0,
+      "jumlah_terdaftar": 4,
       "program_studi": "[{\"id\":\"6da8c0d1-f84f-43de-b9b3-a72b52b5f95b\",\"title\":\"Teknologi Pendidikan\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -2192,7 +2192,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 1,
+      "jumlah_terdaftar": 2,
       "program_studi": "[{\"id\":\"bb7cbb55-918a-4572-993e-547e52870ff7\",\"title\":\"Gambar Arsitektur\"},{\"id\":\"c0f1150e-be74-467d-b51a-f0d9cabb46b3\",\"title\":\"Arsitektur Bangunan Gedung\"},{\"id\":\"70c09692-4aa8-45db-a054-a8a9126dccd4\",\"title\":\"Teknik Arsitektur\"},{\"id\":\"1894983c-7190-432e-9190-3c52111b65b7\",\"title\":\"Teknik Infrastruktur Sipil dan Perancangan Arsitektur\"},{\"id\":\"4b75083a-8204-4373-a93f-f1ebb9c9778d\",\"title\":\"Arsitektur\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -2492,7 +2492,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 3,
+      "jumlah_terdaftar": 4,
       "program_studi": "[{\"id\":\"d5ed1bb0-2a2b-46d4-bdfd-e0305ed1c97f\",\"title\":\"Pendidikan Teknik Informatika dan Komputer\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -3017,7 +3017,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 1,
+      "jumlah_terdaftar": 2,
       "program_studi": "[{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"},{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"}]",
       "jenjang": "[\"Diploma\"]",
       "ref_status_posisi": {
@@ -5492,7 +5492,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 7,
+      "jumlah_terdaftar": 8,
       "program_studi": "[{\"id\":\"9ccd8723-5658-45aa-b3da-e8b5c5baaf3b\",\"title\":\"Arsitektur Interior\"},{\"id\":\"bb7cbb55-918a-4572-993e-547e52870ff7\",\"title\":\"Gambar Arsitektur\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -6242,7 +6242,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 4,
+      "jumlah_terdaftar": 3,
       "program_studi": "[{\"id\":\"3e1f167b-ac1f-4208-b1f7-ff2244791c64\",\"title\":\"Psikologi\"},{\"id\":\"275bb92a-f5fa-485f-bf0c-5c0e9d4500d7\",\"title\":\"Manajemen Sumber Daya Manusia\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -7217,7 +7217,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 2,
+      "jumlah_terdaftar": 3,
       "program_studi": "[{\"id\":\"4f53bef4-5310-443b-82bc-1e99f1f2ef08\",\"title\":\"Farmasi\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {

@@ -17,7 +17,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 103,
-      "jumlah_terdaftar": 656,
+      "jumlah_terdaftar": 666,
       "program_studi": "[{\"id\":\"4f7a53df-a963-4a1c-80aa-8fbea498d288\",\"title\":\"Kesehatan Masyarakat\"},{\"id\":\"2c1f894d-16df-471c-abe7-6939d132c6b0\",\"title\":\"Komunikasi\"},{\"id\":\"681a6e41-f24c-464d-838c-480fdef72f66\",\"title\":\"Sosiologi\"},{\"id\":\"3e1f167b-ac1f-4208-b1f7-ff2244791c64\",\"title\":\"Psikologi\"},{\"id\":\"e4a0d07b-d242-480b-b2fb-7a1c66ffc2fd\",\"title\":\"Kesejahteraan Sosial\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -92,7 +92,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 50,
-      "jumlah_terdaftar": 84,
+      "jumlah_terdaftar": 85,
       "program_studi": "[{\"id\":\"2be07689-5c0a-4a1c-8ce5-d9132f31c1b4\",\"title\":\"Pendidikan Vokasional Teknik Mesin\"},{\"id\":\"2b263bf1-305b-4375-ae40-c6233867a141\",\"title\":\"Pendidikan Vokasional Teknik Elektronika\"},{\"id\":\"c74715fe-7056-4659-bfcf-614fff14b5c6\",\"title\":\"Pendidikan Vokasional Teknik Elektro\"},{\"id\":\"fcba3402-73ac-47c2-be3b-0c138e105d52\",\"title\":\"Pendidikan Teknik Mekatronika\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -167,7 +167,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 50,
-      "jumlah_terdaftar": 90,
+      "jumlah_terdaftar": 91,
       "program_studi": "[{\"id\":\"c74715fe-7056-4659-bfcf-614fff14b5c6\",\"title\":\"Pendidikan Vokasional Teknik Elektro\"},{\"id\":\"ad2a0508-9010-45b1-8655-fb0ab798b5ee\",\"title\":\"Teknik Elektro Industri\"},{\"id\":\"2b263bf1-305b-4375-ae40-c6233867a141\",\"title\":\"Pendidikan Vokasional Teknik Elektronika\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -242,7 +242,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 50,
-      "jumlah_terdaftar": 92,
+      "jumlah_terdaftar": 94,
       "program_studi": "[{\"id\":\"f02b1bc5-d74d-481d-a977-a4fb94920c3c\",\"title\":\"Teknologi Pengolahan Karet dan Plastik\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -317,7 +317,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 50,
-      "jumlah_terdaftar": 4,
+      "jumlah_terdaftar": 12,
       "program_studi": "[{\"id\":\"8b6ace77-5ccd-4376-a5bd-73366799e9b6\",\"title\":\"Teknik Elektronika\"},{\"id\":\"93594dd7-0c1d-48c0-8f50-fd4bfde199b3\",\"title\":\"Teknik Elektro\"},{\"id\":\"ad2a0508-9010-45b1-8655-fb0ab798b5ee\",\"title\":\"Teknik Elektro Industri\"},{\"id\":\"2fee5a6d-a685-4a85-911b-5aa7e4980851\",\"title\":\"Teknik Industri\"},{\"id\":\"15ef29c8-682e-41db-83b6-3b97edc66770\",\"title\":\"Teknik Mesin Industri\"}]",
       "jenjang": "[\"Sarjana\",\"Diploma\"]",
       "ref_status_posisi": {
@@ -392,7 +392,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 46,
-      "jumlah_terdaftar": 145,
+      "jumlah_terdaftar": 147,
       "program_studi": "[{\"id\":\"681a6e41-f24c-464d-838c-480fdef72f66\",\"title\":\"Sosiologi\"},{\"id\":\"962c1629-486b-4945-a41b-721772a336ee\",\"title\":\"Ekonomi Syariah\"},{\"id\":\"b0415630-93a3-4def-95bb-919785f21569\",\"title\":\"Manajemen Keuangan dan Perbankan Syariah\"},{\"id\":\"d7f0c20d-d3be-4657-9252-5dddad5ddc6b\",\"title\":\"Kewirausahaaan\"},{\"id\":\"e4a0d07b-d242-480b-b2fb-7a1c66ffc2fd\",\"title\":\"Kesejahteraan Sosial\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -542,7 +542,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 30,
-      "jumlah_terdaftar": 11,
+      "jumlah_terdaftar": 13,
       "program_studi": "[{\"id\":\"9c45e738-34b0-48d4-90ff-e9ac9cade490\",\"title\":\"Keperawatan\"},{\"id\":\"7c1d1e9e-a3f9-45c4-850d-81d90800a6b0\",\"title\":\"Keperawatan Gigi\"},{\"id\":\"f8c6dc7e-03fd-45ab-b219-2128008eb006\",\"title\":\"Keperawatan Anestesiologi\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -617,7 +617,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 25,
-      "jumlah_terdaftar": 141,
+      "jumlah_terdaftar": 142,
       "program_studi": "[{\"id\":\"57f6069e-c934-4ce1-adff-bc62e4d551bf\",\"title\":\"Ekonomi Syari'ah\"},{\"id\":\"40cb3ed6-d81d-460d-99f0-1e95095ea5d3\",\"title\":\"Keuangan Dan Perbankan Syari ah\"},{\"id\":\"681a6e41-f24c-464d-838c-480fdef72f66\",\"title\":\"Sosiologi\"},{\"id\":\"e4a0d07b-d242-480b-b2fb-7a1c66ffc2fd\",\"title\":\"Kesejahteraan Sosial\"},{\"id\":\"d7f0c20d-d3be-4657-9252-5dddad5ddc6b\",\"title\":\"Kewirausahaaan\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -692,7 +692,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 20,
-      "jumlah_terdaftar": 36,
+      "jumlah_terdaftar": 38,
       "program_studi": "[{\"id\":\"93594dd7-0c1d-48c0-8f50-fd4bfde199b3\",\"title\":\"Teknik Elektro\"},{\"id\":\"ea498c86-2eeb-4dc2-8844-f546e73a4aee\",\"title\":\"Teknik Komputer\"},{\"id\":\"151f4ff2-c4f7-4934-a27f-b3d877ea2c88\",\"title\":\"Rekayasa Sistem Komputer\"},{\"id\":\"f8b90887-5b04-4cac-b152-820731ae98af\",\"title\":\"Elektronika dan Instrumentasi\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -767,7 +767,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 20,
-      "jumlah_terdaftar": 170,
+      "jumlah_terdaftar": 173,
       "program_studi": "[{\"id\":\"1b10c018-7e0a-4f55-9d0d-07ffdbc1b12b\",\"title\":\"Keperawatan\"},{\"id\":\"9c45e738-34b0-48d4-90ff-e9ac9cade490\",\"title\":\"Keperawatan\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -917,7 +917,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 18,
-      "jumlah_terdaftar": 16,
+      "jumlah_terdaftar": 18,
       "program_studi": "[{\"id\":\"74377bd7-0efe-4e39-aae1-c79cbb55fc2a\",\"title\":\"Ilmu Keperawatan\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -992,7 +992,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 18,
-      "jumlah_terdaftar": 2,
+      "jumlah_terdaftar": 3,
       "program_studi": "[{\"id\":\"2c1f894d-16df-471c-abe7-6939d132c6b0\",\"title\":\"Komunikasi\"},{\"id\":\"e2843b4a-1c93-44b9-bafd-c667c91efd9c\",\"title\":\"Desain Media\"},{\"id\":\"e90b7fe8-f4a5-4a1c-85f8-e929004b29e1\",\"title\":\"Desain Grafis\"},{\"id\":\"9808ccda-82eb-47cd-a2e5-78d6baf95192\",\"title\":\"Pemasaran Digital\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -1067,7 +1067,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 17,
-      "jumlah_terdaftar": 115,
+      "jumlah_terdaftar": 116,
       "program_studi": "[{\"id\":\"9c45e738-34b0-48d4-90ff-e9ac9cade490\",\"title\":\"Keperawatan\"},{\"id\":\"74377bd7-0efe-4e39-aae1-c79cbb55fc2a\",\"title\":\"Ilmu Keperawatan\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -1142,7 +1142,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 16,
-      "jumlah_terdaftar": 62,
+      "jumlah_terdaftar": 63,
       "program_studi": "[{\"id\":\"1a5b76fb-aa41-453b-8fb7-1d7feb7a210c\",\"title\":\"Manajemen Pendidikan\"},{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"},{\"id\":\"a73784d0-41ec-4092-ac5a-0ff902f8557a\",\"title\":\"Perbankan Syariah\"},{\"id\":\"e302e4d3-234f-4a83-b48c-b6f0e1dfc97b\",\"title\":\"Kewirausahaan\"},{\"id\":\"52a964a0-7aba-4921-a5a0-13c4a7de6d3d\",\"title\":\"Ilmu Kesejahteraan Sosial\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -1367,7 +1367,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 15,
-      "jumlah_terdaftar": 118,
+      "jumlah_terdaftar": 120,
       "program_studi": "[{\"id\":\"2c1f894d-16df-471c-abe7-6939d132c6b0\",\"title\":\"Komunikasi\"},{\"id\":\"43be1f0e-b279-448d-b448-5a53ec9c3ebd\",\"title\":\"Perhotelan\"},{\"id\":\"4d35da79-f44d-422b-848c-9944062cb2f4\",\"title\":\"Bisnis\"},{\"id\":\"b16054f8-8d35-4fdf-af76-94724b15b73f\",\"title\":\"Manajemen Bisnis\"},{\"id\":\"c13ae920-a48f-4a7c-8c89-2b286a7fc225\",\"title\":\"Akuntansi\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -1592,7 +1592,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 15,
-      "jumlah_terdaftar": 31,
+      "jumlah_terdaftar": 32,
       "program_studi": "[{\"id\":\"1b10c018-7e0a-4f55-9d0d-07ffdbc1b12b\",\"title\":\"Keperawatan\"}]",
       "jenjang": "[\"Sarjana\",\"Diploma\"]",
       "ref_status_posisi": {
@@ -1667,7 +1667,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 15,
-      "jumlah_terdaftar": 67,
+      "jumlah_terdaftar": 68,
       "program_studi": "[{\"id\":\"74377bd7-0efe-4e39-aae1-c79cbb55fc2a\",\"title\":\"Ilmu Keperawatan\"},{\"id\":\"1b10c018-7e0a-4f55-9d0d-07ffdbc1b12b\",\"title\":\"Keperawatan\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -1742,7 +1742,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 15,
-      "jumlah_terdaftar": 188,
+      "jumlah_terdaftar": 192,
       "program_studi": "[{\"id\":\"1b10c018-7e0a-4f55-9d0d-07ffdbc1b12b\",\"title\":\"Keperawatan\"}]",
       "jenjang": "[\"Diploma\"]",
       "ref_status_posisi": {
@@ -1892,7 +1892,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 15,
-      "jumlah_terdaftar": 107,
+      "jumlah_terdaftar": 106,
       "program_studi": "[{\"id\":\"2e30ba9d-39d8-4066-ae2d-d424376c9abf\",\"title\":\"Teknologi Penangkapan Ikan\"},{\"id\":\"5a621c1a-91c4-437b-a642-9dd52029d02e\",\"title\":\"Teknologi Dan Manajemen Perikanan Tangkap\"},{\"id\":\"33e56449-7c23-4f51-9250-b3ab05a16185\",\"title\":\"Pemanfaatan Sumberdaya Perikanan\"},{\"id\":\"a3292678-e1e6-44ef-8721-d403089edfa0\",\"title\":\"Manajemen Sumberdaya Perairan\"},{\"id\":\"73dff254-d6d9-45a6-84e9-5bca4854af06\",\"title\":\"Permesinan Perikanan\"}]",
       "jenjang": "[\"Sarjana\",\"Diploma\"]",
       "ref_status_posisi": {
@@ -1967,7 +1967,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 14,
-      "jumlah_terdaftar": 1,
+      "jumlah_terdaftar": 3,
       "program_studi": "[{\"id\":\"14f42c27-ca9c-4c31-bb09-24f7069f8c9f\",\"title\":\"Bisnis Perhotelan\"},{\"id\":\"626a759c-a7c3-4a90-98b6-6a8153fe346c\",\"title\":\"Manajemen Perhotelan\"},{\"id\":\"9889a8b6-d54b-41c7-b83b-f591a55ca812\",\"title\":\"Manajemen Perhotelan dan Pariwisata\"},{\"id\":\"d3359e88-f714-44b9-8ea8-80e0e8eb1b8f\",\"title\":\"Pengelolaan Perhotelan\"},{\"id\":\"43be1f0e-b279-448d-b448-5a53ec9c3ebd\",\"title\":\"Perhotelan\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -2342,7 +2342,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 12,
-      "jumlah_terdaftar": 38,
+      "jumlah_terdaftar": 37,
       "program_studi": "[{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"},{\"id\":\"d7f0c20d-d3be-4657-9252-5dddad5ddc6b\",\"title\":\"Kewirausahaaan\"},{\"id\":\"e4a0d07b-d242-480b-b2fb-7a1c66ffc2fd\",\"title\":\"Kesejahteraan Sosial\"},{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"},{\"id\":\"4c45ff97-deac-4acf-840f-03e9eff6ad4f\",\"title\":\"Perbankan Syari'ah\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -2417,7 +2417,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 10,
-      "jumlah_terdaftar": 26,
+      "jumlah_terdaftar": 27,
       "program_studi": "[{\"id\":\"f233f939-8568-4d57-aea8-6d731e7b480d\",\"title\":\"Teknik Kimia\"},{\"id\":\"2fee5a6d-a685-4a85-911b-5aa7e4980851\",\"title\":\"Teknik Industri\"},{\"id\":\"03fa0c8f-47f8-4042-951a-a08e48aea3ac\",\"title\":\"Teknik Lingkungan\"},{\"id\":\"714be104-06d6-41e1-8b54-5bc8a3b39f7b\",\"title\":\"Teknik Keselamatan Dan Kesehatan Kerja\"},{\"id\":\"21442969-5763-4416-bb8d-56a80e55ada9\",\"title\":\"Teknik Mesin\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -2717,7 +2717,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 10,
-      "jumlah_terdaftar": 24,
+      "jumlah_terdaftar": 25,
       "program_studi": "[{\"id\":\"873c0570-903c-4f75-a456-7b28baf6ed4a\",\"title\":\"Hospitality dan Pariwisata\"},{\"id\":\"9889a8b6-d54b-41c7-b83b-f591a55ca812\",\"title\":\"Manajemen Perhotelan dan Pariwisata\"},{\"id\":\"43be1f0e-b279-448d-b448-5a53ec9c3ebd\",\"title\":\"Perhotelan\"},{\"id\":\"dec01280-1d49-4d62-85ed-4eac35bb3e2b\",\"title\":\"Pariwisata\"},{\"id\":\"626a759c-a7c3-4a90-98b6-6a8153fe346c\",\"title\":\"Manajemen Perhotelan\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -2792,7 +2792,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 10,
-      "jumlah_terdaftar": 198,
+      "jumlah_terdaftar": 202,
       "program_studi": "[{\"id\":\"44c12a8c-7a88-47ea-87fb-0e7202a1390d\",\"title\":\"Administrasi\"},{\"id\":\"c13ae920-a48f-4a7c-8c89-2b286a7fc225\",\"title\":\"Akuntansi\"},{\"id\":\"702dfd8b-b5b8-40fb-843b-4d503451b314\",\"title\":\"Ekonomi\"},{\"id\":\"fd3ebf70-4f4b-4dab-a7ab-ec31d20bd01b\",\"title\":\"Hukum\"},{\"id\":\"32ee6e1d-cec9-44a4-84d3-53ea4db85b9d\",\"title\":\"ILMU PEMERINTAHAN\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -2867,7 +2867,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 10,
-      "jumlah_terdaftar": 18,
+      "jumlah_terdaftar": 19,
       "program_studi": "[{\"id\":\"93594dd7-0c1d-48c0-8f50-fd4bfde199b3\",\"title\":\"Teknik Elektro\"},{\"id\":\"7c3c987b-edcc-46d6-9c49-80335db2542e\",\"title\":\"Teknik Biomedik\"},{\"id\":\"ea498c86-2eeb-4dc2-8844-f546e73a4aee\",\"title\":\"Teknik Komputer\"},{\"id\":\"2af76ee1-e45a-4c6b-8be2-c3aafb23d7c7\",\"title\":\"Elektronika Instrumentasi\"},{\"id\":\"151f4ff2-c4f7-4934-a27f-b3d877ea2c88\",\"title\":\"Rekayasa Sistem Komputer\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -3017,7 +3017,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 10,
-      "jumlah_terdaftar": 298,
+      "jumlah_terdaftar": 299,
       "program_studi": "[{\"id\":\"276643ca-999d-4f19-901c-d5d111941713\",\"title\":\"Administrasi BIsnis\"},{\"id\":\"892ba44f-bf94-4fc8-8813-8d755f917e77\",\"title\":\"Statistika Terapan dan Komputasi\"},{\"id\":\"fd3ebf70-4f4b-4dab-a7ab-ec31d20bd01b\",\"title\":\"Hukum\"},{\"id\":\"702dfd8b-b5b8-40fb-843b-4d503451b314\",\"title\":\"Ekonomi\"},{\"id\":\"9dfcaa37-a44b-4331-87ab-bd32dc1066cb\",\"title\":\"Desain Komunikasi Visual\"}]",
       "jenjang": "[\"Sarjana\",\"Diploma\"]",
       "ref_status_posisi": {
@@ -3167,7 +3167,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 10,
-      "jumlah_terdaftar": 18,
+      "jumlah_terdaftar": 19,
       "program_studi": "[{\"id\":\"2fee5a6d-a685-4a85-911b-5aa7e4980851\",\"title\":\"Teknik Industri\"},{\"id\":\"21442969-5763-4416-bb8d-56a80e55ada9\",\"title\":\"Teknik Mesin\"},{\"id\":\"92946e7d-846d-49cd-9bfa-896131c9c06d\",\"title\":\"Teknik Pembuatan Garmen\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -3317,7 +3317,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 10,
-      "jumlah_terdaftar": 15,
+      "jumlah_terdaftar": 14,
       "program_studi": "[{\"id\":\"0e32b9ee-95c1-4503-95b0-3ddad4c4b0fa\",\"title\":\"Tata Busana\"},{\"id\":\"3e5aa23b-499f-4837-befc-9e907077c6df\",\"title\":\"Teknik Tekstil\"},{\"id\":\"4d6c6dbe-cd61-4c9f-ba61-2d680a22073f\",\"title\":\"Desain Mode\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -3542,7 +3542,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 10,
-      "jumlah_terdaftar": 32,
+      "jumlah_terdaftar": 33,
       "program_studi": "[{\"id\":\"44c12a8c-7a88-47ea-87fb-0e7202a1390d\",\"title\":\"Administrasi\"},{\"id\":\"c13ae920-a48f-4a7c-8c89-2b286a7fc225\",\"title\":\"Akuntansi\"},{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -3617,7 +3617,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 10,
-      "jumlah_terdaftar": 1,
+      "jumlah_terdaftar": 4,
       "program_studi": "[{\"id\":\"44c12a8c-7a88-47ea-87fb-0e7202a1390d\",\"title\":\"Administrasi\"},{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"},{\"id\":\"c13ae920-a48f-4a7c-8c89-2b286a7fc225\",\"title\":\"Akuntansi\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -3917,7 +3917,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 8,
-      "jumlah_terdaftar": 32,
+      "jumlah_terdaftar": 31,
       "program_studi": "[{\"id\":\"a4cd875c-c20b-42d9-a4da-a634722d42b9\",\"title\":\"Teknik Sipil\"},{\"id\":\"b1d47991-f9e7-47c4-8e42-317b52b4d330\",\"title\":\"Ilmu Hukum\"},{\"id\":\"e90b7fe8-f4a5-4a1c-85f8-e929004b29e1\",\"title\":\"Desain Grafis\"},{\"id\":\"03b570a2-c678-4413-aa47-bfed8308fac5\",\"title\":\"Teknik Informatika\"},{\"id\":\"37972e05-4e53-4f9d-beb1-a301de6a2572\",\"title\":\"Akuntansi Keuangan\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -3992,7 +3992,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 8,
-      "jumlah_terdaftar": 11,
+      "jumlah_terdaftar": 12,
       "program_studi": "[{\"id\":\"2fee5a6d-a685-4a85-911b-5aa7e4980851\",\"title\":\"Teknik Industri\"},{\"id\":\"04a4f53f-0b69-4219-8090-76e6e0c20940\",\"title\":\"Teknik Mekatronika\"},{\"id\":\"15ef29c8-682e-41db-83b6-3b97edc66770\",\"title\":\"Teknik Mesin Industri\"},{\"id\":\"0ca14ee7-a3c3-4096-a777-505f62932165\",\"title\":\"Teknik Mesin dan Manufaktur\"},{\"id\":\"8ca5f6e6-b5fe-4207-b4e4-0c07b62f470a\",\"title\":\"Teknologi Rekayasa Mesin\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -4067,7 +4067,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 8,
-      "jumlah_terdaftar": 21,
+      "jumlah_terdaftar": 20,
       "program_studi": "[{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"},{\"id\":\"44c12a8c-7a88-47ea-87fb-0e7202a1390d\",\"title\":\"Administrasi\"},{\"id\":\"112d50ec-5feb-4a3f-828e-f024b4d0438d\",\"title\":\"Akuntansi Manajemen\"},{\"id\":\"4d35da79-f44d-422b-848c-9944062cb2f4\",\"title\":\"Bisnis\"},{\"id\":\"c13ae920-a48f-4a7c-8c89-2b286a7fc225\",\"title\":\"Akuntansi\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -4142,7 +4142,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 8,
-      "jumlah_terdaftar": 12,
+      "jumlah_terdaftar": 13,
       "program_studi": "[{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"},{\"id\":\"f2f8893d-eba4-406e-926f-b372a599ee08\",\"title\":\"Agribisnis\"},{\"id\":\"03b570a2-c678-4413-aa47-bfed8308fac5\",\"title\":\"Teknik Informatika\"},{\"id\":\"512fd1c6-80fe-4653-8b0d-54339e605960\",\"title\":\"Bimbingan Dan Konseling\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -4667,7 +4667,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 8,
-      "jumlah_terdaftar": 92,
+      "jumlah_terdaftar": 93,
       "program_studi": "[{\"id\":\"1b10c018-7e0a-4f55-9d0d-07ffdbc1b12b\",\"title\":\"Keperawatan\"}]",
       "jenjang": "[\"Diploma\"]",
       "ref_status_posisi": {
@@ -5042,7 +5042,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 7,
-      "jumlah_terdaftar": 14,
+      "jumlah_terdaftar": 15,
       "program_studi": "[{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"},{\"id\":\"e3668d6d-acab-4f65-8d20-262e73fe8f36\",\"title\":\"Manajemen Pemasaran\"},{\"id\":\"f143ceae-2c51-40f5-aa92-831c8564b258\",\"title\":\"Manajemen Logistik\"},{\"id\":\"702dfd8b-b5b8-40fb-843b-4d503451b314\",\"title\":\"Ekonomi\"},{\"id\":\"1f689063-dea5-4f2d-9f81-f6bbc67aaf54\",\"title\":\"Teknik  Industri\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -5192,7 +5192,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 7,
-      "jumlah_terdaftar": 124,
+      "jumlah_terdaftar": 125,
       "program_studi": "[{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"},{\"id\":\"62a8013c-575a-4abb-889f-8128eb259936\",\"title\":\"Bahasa Inggris\"},{\"id\":\"dec01280-1d49-4d62-85ed-4eac35bb3e2b\",\"title\":\"Pariwisata\"},{\"id\":\"c4b284d8-0e5a-4917-bfd6-8a0b9b60c903\",\"title\":\"Manajemen Transportasi Udara\"},{\"id\":\"30292e7c-dc82-4156-852d-5a98d2fa3d38\",\"title\":\"Manajemen Bandar Udara\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -5267,7 +5267,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 7,
-      "jumlah_terdaftar": 18,
+      "jumlah_terdaftar": 20,
       "program_studi": "[{\"id\":\"2fee5a6d-a685-4a85-911b-5aa7e4980851\",\"title\":\"Teknik Industri\"},{\"id\":\"7a5d1b51-9511-4538-8bee-9b4e7c7531bf\",\"title\":\"Administrasi Logistik\"},{\"id\":\"f143ceae-2c51-40f5-aa92-831c8564b258\",\"title\":\"Manajemen Logistik\"},{\"id\":\"efe8aadb-f7ed-42ab-b1cc-b94dc0862d13\",\"title\":\"Teknik Logistik\"},{\"id\":\"f4ef3085-44ee-4150-b1a0-cdb1d9debead\",\"title\":\"Manajemen dan Administrasi Logistik\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -5492,7 +5492,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 7,
-      "jumlah_terdaftar": 28,
+      "jumlah_terdaftar": 29,
       "program_studi": "[{\"id\":\"2fee5a6d-a685-4a85-911b-5aa7e4980851\",\"title\":\"Teknik Industri\"},{\"id\":\"1bdf95aa-c48f-485d-8c7a-bb28356ae590\",\"title\":\"Teknik Produksi dan Proses Manufaktur\"},{\"id\":\"275bb92a-f5fa-485f-bf0c-5c0e9d4500d7\",\"title\":\"Manajemen Sumber Daya Manusia\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -5567,7 +5567,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 7,
-      "jumlah_terdaftar": 8,
+      "jumlah_terdaftar": 9,
       "program_studi": "[{\"id\":\"2e30ba9d-39d8-4066-ae2d-d424376c9abf\",\"title\":\"Teknologi Penangkapan Ikan\"},{\"id\":\"5a621c1a-91c4-437b-a642-9dd52029d02e\",\"title\":\"Teknologi Dan Manajemen Perikanan Tangkap\"},{\"id\":\"54f2f889-b4c8-4fb8-89c1-13d0f0b678f2\",\"title\":\"Pemanfaatan Sumber Daya Perikanan\"},{\"id\":\"38cbbc45-b07a-4445-b4a0-85e10e3f5980\",\"title\":\"Manajemen Sumber Daya Perairan\"},{\"id\":\"73dff254-d6d9-45a6-84e9-5bca4854af06\",\"title\":\"Permesinan Perikanan\"}]",
       "jenjang": "[\"Sarjana\",\"Diploma\"]",
       "ref_status_posisi": {
@@ -5642,7 +5642,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 6,
-      "jumlah_terdaftar": 8,
+      "jumlah_terdaftar": 9,
       "program_studi": "[{\"id\":\"9808ccda-82eb-47cd-a2e5-78d6baf95192\",\"title\":\"Pemasaran Digital\"},{\"id\":\"e3668d6d-acab-4f65-8d20-262e73fe8f36\",\"title\":\"Manajemen Pemasaran\"},{\"id\":\"e12302ac-c8dc-4d0a-90a7-402f6fafd27e\",\"title\":\"Manajemen Pemasaran\\/Marketing\"},{\"id\":\"4cbe2e55-0952-43f7-8d3d-f53ed8dfc92a\",\"title\":\"Akuntansi Bisnis Digital\"},{\"id\":\"f3649513-83b2-430f-bf51-cc6925874975\",\"title\":\"Bisnis Digital\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -5867,7 +5867,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 6,
-      "jumlah_terdaftar": 6,
+      "jumlah_terdaftar": 7,
       "program_studi": "[{\"id\":\"4cbe2e55-0952-43f7-8d3d-f53ed8dfc92a\",\"title\":\"Akuntansi Bisnis Digital\"}]",
       "jenjang": "[\"Diploma\"]",
       "ref_status_posisi": {
@@ -6242,7 +6242,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 6,
-      "jumlah_terdaftar": 13,
+      "jumlah_terdaftar": 14,
       "program_studi": "[{\"id\":\"228b67d1-138b-4a54-9eb7-82a8bf572a96\",\"title\":\"Pertolongan Kecelakaan Pesawat\"}]",
       "jenjang": "[\"Diploma\"]",
       "ref_status_posisi": {
@@ -6392,7 +6392,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 6,
-      "jumlah_terdaftar": 1,
+      "jumlah_terdaftar": 6,
       "program_studi": "[{\"id\":\"62a8013c-575a-4abb-889f-8128eb259936\",\"title\":\"Bahasa Inggris\"},{\"id\":\"5a1ed582-2e67-48bc-8cd8-09eecc170787\",\"title\":\"Pendidikan  Bahasa Inggris\"},{\"id\":\"be34ecce-4cdc-4f21-8ce1-50a4205aef13\",\"title\":\"Bahasa Inggris Untuk Komunikasi Bisnis Dan Profesional\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -6467,7 +6467,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 5,
-      "jumlah_terdaftar": 15,
+      "jumlah_terdaftar": 14,
       "program_studi": "[{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"},{\"id\":\"38a57855-c348-4e9e-845a-d3fa03c133b6\",\"title\":\"Jurnalistik\"},{\"id\":\"9dfcaa37-a44b-4331-87ab-bd32dc1066cb\",\"title\":\"Desain Komunikasi Visual\"},{\"id\":\"a220ee7a-b238-48de-9faa-650eeefb259b\",\"title\":\"Bahasa dan Sastra Indonesia\"},{\"id\":\"0c353635-be19-41e3-abef-287c8fd73d32\",\"title\":\"Teknologi Informasi\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -6617,7 +6617,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 5,
-      "jumlah_terdaftar": 9,
+      "jumlah_terdaftar": 10,
       "program_studi": "[{\"id\":\"21442969-5763-4416-bb8d-56a80e55ada9\",\"title\":\"Teknik Mesin\"},{\"id\":\"93594dd7-0c1d-48c0-8f50-fd4bfde199b3\",\"title\":\"Teknik Elektro\"}]",
       "jenjang": "[\"Sarjana\",\"Diploma\"]",
       "ref_status_posisi": {
@@ -6992,7 +6992,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 5,
-      "jumlah_terdaftar": 12,
+      "jumlah_terdaftar": 13,
       "program_studi": "[{\"id\":\"9dfcaa37-a44b-4331-87ab-bd32dc1066cb\",\"title\":\"Desain Komunikasi Visual\"},{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"},{\"id\":\"000f6e6c-87f9-4fae-bb7a-fbfa97ffb3b7\",\"title\":\"Teknologi Multimedia Broadcasting\"},{\"id\":\"a5fb0a56-78ec-485e-84a0-b85f818c3ed1\",\"title\":\"Teknologi Multimedia dan Broadcasting\"},{\"id\":\"3d140669-9979-4888-bccf-2b7df9ee0061\",\"title\":\"Penyiaran Radio dan Televisi\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -7067,7 +7067,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 5,
-      "jumlah_terdaftar": 9,
+      "jumlah_terdaftar": 10,
       "program_studi": "[{\"id\":\"9dfcaa37-a44b-4331-87ab-bd32dc1066cb\",\"title\":\"Desain Komunikasi Visual\"},{\"id\":\"18f1fc9e-e9d1-4855-9d42-d86edd8519b6\",\"title\":\"Multimedia\"},{\"id\":\"e0e11095-ded4-4c6b-9353-79b2f92719d0\",\"title\":\"Film Dan Televisi\"},{\"id\":\"0397cb69-3411-4c91-b3a1-defbe5932670\",\"title\":\"Manajemen & Produksi Film Video & TV\"},{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"}]",
       "jenjang": "[\"Sarjana\",\"Diploma\"]",
       "ref_status_posisi": {

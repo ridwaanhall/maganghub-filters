@@ -917,7 +917,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 2,
+      "jumlah_terdaftar": 3,
       "program_studi": "[{\"id\":\"c13ae920-a48f-4a7c-8c89-2b286a7fc225\",\"title\":\"Akuntansi\"},{\"id\":\"37972e05-4e53-4f9d-beb1-a301de6a2572\",\"title\":\"Akuntansi Keuangan\"},{\"id\":\"69da5119-d806-4ddf-84c9-ace9186212d3\",\"title\":\"Akuntansi Keuangan Perusahaan\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -1217,7 +1217,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 9,
+      "jumlah_terdaftar": 11,
       "program_studi": "[{\"id\":\"ef532d95-180b-4800-8c13-c69ff668a9c0\",\"title\":\"Usaha Jasa Konvensi, Perjalanan Insentif dan Pameran (MICE)\"},{\"id\":\"8c851fcc-626c-4a7f-aaa7-f553fbe52b09\",\"title\":\"Pengelolaan Konvensi dan Acara\"},{\"id\":\"c9672149-95cd-4da9-8825-59fa83030831\",\"title\":\"Hubungan Masyarakat Dan Komunikasi Digital\"},{\"id\":\"9808ccda-82eb-47cd-a2e5-78d6baf95192\",\"title\":\"Pemasaran Digital\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -1742,7 +1742,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 25,
+      "jumlah_terdaftar": 26,
       "program_studi": "[{\"id\":\"0c353635-be19-41e3-abef-287c8fd73d32\",\"title\":\"Teknologi Informasi\"},{\"id\":\"fd3ebf70-4f4b-4dab-a7ab-ec31d20bd01b\",\"title\":\"Hukum\"},{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"},{\"id\":\"44c12a8c-7a88-47ea-87fb-0e7202a1390d\",\"title\":\"Administrasi\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -2342,7 +2342,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 5,
+      "jumlah_terdaftar": 4,
       "program_studi": "[{\"id\":\"9dfcaa37-a44b-4331-87ab-bd32dc1066cb\",\"title\":\"Desain Komunikasi Visual\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -3242,7 +3242,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 1,
+      "jumlah_terdaftar": 2,
       "program_studi": "[{\"id\":\"8bdce5f1-553c-40b4-a5f5-9e5ff9387b60\",\"title\":\"Sistem Informasi\"},{\"id\":\"03b570a2-c678-4413-aa47-bfed8308fac5\",\"title\":\"Teknik Informatika\"},{\"id\":\"0b074455-5cb4-45c4-8111-1a9e3b6de1c0\",\"title\":\"Informatika\"},{\"id\":\"246e6e8a-413d-4dff-9d82-161b6222f8d0\",\"title\":\"Ilmu Komputer\"},{\"id\":\"7217c753-d059-4e28-b6ea-538dc5bc92f1\",\"title\":\"Rekayasa Perangkat Lunak\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -4817,7 +4817,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 4,
+      "jumlah_terdaftar": 5,
       "program_studi": "[{\"id\":\"c4a13bd3-385f-42f8-8c50-c48b433af506\",\"title\":\"Pendidikan Teknik Bangunan\"},{\"id\":\"29828497-eb35-4007-a024-9ba85712a0d2\",\"title\":\"Pendidikan Teknik Elektro\"},{\"id\":\"68d15fae-5b63-4b25-8bb5-164f3d85e2d4\",\"title\":\"Pendidikan Teknik Mesin\"},{\"id\":\"683f0963-4f41-427f-ad3d-98139bf6fc10\",\"title\":\"Pendidikan Teknik Sipil dan Perencanaan\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -5417,7 +5417,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 14,
+      "jumlah_terdaftar": 15,
       "program_studi": "[{\"id\":\"82b5dae6-df44-4bb7-9174-e0a5ed6ed722\",\"title\":\"Kimia\"},{\"id\":\"052f9134-f553-422c-b363-0898a9877d75\",\"title\":\"Pendidikan Kimia\"},{\"id\":\"335d1abb-ffca-480b-bfdb-6602a9f12abb\",\"title\":\"Arkeologi\"},{\"id\":\"2c88d9da-5636-40d2-9d1d-d3882c313960\",\"title\":\"Kearsipan\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -6092,7 +6092,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 1,
+      "jumlah_terdaftar": 2,
       "program_studi": "[{\"id\":\"a86f123a-2b95-4d24-b49d-174d3a639d91\",\"title\":\"Statistika\"},{\"id\":\"eb32519f-3ca3-4918-accb-d8102338300c\",\"title\":\"Matematika\"},{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"},{\"id\":\"702dfd8b-b5b8-40fb-843b-4d503451b314\",\"title\":\"Ekonomi\"},{\"id\":\"7a0c2b71-07e5-4d32-ab28-a5f2c1f97a8c\",\"title\":\"Statistika dan Sains Data\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -6392,7 +6392,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 2,
+      "jumlah_terdaftar": 3,
       "program_studi": "[{\"id\":\"c4fe38e0-cacf-471c-8f5f-bb1efafa7c10\",\"title\":\"Bimbingan Dan Konseling Islam\"},{\"id\":\"a91f2404-d230-42f9-b89e-d3ed761d0fb4\",\"title\":\"Perpustakaan Digital\"},{\"id\":\"9808ccda-82eb-47cd-a2e5-78d6baf95192\",\"title\":\"Pemasaran Digital\"},{\"id\":\"fc46e0ef-779a-489f-adfe-4ccef3558350\",\"title\":\"Teknologi Informatika Multimedia Digital\"},{\"id\":\"ba2b65a5-6c97-40af-a2f5-039ca6b2fe0c\",\"title\":\"Perpustakaan dan Ilmu Informasi\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -6617,7 +6617,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 0,
+      "jumlah_terdaftar": 1,
       "program_studi": "[{\"id\":\"c13ae920-a48f-4a7c-8c89-2b286a7fc225\",\"title\":\"Akuntansi\"},{\"id\":\"17d689d0-6f72-4037-9270-12651a2b9e9c\",\"title\":\"Akuntansi Perpajakan\"},{\"id\":\"e0d39011-0724-4939-874b-08e99c7413b8\",\"title\":\"Administrasi Pajak\"},{\"id\":\"702dfd8b-b5b8-40fb-843b-4d503451b314\",\"title\":\"Ekonomi\"},{\"id\":\"e2ceca3e-19c6-4aae-aa29-c36be7f76487\",\"title\":\"Administrasi Keuangan\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -6842,7 +6842,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 0,
+      "jumlah_terdaftar": 1,
       "program_studi": "[{\"id\":\"2c88d9da-5636-40d2-9d1d-d3882c313960\",\"title\":\"Kearsipan\"},{\"id\":\"feba6ac2-0634-498a-a720-3eba52d2bc0d\",\"title\":\"Administrasi Negara\"},{\"id\":\"7551b4b0-9160-465c-9065-be559c153ce7\",\"title\":\"Administrasi Publik\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -7142,7 +7142,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 0,
+      "jumlah_terdaftar": 1,
       "program_studi": "[{\"id\":\"c13ae920-a48f-4a7c-8c89-2b286a7fc225\",\"title\":\"Akuntansi\"},{\"id\":\"9fd1a1f4-4075-402d-a01a-2577ad024d1d\",\"title\":\"Manajemen Akuntansi Hospitaliti\"},{\"id\":\"46dfcdcf-660f-41c6-b7f5-87b7a0183fbc\",\"title\":\"Pendidikan Akuntansi\"},{\"id\":\"02b4ec7d-94a2-4768-937f-ec401fac608e\",\"title\":\"Manajemen Keuangan\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {

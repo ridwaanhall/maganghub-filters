@@ -2042,7 +2042,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 3,
-      "jumlah_terdaftar": 9,
+      "jumlah_terdaftar": 10,
       "program_studi": "[{\"id\":\"c13ae920-a48f-4a7c-8c89-2b286a7fc225\",\"title\":\"Akuntansi\"},{\"id\":\"702dfd8b-b5b8-40fb-843b-4d503451b314\",\"title\":\"Ekonomi\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -2417,7 +2417,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 3,
-      "jumlah_terdaftar": 14,
+      "jumlah_terdaftar": 13,
       "program_studi": "[{\"id\":\"31ba52fd-02e4-4362-ba99-63e137bc4b50\",\"title\":\"Administrasi Server dan Jaringan Komputer\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -2642,7 +2642,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 3,
-      "jumlah_terdaftar": 13,
+      "jumlah_terdaftar": 15,
       "program_studi": "[{\"id\":\"792ca132-d4db-4dbf-bc54-e4ed7cac09f2\",\"title\":\"Hortikultura\"},{\"id\":\"72e5c5ae-a426-4849-b532-cdf0912f0600\",\"title\":\"Agronomi dan Hortikultura\"},{\"id\":\"66e56260-e83b-47ad-ad44-1388c50f41e3\",\"title\":\"Agribisnis Hortikultura\"},{\"id\":\"e2db3120-90fe-48db-aa47-1882288ebe00\",\"title\":\"Arsitektur Lanskap\"}]",
       "jenjang": "[\"Sarjana\",\"Diploma\"]",
       "ref_status_posisi": {
@@ -2792,7 +2792,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 3,
-      "jumlah_terdaftar": 53,
+      "jumlah_terdaftar": 54,
       "program_studi": "[{\"id\":\"fb8baadf-4b6f-423a-a499-07e330c61000\",\"title\":\"Administrasi Perkantoran\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -2942,7 +2942,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 3,
-      "jumlah_terdaftar": 34,
+      "jumlah_terdaftar": 35,
       "program_studi": "[{\"id\":\"b1d47991-f9e7-47c4-8e42-317b52b4d330\",\"title\":\"Ilmu Hukum\"},{\"id\":\"3e1f167b-ac1f-4208-b1f7-ff2244791c64\",\"title\":\"Psikologi\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -3017,7 +3017,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 3,
-      "jumlah_terdaftar": 43,
+      "jumlah_terdaftar": 44,
       "program_studi": "[{\"id\":\"9dfcaa37-a44b-4331-87ab-bd32dc1066cb\",\"title\":\"Desain Komunikasi Visual\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -3317,7 +3317,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 3,
-      "jumlah_terdaftar": 22,
+      "jumlah_terdaftar": 21,
       "program_studi": "[{\"id\":\"8631f68c-a0f0-4758-9251-a62190209909\",\"title\":\"Hubungan Masyarakat\"},{\"id\":\"9dfcaa37-a44b-4331-87ab-bd32dc1066cb\",\"title\":\"Desain Komunikasi Visual\"},{\"id\":\"e3668d6d-acab-4f65-8d20-262e73fe8f36\",\"title\":\"Manajemen Pemasaran\"},{\"id\":\"9d46d840-695e-4ecf-915c-ef58ebc36d9b\",\"title\":\"Administrasi Bisnis\"},{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -3917,7 +3917,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 3,
-      "jumlah_terdaftar": 11,
+      "jumlah_terdaftar": 12,
       "program_studi": "[{\"id\":\"702dfd8b-b5b8-40fb-843b-4d503451b314\",\"title\":\"Ekonomi\"},{\"id\":\"e3668d6d-acab-4f65-8d20-262e73fe8f36\",\"title\":\"Manajemen Pemasaran\"},{\"id\":\"3a0aa46f-fad2-4dd2-99b5-8164c69a12c0\",\"title\":\"Bisnis Manajemen Retail\"},{\"id\":\"be8dcb01-6d76-49d0-b853-fe389e0c7731\",\"title\":\"Agribisnis Perikanan\"},{\"id\":\"85473388-ebba-4a56-b888-d5984a424934\",\"title\":\"Teknik Pangan\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -4517,7 +4517,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 3,
-      "jumlah_terdaftar": 50,
+      "jumlah_terdaftar": 51,
       "program_studi": "[{\"id\":\"0c353635-be19-41e3-abef-287c8fd73d32\",\"title\":\"Teknologi Informasi\"},{\"id\":\"1bc51bba-ad9a-41fc-9b1a-9647b87788a4\",\"title\":\"Sains Data\"},{\"id\":\"9dfcaa37-a44b-4331-87ab-bd32dc1066cb\",\"title\":\"Desain Komunikasi Visual\"},{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"},{\"id\":\"689c292f-0f48-4b88-93ff-695196c71acb\",\"title\":\"Statistik\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -5117,7 +5117,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 3,
-      "jumlah_terdaftar": 17,
+      "jumlah_terdaftar": 16,
       "program_studi": "[{\"id\":\"4cd1c0b0-ea7b-4588-97cf-6ed073ff0d53\",\"title\":\"Informasi dan Humas\"},{\"id\":\"38a57855-c348-4e9e-845a-d3fa03c133b6\",\"title\":\"Jurnalistik\"},{\"id\":\"c9672149-95cd-4da9-8825-59fa83030831\",\"title\":\"Hubungan Masyarakat Dan Komunikasi Digital\"},{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -5267,7 +5267,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 3,
-      "jumlah_terdaftar": 13,
+      "jumlah_terdaftar": 14,
       "program_studi": "[{\"id\":\"fb8baadf-4b6f-423a-a499-07e330c61000\",\"title\":\"Administrasi Perkantoran\"},{\"id\":\"5e7e5ffe-e531-43b1-be7f-bec471586a1c\",\"title\":\"Administrasi Perkantoran Digital\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -5717,7 +5717,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 2,
-      "jumlah_terdaftar": 2,
+      "jumlah_terdaftar": 3,
       "program_studi": "[{\"id\":\"e90b7fe8-f4a5-4a1c-85f8-e929004b29e1\",\"title\":\"Desain Grafis\"},{\"id\":\"9dfcaa37-a44b-4331-87ab-bd32dc1066cb\",\"title\":\"Desain Komunikasi Visual\"},{\"id\":\"fdd0cd80-9387-472c-a73e-53404c431035\",\"title\":\"Desain Komunikasi Visual -\"},{\"id\":\"e2843b4a-1c93-44b9-bafd-c667c91efd9c\",\"title\":\"Desain Media\"},{\"id\":\"04fcc836-3374-4f8d-ad35-1e73c4e71013\",\"title\":\"Seni Rupa\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -6617,7 +6617,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 2,
-      "jumlah_terdaftar": 19,
+      "jumlah_terdaftar": 20,
       "program_studi": "[{\"id\":\"3e1f167b-ac1f-4208-b1f7-ff2244791c64\",\"title\":\"Psikologi\"},{\"id\":\"44c12a8c-7a88-47ea-87fb-0e7202a1390d\",\"title\":\"Administrasi\"},{\"id\":\"9d46d840-695e-4ecf-915c-ef58ebc36d9b\",\"title\":\"Administrasi Bisnis\"},{\"id\":\"fb8baadf-4b6f-423a-a499-07e330c61000\",\"title\":\"Administrasi Perkantoran\"},{\"id\":\"3659f3f7-7474-477e-b011-997b2d125a6c\",\"title\":\"Relasi Industri\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -6692,7 +6692,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 2,
-      "jumlah_terdaftar": 17,
+      "jumlah_terdaftar": 18,
       "program_studi": "[{\"id\":\"c13ae920-a48f-4a7c-8c89-2b286a7fc225\",\"title\":\"Akuntansi\"},{\"id\":\"37972e05-4e53-4f9d-beb1-a301de6a2572\",\"title\":\"Akuntansi Keuangan\"},{\"id\":\"38b04507-f733-4398-bdf8-3817c1378bae\",\"title\":\"Pajak\"},{\"id\":\"0b0a2a05-888a-43fc-ac2f-faa42ffd95da\",\"title\":\"Perpajakan\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -7142,7 +7142,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 2,
-      "jumlah_terdaftar": 34,
+      "jumlah_terdaftar": 35,
       "program_studi": "[{\"id\":\"44c12a8c-7a88-47ea-87fb-0e7202a1390d\",\"title\":\"Administrasi\"},{\"id\":\"e2ceca3e-19c6-4aae-aa29-c36be7f76487\",\"title\":\"Administrasi Keuangan\"},{\"id\":\"935d6ce0-4a39-4154-87bc-cb018c56bd48\",\"title\":\"Administrasi Pemerintahan\"},{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"},{\"id\":\"fa9c3906-d811-4cc1-836e-e861f0a75f01\",\"title\":\"Manajemen Administrasi Perkantoran\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
