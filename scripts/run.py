@@ -36,6 +36,7 @@ def main(argv: Optional[list[str]] = None) -> int:
     p.add_argument("--program_studi", default=None, help="Filter by program studi titles (space-separated, treated as OR)")
     p.add_argument("--posisi", default=None, help="Filter by posisi/role text (space-separated, treated as OR)")
     p.add_argument("--deskripsi_posisi", default=None, help="Filter by words in deskripsi_posisi (space-separated, treated as OR)")
+    p.add_argument("--gov", choices=["0", "1", "2"], default="2", help="Filter by government posting: 1 = government posting (government_agency or sub_government_agency present), 0 = neither present, 2 = both (default)")
     p.add_argument("--out", default=None, help="Optional output JSON file to write results")
     p.add_argument("--accept", choices=["desc", "asc"], default=None, help="Sort results by acceptance percentage: 'desc' or 'asc'")
 
@@ -84,7 +85,8 @@ def main(argv: Optional[list[str]] = None) -> int:
     # If structured filters provided, run a field-specific search. Within each
     # field tokens are treated as OR (match any). The overall combination is
     # AND across fields (item must satisfy all provided filters).
-    structured = any([args.nama_kabupaten, args.program_studi, args.posisi, args.deskripsi_posisi])
+    # treat --gov default ("2") as not an active structured filter; it's only active when user passes 0 or 1
+    structured = any([args.nama_kabupaten, args.program_studi, args.posisi, args.deskripsi_posisi]) or (str(args.gov) != "2")
 
     # Require at least one filter: either --deep or at least one structured flag
     if not structured and not args.deep:
@@ -160,8 +162,23 @@ def main(argv: Optional[list[str]] = None) -> int:
                     return True
             return False
 
+        def matches_gov(item) -> bool:
+            # args.gov values: "1" => only government postings; "0" => only non-government; "2" => both (default)
+            gv = str(args.gov or "2").strip()
+            ga = item.get("government_agency") or {}
+            sga = item.get("sub_government_agency") or {}
+            ga_name = (ga.get("government_agency_name") or "")
+            sga_name = (sga.get("sub_government_agency_name") or "")
+            has_any = bool(str(ga_name).strip()) or bool(str(sga_name).strip())
+            if gv == "1":
+                return has_any
+            if gv == "0":
+                return not has_any
+            # gv == "2" or unknown -> accept both
+            return True
+
         for item in iter_items_from_target():
-            if matches_kab(item) and matches_program(item) and matches_posisi(item) and matches_deskripsi(item):
+            if matches_kab(item) and matches_program(item) and matches_posisi(item) and matches_deskripsi(item) and matches_gov(item):
                 results.append(item)
                 if args.limit is not None and len(results) >= args.limit:
                     break
@@ -208,7 +225,7 @@ def main(argv: Optional[list[str]] = None) -> int:
         accept_pct_text = f"{(acceptance_prob * 100):.2f}%" if isinstance(acceptance_prob, float) else "-"
 
         rows.append([
-            item.get("id_posisi") or "-",
+            # item.get("id_posisi") or "-",
             posisi or "-",
             nama_perusahaan or "-",
             nama_kab or "-",
@@ -244,11 +261,11 @@ def main(argv: Optional[list[str]] = None) -> int:
     try:
         from tabulate import tabulate
 
-        headers = ["id_posisi", "posisi", "perusahaan", "kabupaten", "kuota", "terdaftar", "accept%"]
+        headers = ["posisi", "perusahaan", "kabupaten", "kuota", "terdaftar", "accept%"]
         print(tabulate(rows, headers=headers, tablefmt="github"))
     except Exception:
         # Fallback to manual formatting
-        col_headers = ["id_posisi", "posisi", "perusahaan", "kabupaten", "kuota", "terdaftar", "accept%"]
+        col_headers = ["posisi", "perusahaan", "kabupaten", "kuota", "terdaftar", "accept%"]
         col_widths = [max(len(str(cell)) for cell in col) for col in zip(*([[h for h in col_headers]] + rows))]
         fmt = "  ".join(f"{{:<{w}}}" for w in col_widths)
         headers = col_headers
