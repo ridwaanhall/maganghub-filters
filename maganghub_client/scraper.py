@@ -14,6 +14,7 @@ import json
 import logging
 import os
 import time
+from datetime import datetime, timezone
 from typing import Any, Dict, Optional
 
 import requests
@@ -85,9 +86,18 @@ class VacanciesScraper:
         """Save a page dict to `save_dir/<page>.json` and return the path."""
         os.makedirs(save_dir, exist_ok=True)
         path = os.path.join(save_dir, f"{page}.json")
+        # add a scraped timestamp (UTC ISO 8601) to the saved payload
+        ts = datetime.now(timezone.utc).isoformat()
+        if isinstance(data, dict):
+            to_write = dict(data)
+            to_write["_scraped_at"] = ts
+        else:
+            # preserve non-dict payloads by wrapping them
+            to_write = {"data": data, "_scraped_at": ts}
+
         with open(path, "w", encoding="utf-8") as fh:
-            json.dump(data, fh, ensure_ascii=False, indent=2)
-        logger.info("Saved page %s -> %s", page, path)
+            json.dump(to_write, fh, ensure_ascii=False, indent=2)
+        logger.info("Saved page %s at %s -> %s", page, ts, path)
         return path
 
     def scrape_all(
