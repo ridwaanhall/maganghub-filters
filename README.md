@@ -1,7 +1,16 @@
-MagangHub Advanced Filters — scraper & search toolkit
-=============================================
+MagangHub Advanced Filters — scraper, merger, and search toolkit for vacancies
+====================================================================
 
-Lightweight, professional CLI tools to fetch vacancies from the MagangHub public API and search saved results locally. The project uses a small OOP client, a resilient scraper that saves pages as JSON, a merger for combining page files, and a flexible search CLI.
+This repository provides an OOP Python client and command-line tools to
+scrape the MagangHub public vacancies API, persist raw page JSON (each
+file contains an ISO UTC `_scraped_at` timestamp), merge saved pages into
+a single file, and run powerful local searches. Key features include a
+resilient `requests`-based scraper, a merger for numeric page files,
+structured filters (e.g. `--nama_kabupaten`, `--program_studi`,
+`--posisi`, `--deskripsi_posisi`), a government-postings filter
+(`--gov` with `0|1|2` semantics), free-text deep search, and optional
+JSON export with helper fields such as `_applicants_per_slot` and
+`_acceptance_prob`.
 
 What is included
 -----------------
