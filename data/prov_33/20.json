@@ -1,0 +1,20 @@
+{
+  "data": [],
+  "meta": {
+    "pagination": {
+      "current_page": 20,
+      "first_page_url": null,
+      "from": null,
+      "last_page": 19,
+      "last_page_url": null,
+      "links": null,
+      "next_page_url": null,
+      "path": null,
+      "per_page": 100,
+      "prev_page_url": null,
+      "to": null,
+      "total": 1812
+    }
+  },
+  "_scraped_at": "2025-11-11T02:50:45.787967+00:00"
+}
