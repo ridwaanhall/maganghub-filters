@@ -1,4 +1,4 @@
- # MagangHub Advanced Filters — scraper, merger, and search toolkit for vacancies
+# MagangHub Advanced Filters — scraper, merger, and search toolkit for vacancies
 
 This repository provides an OOP Python client and command-line tools to
 scrape the MagangHub public vacancies API, persist raw page JSON (each
@@ -58,7 +58,7 @@ python scripts/scrape_and_save.py --save-dir data/prov_33 --kode_provinsi 33
 - `--max-pages`: optional cap
 - `--delay`: politeness delay between requests
 
-## Merge pages (optional)
+## Merge pages (unrecommend)
 
 Combine numeric page files into `all.json`.
 
@@ -73,6 +73,7 @@ python scripts/build_all_json.py --dir data/prov_33
 `scripts/run.py` supports both free-text and structured searches.
 
 Structured filters (examples):
+
 - `--nama_kabupaten` — space-separated tokens (OR within field). Prefixes like `KAB.` / `KOTA` are removed for matching.
 - `--program_studi` — tokens matched against program titles parsed from `program_studi`.
 - `--posisi` — tokens matched against the `posisi` (title).
@@ -143,25 +144,21 @@ This project consumes MagangHub's public API (Kementerian Ketenagakerjaan). Use 
 
 If you want a shorter quickstart or a maintainer-focused README, tell me which audience and I will produce a trimmed variant.
 
-
 ## Quick concepts
 
 This is a structured, professional README for the MagangHub scraping and search tools.
 
-Overview
---------
+## Overview
 
 This repository provides a command-line toolkit to scrape the MagangHub public vacancies API, merge results, and perform searches on the saved data.
 
-Features
---------
+## Features
 
 - **Scraping**: Fetch and save vacancies from the API.
 - **Merging**: Combine multiple JSON files into a single file for easier access.
 - **Search CLI**: A command-line interface for searching through saved vacancies with various filters.
 
-Usage
------
+## Usage
 
 ### Scraping
 
@@ -187,8 +184,7 @@ To search through saved vacancies, use:
 python scripts/run.py --dir data/prov_33 --nama_kabupaten "example" --gov 1
 ```
 
-Examples
---------
+## Examples
 
 ### Government Postings
 
@@ -206,8 +202,7 @@ For a free-text search, you can use:
 python scripts/run.py --dir data/prov_33 --deep "search term"
 ```
 
-Conclusion
-----------
+## Conclusion
 
 This toolkit is designed to help users efficiently scrape, merge, and search through job vacancies from the MagangHub API. For further assistance, please refer to the documentation or contact support.
 3. Run `scripts/run.py` to filter and inspect results locally.
@@ -257,9 +252,7 @@ Notes
 
 - Saved files are the raw JSON responses from the API. Keep the `data/` folder private — it may contain many files.
 
-2) (Optional) Merge pages into a single file
-
---------------
+## Merge pages (unrecommended)
 
 If you prefer a single file, run the merger which reads numeric `*.json` files and writes `all.json`:
 
@@ -273,9 +266,7 @@ Output structure (simple):
 { "data": [ ...all items... ], "meta": { "pages": [ {"file":"1.json","count":10}, ...], "total_items": N }}
 ```
 
-3) Search saved pages (recommended)
-
---------------
+## Search saved pages (recommended)
 
 The main interactive CLI is `scripts/run.py`. It supports two modes:
 
@@ -298,8 +289,7 @@ python .\scripts\run.py --dir data\prov_33 --nama_kabupaten "boyolali surakarta 
 - `--dir all` — special value: search across every subfolder under `data/` (e.g. `data/prov_33`, `data/prov_34`, ...).
 - `--out` — save matched items (with computed fields) to a JSON file.
 
-Government postings filter
-----------------------------
+## Government postings filter
 
 You can filter results by whether a vacancy is a government posting using `--gov` with numeric values:
 
@@ -329,9 +319,7 @@ python .\scripts\run.py --dir data\prov_33 --deep "sleman yogyakarta marketing M
 
 - `--mode` controls token logic for `--deep` (`and` or `or`, default `or`).
 
-What the table shows
-
---------------
+## What the table shows
 
 The table displays these columns:
 
