@@ -53,7 +53,13 @@ def filter_view(request):
 
 	# apply post-filters (kabupaten, program_studi, government_agency)
 	def _match_prog(item):
+		# if no program_studi filter provided, accept all
 		if not program_studi_q:
+			return True
+		# split the user input into tokens and match if ANY token appears in the
+		# program_studi titles (OR semantic as requested)
+		tokens = [t.strip().lower() for t in program_studi_q.split() if t.strip()]
+		if not tokens:
 			return True
 		titles = []
 		ps = item.get("program_studi")
@@ -65,7 +71,7 @@ def filter_view(request):
 		except Exception:
 			titles = [ps] if ps else []
 		lowered = "\n".join([str(t).lower() for t in titles])
-		return program_studi_q.lower() in lowered
+		return any(tok in lowered for tok in tokens)
 
 	def _match_kab(item):
 		if not kabupaten_list:
