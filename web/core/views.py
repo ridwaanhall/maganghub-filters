@@ -268,15 +268,16 @@ def filter_view(request):
 					jt_i = int(jt)
 				except Exception:
 					jt_i = 0
-				# Option B: display jumlah_kuota / jumlah_terdaftar and percentage = kuota / terdaftar
-				if jt_i > 0:
-					pct = (jq_i / jt_i) * 100.0
-					numer = jq_i
-					denom = jt_i
-					display_results[-1]["accept_pct"] = f"{numer}/{denom} ({pct:.1f}%)"
-				else:
-					# no registrants -> cannot compute percentage
-					display_results[-1]["accept_pct"] = f"{jq_i}/0 (-)"
+				# Option B: display jumlah_kuota / jumlah_terdaftar and compute pct = kuota / terdaftar
+				numer = jq_i
+				denom = jt_i
+				safe_denom = jt_i if jt_i > 0 else 1
+				try:
+					pct = (jq_i / safe_denom) * 100.0
+				except Exception:
+					pct = 0.0
+				# always display actual denom (may be 0) but compute using safe_denom
+				display_results[-1]["accept_pct"] = f"{numer}/{denom} ({pct:.1f}%)"
 			except Exception:
 				# on any error, set placeholder
 				display_results[-1]["accept_pct"] = "-"
