@@ -32,12 +32,15 @@
         </div>
 
         <div>
-          <label>Government Agency</label>
-          <select name="government_agency_present" class="w-full p-2 border rounded">
-            <option value="both" {% if government_agency_present == 'both' %}selected{% endif %}>Both</option>
-            <option value="true" {% if government_agency_present == 'true' %}selected{% endif %}>Has government agency</option>
-            <option value="false" {% if government_agency_present == 'false' %}selected{% endif %}>No government agency</option>
-          </select>
+          <label>Government / Non-government</label>
+          <div id="gov-container" class="w-full p-2 border rounded h-24 overflow-auto">
+            {% for val,label in gov_options %}
+              <label class="block">
+                <input type="checkbox" name="gov" value="{{ val }}" {% if val in selected_govs %}checked{% endif %}>
+                <span class="ml-2">{{ label }}</span>
+              </label>
+            {% endfor %}
+          </div>
         </div>
       </div>
 
