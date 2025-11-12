@@ -33,6 +33,8 @@ def filter_view(request):
 	kabupaten_list = request.GET.getlist("kabupaten")
 	program_studi_q = request.GET.get("program_studi", "").strip()
 	government_agency_present = request.GET.get("government_agency_present", "both")
+	# keywords will search inside deskripsi_posisi (tokenized OR)
+	keywords_q = request.GET.get("keywords", "").strip()
 
 	# iterate items across selected provinces
 	results: List[dict] = []
@@ -99,8 +101,22 @@ def filter_view(request):
 			return not has_gov
 		return True
 
+	def _match_keywords(item):
+		"""Match any token in `keywords_q` against the vacancy's deskripsi_posisi."""
+		if not keywords_q:
+			return True
+		toks = [t.strip().lower() for t in keywords_q.split() if t.strip()]
+		if not toks:
+			return True
+		desc = (item.get("deskripsi_posisi") or "")
+		if not desc:
+			# also try posisi as a fallback
+			desc = item.get("posisi") or ""
+		desc_lower = str(desc).lower()
+		return any(tok in desc_lower for tok in toks)
+
 	if results:
-		filtered = [it for it in results if _match_kab(it) and _match_prog(it) and _match_gov(it)]
+		filtered = [it for it in results if _match_kab(it) and _match_prog(it) and _match_gov(it) and _match_keywords(it)]
 	else:
 		filtered = []
 
@@ -232,8 +248,9 @@ def filter_view(request):
 		"prov_choices": sorted(prov_choices),
 		"selected_provs": prov_list,
 		"selected_kabs": kabupaten_list,
-	"program_studi_q": program_studi_q,
-	"government_agency_present": government_agency_present,
+		"program_studi_q": program_studi_q,
+		"government_agency_present": government_agency_present,
+		"keywords_q": keywords_q,
 		"results": results,
 		"error": error,
 		"kab_choices": kab_choices,
