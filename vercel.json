@@ -1,22 +1,23 @@
+
 {
 	"builds": [
-        {
-            "src": "maganghub/wsgi.py",
-            "use": "@vercel/python",
-            "config": {
-                "maxLambdaSize": "50mb",
-                "runtime": "python3.12"
-            }
-        }
-    ],
+		{
+			"src": "api/wsgi.py",
+			"use": "@vercel/python",
+			"config": {
+				"maxLambdaSize": "100mb",
+				"runtime": "python3.12"
+			}
+		}
+	],
 	"routes": [
 		{
-			"src": "static/(.*)",
-			"dest": "staticfiles/$1"
+			"src": "web/static/(.*)",
+			"dest": "web/staticfiles/$1"
 		},
 		{
-			"src": "(.*)",
-			"dest": "maganghub/wsgi.py"
+			"src": "/(.*)",
+			"dest": "api/wsgi.py"
 		}
 	]
 }
