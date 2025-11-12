@@ -1,7 +1,7 @@
 {
 	"builds": [
         {
-            "src": "web/maganghub/wsgi.py",
+            "src": "maganghub/wsgi.py",
             "use": "@vercel/python",
             "config": {
                 "maxLambdaSize": "50mb",
@@ -11,12 +11,12 @@
     ],
 	"routes": [
 		{
-			"src": "web/static/(.*)",
-			"dest": "web/staticfiles/$1"
+			"src": "static/(.*)",
+			"dest": "staticfiles/$1"
 		},
 		{
-			"src": "web/(.*)",
-			"dest": "web/maganghub/wsgi.py"
+			"src": "(.*)",
+			"dest": "maganghub/wsgi.py"
 		}
 	]
 }
