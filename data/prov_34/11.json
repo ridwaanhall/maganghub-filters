@@ -1,0 +1,171 @@
+{
+  "data": [
+    {
+      "id_posisi": "a054d49c-0fcd-4712-ac96-d3563f8958bf",
+      "posisi": "Customer Relation",
+      "deskripsi_posisi": "• Pendidikan minimal S1 dari jurusan relevan.\n• Mahir berkomunikasi, melakukan presentasi, dan negosiasi secara efektif.\n• Memiliki kemampuan analitis yang kuat, mampu bekerja dengan data, gesit, dan peka terhadap peluang bisnis.\n• Menyukai tantangan dan mampu bekerja dalam lingkungan yang dinamis.\n• Senang bersosialisasi, berpikir kritis, percaya diri, mature, serta memiliki motivasi dan kemandirian tinggi (self-driven).",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "57e67013-50a6-4631-beed-4bee1dc42152",
+      "created_at": "2025-11-11 18:21:01",
+      "updated_at": "2025-11-11 19:15:24",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 1,
+      "jumlah_terdaftar": 1,
+      "program_studi": "[{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"},{\"id\":\"e3668d6d-acab-4f65-8d20-262e73fe8f36\",\"title\":\"Manajemen Pemasaran\"},{\"id\":\"d3f1aee5-eb97-4b07-9029-557e1b03626b\",\"title\":\"Manajemen Pemasaran Pariwisata\"},{\"id\":\"e12302ac-c8dc-4d0a-90a7-402f6fafd27e\",\"title\":\"Manajemen Pemasaran\\/Marketing\"},{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"}]",
+      "jenjang": "[\"Diploma\",\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "57e67013-50a6-4631-beed-4bee1dc42152",
+        "id_sumber_dana": null,
+        "id_perusahaan": "960b359e-cbcd-46a4-a9e7-80ec9bc4b3f7",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "960b359e-cbcd-46a4-a9e7-80ec9bc4b3f7",
+        "id_desa": null,
+        "nama_perusahaan": "Avinci Planner",
+        "deskripsi_perusahaan": null,
+        "alamat": "Jalan Letkol Subadri, Ngangkrik",
+        "logo": null,
+        "banner": null,
+        "created_at": "2025-11-11 18:21:01",
+        "updated_at": "2025-11-11 19:15:24",
+        "kode_kabupaten": "3404",
+        "nama_kabupaten": "KAB. SLEMAN",
+        "kode_provinsi": "34",
+        "nama_provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": null
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": null
+      }
+    },
+    {
+      "id_posisi": "a05497ff-b653-4559-9ade-336861833ff9",
+      "posisi": "Penata Keprotokolan",
+      "deskripsi_posisi": "Mengelola dan melaksanakan protokoler acara: \n1. Perencanaan (penyusunan daftar, korespondensi, undangan, jadwal kegiatan) \n2. Penyambutan tamu, tata tempat dan tata upacara\n3. Pendampingan pimpinan & anggota\n4. Menyiapkan rapat dan menyusun notulensi rapat serta laporan kegiatan\n5. Melaksanakan tugas kedinasan lain yang diberikan atasan",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "2848db1c-eaef-4e57-8b9f-cbf943e30ec9",
+      "created_at": "2025-11-11 07:54:17",
+      "updated_at": "2025-11-11 07:54:17",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 1,
+      "jumlah_terdaftar": 7,
+      "program_studi": "[{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"},{\"id\":\"63ce091e-3c73-424f-a68e-068d13a4f3b4\",\"title\":\"Ilmu Administrasi Publik\"},{\"id\":\"c0e490db-3138-4b19-993b-114d13a6ce6f\",\"title\":\"Ilmu Pemerintahan\"},{\"id\":\"b725ac52-6009-47c6-a349-3c15a8dc9141\",\"title\":\"Ilmu Politik\"},{\"id\":\"62c7cc14-9834-43f6-8f09-3d00e94c6671\",\"title\":\"Manajemen dan Kebijakan Publik\"}]",
+      "jenjang": "[\"Sarjana\",\"Diploma\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "2848db1c-eaef-4e57-8b9f-cbf943e30ec9",
+        "id_sumber_dana": null,
+        "id_perusahaan": "9d6f0425-0755-4996-8aeb-4a7322891f39",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "9d6f0425-0755-4996-8aeb-4a7322891f39",
+        "id_desa": null,
+        "nama_perusahaan": "Kantor DPD RI di Ibu Kota Provinsi DI Yogyakarta",
+        "deskripsi_perusahaan": null,
+        "alamat": "Kantor DPD RI DIY Jl. Kusumanegara No. 133, Yogyakarta 55164",
+        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/MWryCu3t3hSm8SUzUtspfxK3jPEXgWDjcFPhNNm6.png",
+        "banner": null,
+        "created_at": "2025-11-11 07:54:17",
+        "updated_at": "2025-11-11 07:54:17",
+        "kode_kabupaten": "3471",
+        "nama_kabupaten": "KOTA YOGYAKARTA",
+        "kode_provinsi": "34",
+        "nama_provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": "Dewan Perwakilan Daerah Republik Indonesia (DPD RI)"
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": "Kantor DPD RI di Ibu Kota Provinsi DI Yogyakarta"
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "current_page": 11,
+      "first_page_url": null,
+      "from": 1001,
+      "last_page": 11,
+      "last_page_url": null,
+      "links": null,
+      "next_page_url": null,
+      "path": null,
+      "per_page": 100,
+      "prev_page_url": null,
+      "to": 1002,
+      "total": 1002
+    }
+  },
+  "_scraped_at": "2025-11-12T04:57:46.888464+00:00"
+}
