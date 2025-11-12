@@ -278,7 +278,7 @@ def filter_view(request):
 				denom = jt_i
 				safe_denom = jt_i if jt_i > 0 else 1
 				try:
-					pct = (jq_i / (safe_denom + 1)) * 100.0
+					pct = (jq_i / safe_denom) * 100.0
 				except Exception:
 					pct = 0.0
 				# always display actual denom (may be 0) but compute using safe_denom
