@@ -1,156 +1,6 @@
 {
   "data": [
     {
-      "id_posisi": "a0464dac-4856-4d76-ab10-10f166666311",
-      "posisi": "Program / Event Planning",
-      "deskripsi_posisi": "Deskripsi Jabatan \n- Menyusun konsep dan jadwal kegiatan pelatihan atau webinar.\n- Mengkoordinasikan narasumber, peserta, dan tim internal.\n- Membuat timeline, kebutuhan teknis, dan laporan pelaksanaan kegiatan.",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "16cb56b2-8cf1-4164-826b-344cb264bb19",
-      "created_at": "2025-10-31 09:58:47",
-      "updated_at": null,
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 1,
-      "jumlah_terdaftar": 2,
-      "program_studi": "[{\"id\":\"9808ccda-82eb-47cd-a2e5-78d6baf95192\",\"title\":\"Pemasaran Digital\"},{\"id\":\"e12302ac-c8dc-4d0a-90a7-402f6fafd27e\",\"title\":\"Manajemen Pemasaran\\/Marketing\"},{\"id\":\"e3668d6d-acab-4f65-8d20-262e73fe8f36\",\"title\":\"Manajemen Pemasaran\"},{\"id\":\"3e1f167b-ac1f-4208-b1f7-ff2244791c64\",\"title\":\"Psikologi\"}]",
-      "jenjang": "[\"Diploma\",\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "16cb56b2-8cf1-4164-826b-344cb264bb19",
-        "id_sumber_dana": null,
-        "id_perusahaan": "bc96d61e-424f-4b57-ae2e-d038edf71a9e",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "bc96d61e-424f-4b57-ae2e-d038edf71a9e",
-        "id_desa": null,
-        "nama_perusahaan": "Biro Psikolog Anda",
-        "deskripsi_perusahaan": null,
-        "alamat": "Tamansari Hills Residence B01 No.10",
-        "logo": null,
-        "banner": null,
-        "created_at": "2025-10-31 09:58:47",
-        "updated_at": null,
-        "kode_kabupaten": "3374",
-        "nama_kabupaten": "KOTA SEMARANG",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": null
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": null
-      }
-    },
-    {
-      "id_posisi": "a0489124-9ecf-4953-b1a2-7fe94cc388ea",
-      "posisi": "MARKETING",
-      "deskripsi_posisi": "Membantu untuk mengelola  dan meningkatkan  program-program dan target marketing untuk  perusahaan KINKEN.. Mengembangkakan sistem marketing yang sudah ada",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "6aaffc23-2d1b-49df-bbf4-57a5c95d132a",
-      "created_at": "2025-11-05 14:03:15",
-      "updated_at": "2025-11-05 16:31:32",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 1,
-      "jumlah_terdaftar": 2,
-      "program_studi": "[{\"id\":\"e12302ac-c8dc-4d0a-90a7-402f6fafd27e\",\"title\":\"Manajemen Pemasaran\\/Marketing\"}]",
-      "jenjang": "[\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "6aaffc23-2d1b-49df-bbf4-57a5c95d132a",
-        "id_sumber_dana": null,
-        "id_perusahaan": "3232ca9e-abd3-4d07-83e1-9db9376f158c",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "3232ca9e-abd3-4d07-83e1-9db9376f158c",
-        "id_desa": null,
-        "nama_perusahaan": "Kinken",
-        "deskripsi_perusahaan": null,
-        "alamat": "JL. P. DIPONEGORO 141 B, KUTOARJO",
-        "logo": null,
-        "banner": null,
-        "created_at": "2025-11-05 14:03:15",
-        "updated_at": "2025-11-05 16:31:32",
-        "kode_kabupaten": "3306",
-        "nama_kabupaten": "KAB. PURWOREJO",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": null
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": null
-      }
-    },
-    {
       "id_posisi": "a04894be-e82a-4ad8-b26c-2d7438ef4a71",
       "posisi": "hrd",
       "deskripsi_posisi": "Membantu dalam hal terkait manajemen karyawan, mulai dari rekrutmen dan seleksi, administrasi, hingga pengembangan karyawan karyawan di perusahaan KINKEN",
@@ -301,9 +151,9 @@
       }
     },
     {
-      "id_posisi": "a0464fd0-2f0c-42f3-b2c6-b6f4a459c38e",
-      "posisi": "Content & Branding",
-      "deskripsi_posisi": "Deskripsi Jabatan \n- Membuat ide, naskah, dan desain konten untuk media sosial.\n- Mengelola jadwal posting dan memastikan konsistensi branding.\n- Produksi konten kreatif dan edukatif social media",
+      "id_posisi": "a0464ced-feb7-4045-bfd5-f5f813494515",
+      "posisi": "Asisten Psikolog",
+      "deskripsi_posisi": "Deskripsi Jabatan \n- Membantu pelaksanaan psikotest offline maupun online\n- Menjadi tester pelaksanaan psikotest \n- Melakukan skoring hasil asesmen \n- Menyiapkan kebutuhan pelaksanaan asesmen \n- Mendukung seluruh project yang sedang berjalan",
       "syarat_khusus": null,
       "usia_minimal": null,
       "usia_maksimal": null,
@@ -317,9 +167,9 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 2,
-      "program_studi": "[{\"id\":\"9808ccda-82eb-47cd-a2e5-78d6baf95192\",\"title\":\"Pemasaran Digital\"},{\"id\":\"e12302ac-c8dc-4d0a-90a7-402f6fafd27e\",\"title\":\"Manajemen Pemasaran\\/Marketing\"},{\"id\":\"e90b7fe8-f4a5-4a1c-85f8-e929004b29e1\",\"title\":\"Desain Grafis\"},{\"id\":\"5b5e65ba-fdea-4e3f-aacc-a319397a0258\",\"title\":\"Penyuntingan Audio dan Video\"},{\"id\":\"9dfcaa37-a44b-4331-87ab-bd32dc1066cb\",\"title\":\"Desain Komunikasi Visual\"}]",
-      "jenjang": "[\"Diploma\",\"Sarjana\"]",
+      "jumlah_terdaftar": 19,
+      "program_studi": "[{\"id\":\"3e1f167b-ac1f-4208-b1f7-ff2244791c64\",\"title\":\"Psikologi\"}]",
+      "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
         "id_status_posisi": 2,
         "nama_status_posisi": "Terverifikasi"
@@ -451,47 +301,47 @@
       }
     },
     {
-      "id_posisi": "a0464ced-feb7-4045-bfd5-f5f813494515",
-      "posisi": "Asisten Psikolog",
-      "deskripsi_posisi": "Deskripsi Jabatan \n- Membantu pelaksanaan psikotest offline maupun online\n- Menjadi tester pelaksanaan psikotest \n- Melakukan skoring hasil asesmen \n- Menyiapkan kebutuhan pelaksanaan asesmen \n- Mendukung seluruh project yang sedang berjalan",
+      "id_posisi": "a05213e1-e332-42df-aed5-b9a25d07777e",
+      "posisi": "Dokter Jaga",
+      "deskripsi_posisi": "Mencakup pelayanan medis dasar, termasuk pemeriksaan pasien, diagnosis kerja, pemberian terapi, dan konsultasi, di bawah supervisi dokter pendamping. Tugas lainnya adalah mengelola dokumen medis, melakukan prosedur sederhana, memberikan edukasi kepada pasien, serta terlibat dalam kegiatan ilmiah dan program kesehatan masyarakat",
       "syarat_khusus": null,
       "usia_minimal": null,
       "usia_maksimal": null,
       "revisi": null,
       "id_kondisi_fisik": null,
-      "id_program": "16cb56b2-8cf1-4164-826b-344cb264bb19",
-      "created_at": "2025-10-31 09:58:47",
-      "updated_at": null,
+      "id_program": "b43e963c-9c44-43eb-b72a-d7fd3229b68d",
+      "created_at": "2025-11-10 09:42:49",
+      "updated_at": "2025-11-10 09:45:47",
       "kode_kbji": null,
       "penempatan": null,
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 19,
-      "program_studi": "[{\"id\":\"3e1f167b-ac1f-4208-b1f7-ff2244791c64\",\"title\":\"Psikologi\"}]",
+      "jumlah_terdaftar": 0,
+      "program_studi": "[{\"id\":\"7428ac9a-c11e-4909-ac0f-56865c24b0e5\",\"title\":\"Kedokteran\"},{\"id\":\"22ab29bb-8406-48f2-ad2d-1fea4d3673a9\",\"title\":\"Pendidikan Dokter\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
         "id_status_posisi": 2,
         "nama_status_posisi": "Terverifikasi"
       },
       "program": {
-        "id_program": "16cb56b2-8cf1-4164-826b-344cb264bb19",
+        "id_program": "b43e963c-9c44-43eb-b72a-d7fd3229b68d",
         "id_sumber_dana": null,
-        "id_perusahaan": "bc96d61e-424f-4b57-ae2e-d038edf71a9e",
+        "id_perusahaan": "bae95df8-08e9-4c9c-aea5-f3951cae6e65",
         "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
       },
       "perusahaan": {
-        "id_perusahaan": "bc96d61e-424f-4b57-ae2e-d038edf71a9e",
+        "id_perusahaan": "bae95df8-08e9-4c9c-aea5-f3951cae6e65",
         "id_desa": null,
-        "nama_perusahaan": "Biro Psikolog Anda",
+        "nama_perusahaan": "Mitra Sehat Maju Sentosa",
         "deskripsi_perusahaan": null,
-        "alamat": "Tamansari Hills Residence B01 No.10",
-        "logo": null,
-        "banner": null,
-        "created_at": "2025-10-31 09:58:47",
-        "updated_at": null,
-        "kode_kabupaten": "3374",
-        "nama_kabupaten": "KOTA SEMARANG",
+        "alamat": "JALAN VETERAN NOMOR 70, PANDEYAN",
+        "logo": "https://wlkp-assets.kemnaker.go.id/companies/5ab80268-b23b-40c1-9bdd-74543cb78134/691150333b4e6.png",
+        "banner": "https://wlkp-assets.kemnaker.go.id/companies/5ab80268-b23b-40c1-9bdd-74543cb78134/6911503882917.JPG",
+        "created_at": "2025-11-10 09:42:49",
+        "updated_at": "2025-11-10 09:45:47",
+        "kode_kabupaten": "3311",
+        "nama_kabupaten": "KAB. SUKOHARJO",
         "kode_provinsi": "33",
         "nama_provinsi": "JAWA TENGAH"
       },
@@ -526,9 +376,9 @@
       }
     },
     {
-      "id_posisi": "a04c9449-5650-4af2-a422-6bf57eac514e",
-      "posisi": "Farmasi",
-      "deskripsi_posisi": "1. melakukan edukasi obat ke pasien\n2. ⁠melakukan inventarisasi kebutuhan obat untuk pelayanan kefarmasian\n3. ⁠pelayanan resep, baik resep rawat jalan maupun rawat inap\n4. ⁠meracik obat sesuai resep",
+      "id_posisi": "a04c96a6-2a15-46a2-9027-e4b13971071a",
+      "posisi": "Case Manager/Manajer Pelayanan Pasien",
+      "deskripsi_posisi": "- sesmen dan perencanaan: Melakukan penilaian kebutuhan pasien dan merencanakan penatalaksanaan pelayanan yang komprehensif. \n- Koordinasi: Mengoordinasikan berbagai jenis pelayanan yang dibutuhkan pasien agar berjalan efisien dan terintegrasi. \n- Fasilitasi: Memastikan komunikasi yang lancar antara pasien, keluarga, dan semua penyedia layanan kesehatan (dokter, perawat, ahli gizi, dll.). \n- Advokasi: Mendukung pasien dan keluarga dalam menghadapi kesulitan, serta memastikan kebutuhan dan keinginan mereka terpenuhi. \n- Evaluasi: Memantau dan mengevaluasi hasil pelayanan untuk mencapai hasil asuhan pasien yang terbaik.",
       "syarat_khusus": null,
       "usia_minimal": null,
       "usia_maksimal": null,
@@ -542,9 +392,9 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 8,
-      "program_studi": "[{\"id\":\"4f53bef4-5310-443b-82bc-1e99f1f2ef08\",\"title\":\"Farmasi\"},{\"id\":\"664e78c5-8af2-4932-8e01-2a2dcfac5d50\",\"title\":\"Farmasi Klinis\"},{\"id\":\"e99673f1-4d14-4c5d-8c05-7e3607d3135b\",\"title\":\"Farmasi Klinik Dan Komunitas\"}]",
-      "jenjang": "[\"Diploma\",\"Sarjana\"]",
+      "jumlah_terdaftar": 1,
+      "program_studi": "[{\"id\":\"22ab29bb-8406-48f2-ad2d-1fea4d3673a9\",\"title\":\"Pendidikan Dokter\"},{\"id\":\"7428ac9a-c11e-4909-ac0f-56865c24b0e5\",\"title\":\"Kedokteran\"}]",
+      "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
         "id_status_posisi": 2,
         "nama_status_posisi": "Terverifikasi"
@@ -826,9 +676,9 @@
       }
     },
     {
-      "id_posisi": "a048d78b-9b27-4cdd-b156-cb423deb6726",
-      "posisi": "Staf Research Development",
-      "deskripsi_posisi": "Melaksanakan tugas penelitian dan pengembangan satelit RS \nMenjadi asisten penelitian dan pengabdian masyarakat pada customer RS \nMenjadi pelaksana tugas harian research development bidang terapi okupasi  yang sedang dikembangkan oleh RS bersama mitra perguruan tinggi",
+      "id_posisi": "a04c9449-5650-4af2-a422-6bf57eac514e",
+      "posisi": "Farmasi",
+      "deskripsi_posisi": "1. melakukan edukasi obat ke pasien\n2. ⁠melakukan inventarisasi kebutuhan obat untuk pelayanan kefarmasian\n3. ⁠pelayanan resep, baik resep rawat jalan maupun rawat inap\n4. ⁠meracik obat sesuai resep",
       "syarat_khusus": null,
       "usia_minimal": null,
       "usia_maksimal": null,
@@ -842,9 +692,9 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 2,
-      "program_studi": "[{\"id\":\"8a1cabfc-284c-44e7-a021-0312141020ca\",\"title\":\"Terapi Okupasi\"}]",
-      "jenjang": "[\"Sarjana\",\"Diploma\"]",
+      "jumlah_terdaftar": 8,
+      "program_studi": "[{\"id\":\"4f53bef4-5310-443b-82bc-1e99f1f2ef08\",\"title\":\"Farmasi\"},{\"id\":\"664e78c5-8af2-4932-8e01-2a2dcfac5d50\",\"title\":\"Farmasi Klinis\"},{\"id\":\"e99673f1-4d14-4c5d-8c05-7e3607d3135b\",\"title\":\"Farmasi Klinik Dan Komunitas\"}]",
+      "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
         "id_status_posisi": 2,
         "nama_status_posisi": "Terverifikasi"
@@ -976,9 +826,9 @@
       }
     },
     {
-      "id_posisi": "a048d547-4921-47e9-8f41-b6daccb134ec",
-      "posisi": "Staf Akuntansi",
-      "deskripsi_posisi": "mencatat transaksi keuangan, menyusun laporan keuangan bulanan dan tahunan, melakukan rekonsiliasi bank, memantau arus kas, memverifikasi bukti transaksi, serta membantu audit internal dan eksternal agar keuangan rumah sakit tetap akurat dan transparan.",
+      "id_posisi": "a048d78b-9b27-4cdd-b156-cb423deb6726",
+      "posisi": "Staf Research Development",
+      "deskripsi_posisi": "Melaksanakan tugas penelitian dan pengembangan satelit RS \nMenjadi asisten penelitian dan pengabdian masyarakat pada customer RS \nMenjadi pelaksana tugas harian research development bidang terapi okupasi  yang sedang dikembangkan oleh RS bersama mitra perguruan tinggi",
       "syarat_khusus": null,
       "usia_minimal": null,
       "usia_maksimal": null,
@@ -992,9 +842,9 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 9,
-      "program_studi": "[{\"id\":\"c13ae920-a48f-4a7c-8c89-2b286a7fc225\",\"title\":\"Akuntansi\"}]",
-      "jenjang": "[\"Sarjana\"]",
+      "jumlah_terdaftar": 2,
+      "program_studi": "[{\"id\":\"8a1cabfc-284c-44e7-a021-0312141020ca\",\"title\":\"Terapi Okupasi\"}]",
+      "jenjang": "[\"Sarjana\",\"Diploma\"]",
       "ref_status_posisi": {
         "id_status_posisi": 2,
         "nama_status_posisi": "Terverifikasi"
@@ -1017,81 +867,6 @@
         "updated_at": "2025-11-03 14:17:39",
         "kode_kabupaten": "3323",
         "nama_kabupaten": "KAB. TEMANGGUNG",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": null
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": null
-      }
-    },
-    {
-      "id_posisi": "a05213e1-e332-42df-aed5-b9a25d07777e",
-      "posisi": "Dokter Jaga",
-      "deskripsi_posisi": "Mencakup pelayanan medis dasar, termasuk pemeriksaan pasien, diagnosis kerja, pemberian terapi, dan konsultasi, di bawah supervisi dokter pendamping. Tugas lainnya adalah mengelola dokumen medis, melakukan prosedur sederhana, memberikan edukasi kepada pasien, serta terlibat dalam kegiatan ilmiah dan program kesehatan masyarakat",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "b43e963c-9c44-43eb-b72a-d7fd3229b68d",
-      "created_at": "2025-11-10 09:42:49",
-      "updated_at": "2025-11-10 09:45:47",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 1,
-      "jumlah_terdaftar": 0,
-      "program_studi": "[{\"id\":\"7428ac9a-c11e-4909-ac0f-56865c24b0e5\",\"title\":\"Kedokteran\"},{\"id\":\"22ab29bb-8406-48f2-ad2d-1fea4d3673a9\",\"title\":\"Pendidikan Dokter\"}]",
-      "jenjang": "[\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "b43e963c-9c44-43eb-b72a-d7fd3229b68d",
-        "id_sumber_dana": null,
-        "id_perusahaan": "bae95df8-08e9-4c9c-aea5-f3951cae6e65",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "bae95df8-08e9-4c9c-aea5-f3951cae6e65",
-        "id_desa": null,
-        "nama_perusahaan": "Mitra Sehat Maju Sentosa",
-        "deskripsi_perusahaan": null,
-        "alamat": "JALAN VETERAN NOMOR 70, PANDEYAN",
-        "logo": "https://wlkp-assets.kemnaker.go.id/companies/5ab80268-b23b-40c1-9bdd-74543cb78134/691150333b4e6.png",
-        "banner": "https://wlkp-assets.kemnaker.go.id/companies/5ab80268-b23b-40c1-9bdd-74543cb78134/6911503882917.JPG",
-        "created_at": "2025-11-10 09:42:49",
-        "updated_at": "2025-11-10 09:45:47",
-        "kode_kabupaten": "3311",
-        "nama_kabupaten": "KAB. SUKOHARJO",
         "kode_provinsi": "33",
         "nama_provinsi": "JAWA TENGAH"
       },
@@ -1201,81 +976,6 @@
       }
     },
     {
-      "id_posisi": "a0488c1e-e8ba-40cd-8dc9-3f5c389c2fa7",
-      "posisi": "teknisi listrik",
-      "deskripsi_posisi": "- menganalisa system kelistrikan di RSK NW\n- ⁠Menguji beban listrik tiap ruang di RSK NWS\n- ⁠Memastikan system kelistrikan berjalan dengan baik\n- melakukan perbaikan",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "03461514-0baf-4c15-846c-f9cdf076b478",
-      "created_at": "2025-11-05 15:49:25",
-      "updated_at": "2025-11-05 15:52:54",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 1,
-      "jumlah_terdaftar": 2,
-      "program_studi": "[{\"id\":\"02335732-9f44-4157-9e38-751b40ec3167\",\"title\":\"Instalasi dan Pemeliharaan Jaringan Listrik\"},{\"id\":\"343396b6-21f3-477e-9f4c-c0adf35e85ee\",\"title\":\"Teknik Instalasi Listrik\"},{\"id\":\"4dd3d9d0-6f26-49c2-97d1-e97ced429b1e\",\"title\":\"Teknik Listrik\"},{\"id\":\"93594dd7-0c1d-48c0-8f50-fd4bfde199b3\",\"title\":\"Teknik Elektro\"}]",
-      "jenjang": "[\"Diploma\",\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "03461514-0baf-4c15-846c-f9cdf076b478",
-        "id_sumber_dana": null,
-        "id_perusahaan": "04f59805-1889-4b2e-ac7d-6cf0ad98235f",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "04f59805-1889-4b2e-ac7d-6cf0ad98235f",
-        "id_desa": null,
-        "nama_perusahaan": "Rs Kristen Ngesti Waluyo",
-        "deskripsi_perusahaan": null,
-        "alamat": "Jl. Pahlawan, Parakan, Temanggung",
-        "logo": null,
-        "banner": null,
-        "created_at": "2025-11-05 15:49:25",
-        "updated_at": "2025-11-05 15:52:54",
-        "kode_kabupaten": "3323",
-        "nama_kabupaten": "KAB. TEMANGGUNG",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": null
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": null
-      }
-    },
-    {
       "id_posisi": "a0520fe5-119e-4025-86f4-07b36368181a",
       "posisi": "TENAGA TEKNIS KEFARMASIAN",
       "deskripsi_posisi": "1. Melakukan monitoring data pasien PRB\n2. Ikut serta dalam pelayanan kefarmasian\n3. Dokumentasi kelengkapan berkas pasien PRB\n4. Membantu Apoteker dalam proses pengadaan obat\n5. Membantu Admin dalam proses klaim obat",
@@ -1317,6 +1017,81 @@
         "updated_at": "2025-11-10 09:45:47",
         "kode_kabupaten": "3311",
         "nama_kabupaten": "KAB. SUKOHARJO",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": null
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": null
+      }
+    },
+    {
+      "id_posisi": "a0488c1e-e8ba-40cd-8dc9-3f5c389c2fa7",
+      "posisi": "teknisi listrik",
+      "deskripsi_posisi": "- menganalisa system kelistrikan di RSK NW\n- ⁠Menguji beban listrik tiap ruang di RSK NWS\n- ⁠Memastikan system kelistrikan berjalan dengan baik\n- melakukan perbaikan",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "03461514-0baf-4c15-846c-f9cdf076b478",
+      "created_at": "2025-11-05 15:49:25",
+      "updated_at": "2025-11-05 15:52:54",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 1,
+      "jumlah_terdaftar": 2,
+      "program_studi": "[{\"id\":\"02335732-9f44-4157-9e38-751b40ec3167\",\"title\":\"Instalasi dan Pemeliharaan Jaringan Listrik\"},{\"id\":\"343396b6-21f3-477e-9f4c-c0adf35e85ee\",\"title\":\"Teknik Instalasi Listrik\"},{\"id\":\"4dd3d9d0-6f26-49c2-97d1-e97ced429b1e\",\"title\":\"Teknik Listrik\"},{\"id\":\"93594dd7-0c1d-48c0-8f50-fd4bfde199b3\",\"title\":\"Teknik Elektro\"}]",
+      "jenjang": "[\"Diploma\",\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "03461514-0baf-4c15-846c-f9cdf076b478",
+        "id_sumber_dana": null,
+        "id_perusahaan": "04f59805-1889-4b2e-ac7d-6cf0ad98235f",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "04f59805-1889-4b2e-ac7d-6cf0ad98235f",
+        "id_desa": null,
+        "nama_perusahaan": "Rs Kristen Ngesti Waluyo",
+        "deskripsi_perusahaan": null,
+        "alamat": "Jl. Pahlawan, Parakan, Temanggung",
+        "logo": null,
+        "banner": null,
+        "created_at": "2025-11-05 15:49:25",
+        "updated_at": "2025-11-05 15:52:54",
+        "kode_kabupaten": "3323",
+        "nama_kabupaten": "KAB. TEMANGGUNG",
         "kode_provinsi": "33",
         "nama_provinsi": "JAWA TENGAH"
       },
@@ -1576,81 +1351,6 @@
       }
     },
     {
-      "id_posisi": "a0447202-c735-462c-8388-b888fc5a2aa7",
-      "posisi": "Fullstack Programmer",
-      "deskripsi_posisi": "Development Sistem atau Aplikasi menggunakan Laravel, CodeIgniter,\nMelakukan pemeliharaan Sistem (Backup dan Fixing Bug)\nMembuat End point API\nMendesain ERD sesuai kebutuhan",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "b937eb95-7bf4-4d78-9dc7-6d581b691c16",
-      "created_at": "2025-11-03 15:19:11",
-      "updated_at": "2025-11-03 15:20:14",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 1,
-      "jumlah_terdaftar": 6,
-      "program_studi": "[{\"id\":\"0b074455-5cb4-45c4-8111-1a9e3b6de1c0\",\"title\":\"Informatika\"},{\"id\":\"b65a25f2-988f-40f8-9dfd-c1c097560e41\",\"title\":\"Ilmu Informatika\"},{\"id\":\"a6f6f574-bd82-4175-9c6b-ad3108153dc9\",\"title\":\"Pendidikan Teknik Informatika\"},{\"id\":\"8bdce5f1-553c-40b4-a5f5-9e5ff9387b60\",\"title\":\"Sistem Informasi\"},{\"id\":\"03b570a2-c678-4413-aa47-bfed8308fac5\",\"title\":\"Teknik Informatika\"}]",
-      "jenjang": "[\"Diploma\",\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "b937eb95-7bf4-4d78-9dc7-6d581b691c16",
-        "id_sumber_dana": null,
-        "id_perusahaan": "78a48266-08ce-43bd-9689-dee2e157444c",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "78a48266-08ce-43bd-9689-dee2e157444c",
-        "id_desa": null,
-        "nama_perusahaan": "Talang Digital Indonesia",
-        "deskripsi_perusahaan": "Kami sebagai vendor B2B sekaligus sebagai IT Solution tidak bekerja sendiri. kami sebagai tim berdedikasi tinggi dalam mengembangkan sebuah proyek Transformasi Digital dan kami siap membantu anda kapanpun dan dimanapun .",
-        "alamat": "Griya Tiara IV RT.05 RW 05 Kalisapu, Slawi, Kabupaten Tegal",
-        "logo": "https://wlkp-assets.kemnaker.go.id/companies/78a48266-08ce-43bd-9689-dee2e157444c/690862984543a.png",
-        "banner": "https://wlkp-assets.kemnaker.go.id/companies/78a48266-08ce-43bd-9689-dee2e157444c/6908629db7e48.jpg",
-        "created_at": "2025-11-03 15:19:11",
-        "updated_at": "2025-11-03 15:20:14",
-        "kode_kabupaten": "3328",
-        "nama_kabupaten": "KAB. TEGAL",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": null
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": null
-      }
-    },
-    {
       "id_posisi": "a05446ac-d63d-4ee4-b305-0ad40c05fe12",
       "posisi": "Juru Bahasa Isyarat",
       "deskripsi_posisi": "1. Menjadi penerjemah bagi pengguna layanan penyandang disabilitas;\n2. Membantu komunikasi antara petugas dan Masyarakat;\n3. Memberikan pelatihan dasar bahasa isyarat bagi pegawai layanan publik;\n4. Menjaga kerahasiaan informasi pengguna layanan.",
@@ -1723,6 +1423,81 @@
       },
       "sub_government_agency": {
         "sub_government_agency_name": "KANIM KELAS II TPI CILACAP"
+      }
+    },
+    {
+      "id_posisi": "a048d547-4921-47e9-8f41-b6daccb134ec",
+      "posisi": "Staf Akuntansi",
+      "deskripsi_posisi": "mencatat transaksi keuangan, menyusun laporan keuangan bulanan dan tahunan, melakukan rekonsiliasi bank, memantau arus kas, memverifikasi bukti transaksi, serta membantu audit internal dan eksternal agar keuangan rumah sakit tetap akurat dan transparan.",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "439eee96-35df-493b-9108-45d13ddbb282",
+      "created_at": "2025-11-03 14:02:31",
+      "updated_at": "2025-11-03 14:17:39",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 1,
+      "jumlah_terdaftar": 9,
+      "program_studi": "[{\"id\":\"c13ae920-a48f-4a7c-8c89-2b286a7fc225\",\"title\":\"Akuntansi\"}]",
+      "jenjang": "[\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "439eee96-35df-493b-9108-45d13ddbb282",
+        "id_sumber_dana": null,
+        "id_perusahaan": "ededee7a-266c-423b-9f02-247d6ee81c53",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "ededee7a-266c-423b-9f02-247d6ee81c53",
+        "id_desa": null,
+        "nama_perusahaan": "Rumah Sakit Pku Muhammadiyah Temanggung",
+        "deskripsi_perusahaan": "RS PKU Muhammadiyah Temanggung adalah rumah sakit tipe C yang berlokasi di Jl. Raya Kedu-Parakan, Sawah, Kalisat, Kabupaten Temanggung, Jawa Tengah, dan beralamat lengkap di Jl. Raya Kedu Km. 02, Kalisat, Kec. Bulu, Kabupaten Temanggung, Jawa Tengah 56253",
+        "alamat": "Jl. Raya Kedu KM.2 Kalisat",
+        "logo": "https://wlkp-assets.kemnaker.go.id/companies/ededee7a-266c-423b-9f02-247d6ee81c53/6902bb3ba6e1e.jpeg",
+        "banner": "https://wlkp-assets.kemnaker.go.id/companies/ededee7a-266c-423b-9f02-247d6ee81c53/6902bd52ca765.jpeg",
+        "created_at": "2025-11-03 14:02:31",
+        "updated_at": "2025-11-03 14:17:39",
+        "kode_kabupaten": "3323",
+        "nama_kabupaten": "KAB. TEMANGGUNG",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": null
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": null
       }
     },
     {
@@ -1801,6 +1576,81 @@
       }
     },
     {
+      "id_posisi": "a04fe243-fb20-42ff-ac5a-8ee8265ad930",
+      "posisi": "Relationship  Officer (RO)",
+      "deskripsi_posisi": "Membantu pelaksanaan kegiatan administratif dan aktivitas \nyang terkait dengan pelaksanaan fungsi relationship officer, \nmeliputi:\na. Pelaksanaan sinergi dengan pihak-pihak eksternal \nterkait pelaksanaan rekrutmen, engagement \nstakeholder maupun reaktivasi peserta sesuai segmen \npeserta (PPU Swasta/PBPU/BP/PBPU kolektif).\nb. Sosialisasi program JKN kepada entitas calon peserta \nJKN.\nc. Pelaksanaan rekrutmen peserta sesuai segmen peserta \n(PPU Swasta/PBPU/BP/PBPU kolektif)",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "f0b2287a-6fb1-4573-bdef-7f75e403ae6a",
+      "created_at": "2025-11-06 09:13:01",
+      "updated_at": "2025-11-06 09:13:01",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 1,
+      "jumlah_terdaftar": 27,
+      "program_studi": "[{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"},{\"id\":\"fd3ebf70-4f4b-4dab-a7ab-ec31d20bd01b\",\"title\":\"Hukum\"},{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"},{\"id\":\"63ce091e-3c73-424f-a68e-068d13a4f3b4\",\"title\":\"Ilmu Administrasi Publik\"},{\"id\":\"702dfd8b-b5b8-40fb-843b-4d503451b314\",\"title\":\"Ekonomi\"}]",
+      "jenjang": "[\"Diploma\",\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "f0b2287a-6fb1-4573-bdef-7f75e403ae6a",
+        "id_sumber_dana": null,
+        "id_perusahaan": "427ef50e-9d41-4d6d-835f-38172a33d9f5",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "427ef50e-9d41-4d6d-835f-38172a33d9f5",
+        "id_desa": null,
+        "nama_perusahaan": "BPJS Kesehatan Kantor Cabang Magelang",
+        "deskripsi_perusahaan": null,
+        "alamat": "Jl Gatot Subroto No 2 Magelang",
+        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/j2bMRcmkaxDpUu8DYg4G1mrQ4yJp9xHoA9ekSjLi.png",
+        "banner": null,
+        "created_at": "2025-11-06 09:13:01",
+        "updated_at": "2025-11-06 09:13:01",
+        "kode_kabupaten": "3308",
+        "nama_kabupaten": "KAB. MAGELANG",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": "BPJS KESEHATAN"
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": "BPJS Kesehatan Kantor Cabang Magelang"
+      }
+    },
+    {
       "id_posisi": "a0488d26-7891-48e5-9746-3b085177572b",
       "posisi": "Kesehatan Lingkungan",
       "deskripsi_posisi": "* menganalisa fungsi IPAL RSK NW\n* ⁠Melakukan pemeliharaan IPAL harian\n* ⁠melakukan pemantauan limbah B3 maupun domestik\n* ⁠melakukan pemantauan suhu dan kelembapan setiap ruang di RSK NW",
@@ -1876,9 +1726,9 @@
       }
     },
     {
-      "id_posisi": "a04fe243-fb20-42ff-ac5a-8ee8265ad930",
-      "posisi": "Relationship  Officer (RO)",
-      "deskripsi_posisi": "Membantu pelaksanaan kegiatan administratif dan aktivitas \nyang terkait dengan pelaksanaan fungsi relationship officer, \nmeliputi:\na. Pelaksanaan sinergi dengan pihak-pihak eksternal \nterkait pelaksanaan rekrutmen, engagement \nstakeholder maupun reaktivasi peserta sesuai segmen \npeserta (PPU Swasta/PBPU/BP/PBPU kolektif).\nb. Sosialisasi program JKN kepada entitas calon peserta \nJKN.\nc. Pelaksanaan rekrutmen peserta sesuai segmen peserta \n(PPU Swasta/PBPU/BP/PBPU kolektif)",
+      "id_posisi": "a04fe49d-c6bd-43ce-8b53-e00e95f3214c",
+      "posisi": "Administrasi  Klaim",
+      "deskripsi_posisi": "Membantu pelaksanaan kegiatan administratif dan aktivitas \nyang terkait dengan pelaksanaan fungsi administrasi klaim, \nmeliputi:\na. Mengelola register klaim (FKTP dan FKTL)\nb. Membantu mengelola kelengkapan berkas klaim",
       "syarat_khusus": null,
       "usia_minimal": null,
       "usia_maksimal": null,
@@ -1892,8 +1742,8 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 27,
-      "program_studi": "[{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"},{\"id\":\"fd3ebf70-4f4b-4dab-a7ab-ec31d20bd01b\",\"title\":\"Hukum\"},{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"},{\"id\":\"63ce091e-3c73-424f-a68e-068d13a4f3b4\",\"title\":\"Ilmu Administrasi Publik\"},{\"id\":\"702dfd8b-b5b8-40fb-843b-4d503451b314\",\"title\":\"Ekonomi\"}]",
+      "jumlah_terdaftar": 25,
+      "program_studi": "[{\"id\":\"1b10c018-7e0a-4f55-9d0d-07ffdbc1b12b\",\"title\":\"Keperawatan\"},{\"id\":\"4f53bef4-5310-443b-82bc-1e99f1f2ef08\",\"title\":\"Farmasi\"},{\"id\":\"4f7a53df-a963-4a1c-80aa-8fbea498d288\",\"title\":\"Kesehatan Masyarakat\"},{\"id\":\"c8e29d79-8e8e-406d-b56f-06f32dbc4671\",\"title\":\"Manajemen Pelayanan Rumah Sakit\"},{\"id\":\"897f7e2a-b86f-439a-a375-b3a288b51e02\",\"title\":\"Administrasi Kesehatan\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
         "id_status_posisi": 2,
@@ -2026,47 +1876,47 @@
       }
     },
     {
-      "id_posisi": "a04fe49d-c6bd-43ce-8b53-e00e95f3214c",
-      "posisi": "Administrasi  Klaim",
-      "deskripsi_posisi": "Membantu pelaksanaan kegiatan administratif dan aktivitas \nyang terkait dengan pelaksanaan fungsi administrasi klaim, \nmeliputi:\na. Mengelola register klaim (FKTP dan FKTL)\nb. Membantu mengelola kelengkapan berkas klaim",
+      "id_posisi": "a0464e2d-a308-40d6-98d9-ab113e7b9984",
+      "posisi": "Business Partnership",
+      "deskripsi_posisi": "Deskripsi Jabatan \n- Menyusun dan menindaklanjuti proposal kerjasama dengan instansi.\n- Membangun relasi dengan perusahaan, kampus, dan lembaga.\n- Melakukan follow-up klien serta memastikan kepuasan mitra.",
       "syarat_khusus": null,
       "usia_minimal": null,
       "usia_maksimal": null,
       "revisi": null,
       "id_kondisi_fisik": null,
-      "id_program": "f0b2287a-6fb1-4573-bdef-7f75e403ae6a",
-      "created_at": "2025-11-06 09:13:01",
-      "updated_at": "2025-11-06 09:13:01",
+      "id_program": "16cb56b2-8cf1-4164-826b-344cb264bb19",
+      "created_at": "2025-10-31 09:58:47",
+      "updated_at": null,
       "kode_kbji": null,
       "penempatan": null,
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 25,
-      "program_studi": "[{\"id\":\"1b10c018-7e0a-4f55-9d0d-07ffdbc1b12b\",\"title\":\"Keperawatan\"},{\"id\":\"4f53bef4-5310-443b-82bc-1e99f1f2ef08\",\"title\":\"Farmasi\"},{\"id\":\"4f7a53df-a963-4a1c-80aa-8fbea498d288\",\"title\":\"Kesehatan Masyarakat\"},{\"id\":\"c8e29d79-8e8e-406d-b56f-06f32dbc4671\",\"title\":\"Manajemen Pelayanan Rumah Sakit\"},{\"id\":\"897f7e2a-b86f-439a-a375-b3a288b51e02\",\"title\":\"Administrasi Kesehatan\"}]",
+      "jumlah_terdaftar": 2,
+      "program_studi": "[{\"id\":\"9808ccda-82eb-47cd-a2e5-78d6baf95192\",\"title\":\"Pemasaran Digital\"},{\"id\":\"e12302ac-c8dc-4d0a-90a7-402f6fafd27e\",\"title\":\"Manajemen Pemasaran\\/Marketing\"},{\"id\":\"e3668d6d-acab-4f65-8d20-262e73fe8f36\",\"title\":\"Manajemen Pemasaran\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
         "id_status_posisi": 2,
         "nama_status_posisi": "Terverifikasi"
       },
       "program": {
-        "id_program": "f0b2287a-6fb1-4573-bdef-7f75e403ae6a",
+        "id_program": "16cb56b2-8cf1-4164-826b-344cb264bb19",
         "id_sumber_dana": null,
-        "id_perusahaan": "427ef50e-9d41-4d6d-835f-38172a33d9f5",
+        "id_perusahaan": "bc96d61e-424f-4b57-ae2e-d038edf71a9e",
         "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
       },
       "perusahaan": {
-        "id_perusahaan": "427ef50e-9d41-4d6d-835f-38172a33d9f5",
+        "id_perusahaan": "bc96d61e-424f-4b57-ae2e-d038edf71a9e",
         "id_desa": null,
-        "nama_perusahaan": "BPJS Kesehatan Kantor Cabang Magelang",
+        "nama_perusahaan": "Biro Psikolog Anda",
         "deskripsi_perusahaan": null,
-        "alamat": "Jl Gatot Subroto No 2 Magelang",
-        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/j2bMRcmkaxDpUu8DYg4G1mrQ4yJp9xHoA9ekSjLi.png",
+        "alamat": "Tamansari Hills Residence B01 No.10",
+        "logo": null,
         "banner": null,
-        "created_at": "2025-11-06 09:13:01",
-        "updated_at": "2025-11-06 09:13:01",
-        "kode_kabupaten": "3308",
-        "nama_kabupaten": "KAB. MAGELANG",
+        "created_at": "2025-10-31 09:58:47",
+        "updated_at": null,
+        "kode_kabupaten": "3374",
+        "nama_kabupaten": "KOTA SEMARANG",
         "kode_provinsi": "33",
         "nama_provinsi": "JAWA TENGAH"
       },
@@ -2094,10 +1944,10 @@
         "publish": 1
       },
       "government_agency": {
-        "government_agency_name": "BPJS KESEHATAN"
+        "government_agency_name": null
       },
       "sub_government_agency": {
-        "sub_government_agency_name": "BPJS Kesehatan Kantor Cabang Magelang"
+        "sub_government_agency_name": null
       }
     },
     {
@@ -2176,122 +2026,47 @@
       }
     },
     {
-      "id_posisi": "a0526be2-b276-4f75-9651-c22751942bb9",
-      "posisi": "Content Creator and Administration Intern",
-      "deskripsi_posisi": "Melakukan monitoring dan pendataan terhadap proses administrasi dan membuat pemberitaan positif terkait citra institusi BPJS Ketenagakerjaan supaya masyarakat dapat teredukasi mengenai pentingnya perlindungan sosial ketenagakerjaan",
+      "id_posisi": "a0447202-c735-462c-8388-b888fc5a2aa7",
+      "posisi": "Fullstack Programmer",
+      "deskripsi_posisi": "Development Sistem atau Aplikasi menggunakan Laravel, CodeIgniter,\nMelakukan pemeliharaan Sistem (Backup dan Fixing Bug)\nMembuat End point API\nMendesain ERD sesuai kebutuhan",
       "syarat_khusus": null,
       "usia_minimal": null,
       "usia_maksimal": null,
       "revisi": null,
       "id_kondisi_fisik": null,
-      "id_program": "a369376d-ab1c-4558-9989-203d9823a629",
-      "created_at": "2025-11-10 13:56:11",
-      "updated_at": "2025-11-10 13:56:11",
+      "id_program": "b937eb95-7bf4-4d78-9dc7-6d581b691c16",
+      "created_at": "2025-11-03 15:19:11",
+      "updated_at": "2025-11-03 15:20:14",
       "kode_kbji": null,
       "penempatan": null,
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 13,
-      "program_studi": "[{\"id\":\"9d46d840-695e-4ecf-915c-ef58ebc36d9b\",\"title\":\"Administrasi Bisnis\"},{\"id\":\"7551b4b0-9160-465c-9065-be559c153ce7\",\"title\":\"Administrasi Publik\"},{\"id\":\"935d6ce0-4a39-4154-87bc-cb018c56bd48\",\"title\":\"Administrasi Pemerintahan\"},{\"id\":\"7c04a863-ef84-42fa-a9d5-31d313d4746c\",\"title\":\"Administrasi Bisnis Sektor Publik\"}]",
+      "jumlah_terdaftar": 6,
+      "program_studi": "[{\"id\":\"0b074455-5cb4-45c4-8111-1a9e3b6de1c0\",\"title\":\"Informatika\"},{\"id\":\"b65a25f2-988f-40f8-9dfd-c1c097560e41\",\"title\":\"Ilmu Informatika\"},{\"id\":\"a6f6f574-bd82-4175-9c6b-ad3108153dc9\",\"title\":\"Pendidikan Teknik Informatika\"},{\"id\":\"8bdce5f1-553c-40b4-a5f5-9e5ff9387b60\",\"title\":\"Sistem Informasi\"},{\"id\":\"03b570a2-c678-4413-aa47-bfed8308fac5\",\"title\":\"Teknik Informatika\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
         "id_status_posisi": 2,
         "nama_status_posisi": "Terverifikasi"
       },
       "program": {
-        "id_program": "a369376d-ab1c-4558-9989-203d9823a629",
+        "id_program": "b937eb95-7bf4-4d78-9dc7-6d581b691c16",
         "id_sumber_dana": null,
-        "id_perusahaan": "88485b4c-66c4-4ed0-a57f-67ad1b3dd761",
+        "id_perusahaan": "78a48266-08ce-43bd-9689-dee2e157444c",
         "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
       },
       "perusahaan": {
-        "id_perusahaan": "88485b4c-66c4-4ed0-a57f-67ad1b3dd761",
+        "id_perusahaan": "78a48266-08ce-43bd-9689-dee2e157444c",
         "id_desa": null,
-        "nama_perusahaan": "Kacab Semarang Majapahit",
-        "deskripsi_perusahaan": null,
-        "alamat": "Jl. Brigjen Sudiarto No.4, Plamongan Sari, Kec. Pedurungan, Kota Semarang, Jawa Tengah",
-        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/oPxadnVj9YAMhZJo9201VvbG5n903rUuEcWMJARt.jpg",
-        "banner": null,
-        "created_at": "2025-11-10 13:56:11",
-        "updated_at": "2025-11-10 13:56:11",
-        "kode_kabupaten": "3374",
-        "nama_kabupaten": "KOTA SEMARANG",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": "BPJS KETENAGAKERJAAN"
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": "Kacab Semarang Majapahit"
-      }
-    },
-    {
-      "id_posisi": "a0464e2d-a308-40d6-98d9-ab113e7b9984",
-      "posisi": "Business Partnership",
-      "deskripsi_posisi": "Deskripsi Jabatan \n- Menyusun dan menindaklanjuti proposal kerjasama dengan instansi.\n- Membangun relasi dengan perusahaan, kampus, dan lembaga.\n- Melakukan follow-up klien serta memastikan kepuasan mitra.",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "16cb56b2-8cf1-4164-826b-344cb264bb19",
-      "created_at": "2025-10-31 09:58:47",
-      "updated_at": null,
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 1,
-      "jumlah_terdaftar": 2,
-      "program_studi": "[{\"id\":\"9808ccda-82eb-47cd-a2e5-78d6baf95192\",\"title\":\"Pemasaran Digital\"},{\"id\":\"e12302ac-c8dc-4d0a-90a7-402f6fafd27e\",\"title\":\"Manajemen Pemasaran\\/Marketing\"},{\"id\":\"e3668d6d-acab-4f65-8d20-262e73fe8f36\",\"title\":\"Manajemen Pemasaran\"}]",
-      "jenjang": "[\"Diploma\",\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "16cb56b2-8cf1-4164-826b-344cb264bb19",
-        "id_sumber_dana": null,
-        "id_perusahaan": "bc96d61e-424f-4b57-ae2e-d038edf71a9e",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "bc96d61e-424f-4b57-ae2e-d038edf71a9e",
-        "id_desa": null,
-        "nama_perusahaan": "Biro Psikolog Anda",
-        "deskripsi_perusahaan": null,
-        "alamat": "Tamansari Hills Residence B01 No.10",
-        "logo": null,
-        "banner": null,
-        "created_at": "2025-10-31 09:58:47",
-        "updated_at": null,
-        "kode_kabupaten": "3374",
-        "nama_kabupaten": "KOTA SEMARANG",
+        "nama_perusahaan": "Talang Digital Indonesia",
+        "deskripsi_perusahaan": "Kami sebagai vendor B2B sekaligus sebagai IT Solution tidak bekerja sendiri. kami sebagai tim berdedikasi tinggi dalam mengembangkan sebuah proyek Transformasi Digital dan kami siap membantu anda kapanpun dan dimanapun .",
+        "alamat": "Griya Tiara IV RT.05 RW 05 Kalisapu, Slawi, Kabupaten Tegal",
+        "logo": "https://wlkp-assets.kemnaker.go.id/companies/78a48266-08ce-43bd-9689-dee2e157444c/690862984543a.png",
+        "banner": "https://wlkp-assets.kemnaker.go.id/companies/78a48266-08ce-43bd-9689-dee2e157444c/6908629db7e48.jpg",
+        "created_at": "2025-11-03 15:19:11",
+        "updated_at": "2025-11-03 15:20:14",
+        "kode_kabupaten": "3328",
+        "nama_kabupaten": "KAB. TEGAL",
         "kode_provinsi": "33",
         "nama_provinsi": "JAWA TENGAH"
       },
@@ -2401,9 +2176,84 @@
       }
     },
     {
-      "id_posisi": "a0526aef-0772-4e9b-ab8d-8ecac362a637",
-      "posisi": "Pengelola Data Arsip dan Aset Intern",
-      "deskripsi_posisi": "Melakukan monitoring dan pendataan terhadap proses administrasi dan pengarsipan berkas jaminan dan kepesertaan di bpjs ketenagakerjaan serta melakukan pendokumentasian proses pengarsipan",
+      "id_posisi": "a0541eb2-ca89-46c3-8d29-d164f69a6a15",
+      "posisi": "Pengelola BMN",
+      "deskripsi_posisi": "1. Mengelola aset dan inventarisir milik negara di unit kerja;\n2. Mencatat  penerimaan, pemakaian, dan penghapusan barang;\n3. Melakukan inventarisir berkala;\n4. Menyusun laporan aset sesuai ketentuan;",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "9e0432e9-edc3-4d95-b403-781411462c72",
+      "created_at": "2025-11-10 09:50:25",
+      "updated_at": "2025-11-10 09:50:25",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 1,
+      "jumlah_terdaftar": 6,
+      "program_studi": "[{\"id\":\"7d00e7aa-90a4-49a6-a9cc-372a5f04983b\",\"title\":\"Manajemen Aset Publik\"}]",
+      "jenjang": "[\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "9e0432e9-edc3-4d95-b403-781411462c72",
+        "id_sumber_dana": null,
+        "id_perusahaan": "d69ac12c-c19f-4135-8bd5-3472e850d5f0",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "d69ac12c-c19f-4135-8bd5-3472e850d5f0",
+        "id_desa": null,
+        "nama_perusahaan": "KANIM KELAS II TPI CILACAP",
+        "deskripsi_perusahaan": null,
+        "alamat": "JALAN URIP SUMOHARJO NO. 249 GUMILIR, KECAMATAN CILACAP UTARA, KABUPATEN CILACAP, JAWA TENGAH",
+        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/CERzqE7qChpCj6kN8uBbboHoqHYxg5BO70d5rFrA.png",
+        "banner": null,
+        "created_at": "2025-11-10 09:50:25",
+        "updated_at": "2025-11-10 09:50:25",
+        "kode_kabupaten": "3301",
+        "nama_kabupaten": "KAB. CILACAP",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": "KANIM KELAS II TPI CILACAP"
+      }
+    },
+    {
+      "id_posisi": "a0526be2-b276-4f75-9651-c22751942bb9",
+      "posisi": "Content Creator and Administration Intern",
+      "deskripsi_posisi": "Melakukan monitoring dan pendataan terhadap proses administrasi dan membuat pemberitaan positif terkait citra institusi BPJS Ketenagakerjaan supaya masyarakat dapat teredukasi mengenai pentingnya perlindungan sosial ketenagakerjaan",
       "syarat_khusus": null,
       "usia_minimal": null,
       "usia_maksimal": null,
@@ -2417,8 +2267,8 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 19,
-      "program_studi": "[{\"id\":\"9d46d840-695e-4ecf-915c-ef58ebc36d9b\",\"title\":\"Administrasi Bisnis\"},{\"id\":\"44c12a8c-7a88-47ea-87fb-0e7202a1390d\",\"title\":\"Administrasi\"},{\"id\":\"d02b6339-348c-4e5f-beb8-734420803a38\",\"title\":\"Administrasi Jaringan Komputer\"},{\"id\":\"7551b4b0-9160-465c-9065-be559c153ce7\",\"title\":\"Administrasi Publik\"}]",
+      "jumlah_terdaftar": 13,
+      "program_studi": "[{\"id\":\"9d46d840-695e-4ecf-915c-ef58ebc36d9b\",\"title\":\"Administrasi Bisnis\"},{\"id\":\"7551b4b0-9160-465c-9065-be559c153ce7\",\"title\":\"Administrasi Publik\"},{\"id\":\"935d6ce0-4a39-4154-87bc-cb018c56bd48\",\"title\":\"Administrasi Pemerintahan\"},{\"id\":\"7c04a863-ef84-42fa-a9d5-31d313d4746c\",\"title\":\"Administrasi Bisnis Sektor Publik\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
         "id_status_posisi": 2,
@@ -2567,7 +2417,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 13,
+      "jumlah_terdaftar": 14,
       "program_studi": "[{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"},{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"},{\"id\":\"3c0b4125-d68a-45e6-a526-bada06be5075\",\"title\":\"Ilmu Hubungan Internasional\"},{\"id\":\"63ce091e-3c73-424f-a68e-068d13a4f3b4\",\"title\":\"Ilmu Administrasi Publik\"},{\"id\":\"fb8baadf-4b6f-423a-a499-07e330c61000\",\"title\":\"Administrasi Perkantoran\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -2774,6 +2624,156 @@
       "sub_government_agency": {
         "sub_government_agency_name": "BPJS Kesehatan Kantor Cabang Boyolali"
       }
+    },
+    {
+      "id_posisi": "a0526aef-0772-4e9b-ab8d-8ecac362a637",
+      "posisi": "Pengelola Data Arsip dan Aset Intern",
+      "deskripsi_posisi": "Melakukan monitoring dan pendataan terhadap proses administrasi dan pengarsipan berkas jaminan dan kepesertaan di bpjs ketenagakerjaan serta melakukan pendokumentasian proses pengarsipan",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "a369376d-ab1c-4558-9989-203d9823a629",
+      "created_at": "2025-11-10 13:56:11",
+      "updated_at": "2025-11-10 13:56:11",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 1,
+      "jumlah_terdaftar": 19,
+      "program_studi": "[{\"id\":\"9d46d840-695e-4ecf-915c-ef58ebc36d9b\",\"title\":\"Administrasi Bisnis\"},{\"id\":\"44c12a8c-7a88-47ea-87fb-0e7202a1390d\",\"title\":\"Administrasi\"},{\"id\":\"d02b6339-348c-4e5f-beb8-734420803a38\",\"title\":\"Administrasi Jaringan Komputer\"},{\"id\":\"7551b4b0-9160-465c-9065-be559c153ce7\",\"title\":\"Administrasi Publik\"}]",
+      "jenjang": "[\"Diploma\",\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "a369376d-ab1c-4558-9989-203d9823a629",
+        "id_sumber_dana": null,
+        "id_perusahaan": "88485b4c-66c4-4ed0-a57f-67ad1b3dd761",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "88485b4c-66c4-4ed0-a57f-67ad1b3dd761",
+        "id_desa": null,
+        "nama_perusahaan": "Kacab Semarang Majapahit",
+        "deskripsi_perusahaan": null,
+        "alamat": "Jl. Brigjen Sudiarto No.4, Plamongan Sari, Kec. Pedurungan, Kota Semarang, Jawa Tengah",
+        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/oPxadnVj9YAMhZJo9201VvbG5n903rUuEcWMJARt.jpg",
+        "banner": null,
+        "created_at": "2025-11-10 13:56:11",
+        "updated_at": "2025-11-10 13:56:11",
+        "kode_kabupaten": "3374",
+        "nama_kabupaten": "KOTA SEMARANG",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": "BPJS KETENAGAKERJAAN"
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": "Kacab Semarang Majapahit"
+      }
+    },
+    {
+      "id_posisi": "a0486535-bdf7-4461-b78e-d6f6508bd2ff",
+      "posisi": "arsitek / sipil engineer",
+      "deskripsi_posisi": "Merancang dan merencanakan gambar bangunan dengan menggabungkan seni (estetika) dan ilmu (teknik) untuk menciptakan struktur yang fungsional, aman, dan menarik bagi client. Tugas ini meliputi pengembangan konsep desain, membuat gambar rancangan, memastikan desain sesuai kebutuhan client, mengelola aspek teknis seperti struktur dan instalasi, serta mengawasi proses konstruksi.",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "0144c669-3ceb-447c-ad7d-154ca330b356",
+      "created_at": "2025-10-29 19:51:29",
+      "updated_at": "2025-10-30 10:12:37",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 1,
+      "jumlah_terdaftar": 9,
+      "program_studi": "[{\"id\":\"a4cd875c-c20b-42d9-a4da-a634722d42b9\",\"title\":\"Teknik Sipil\"},{\"id\":\"70c09692-4aa8-45db-a054-a8a9126dccd4\",\"title\":\"Teknik Arsitektur\"},{\"id\":\"d9536675-9070-4908-b1aa-610e7d21ffde\",\"title\":\"Teknik Sipil Bangunan Gedung\"},{\"id\":\"c0f1150e-be74-467d-b51a-f0d9cabb46b3\",\"title\":\"Arsitektur Bangunan Gedung\"}]",
+      "jenjang": "[\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "0144c669-3ceb-447c-ad7d-154ca330b356",
+        "id_sumber_dana": null,
+        "id_perusahaan": "82363845-0a68-4ded-b6c9-523fc2e19a98",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "82363845-0a68-4ded-b6c9-523fc2e19a98",
+        "id_desa": null,
+        "nama_perusahaan": "Prabu Karya Persada",
+        "deskripsi_perusahaan": "Perusahaan yang bergerak di bidang Konstruksi, infrastruktur, perdagangan material infrastruktur dan pengadaan barang dan jasa.",
+        "alamat": "JALAN KALINGGA II NOMOR : 05",
+        "logo": "https://wlkp-assets.kemnaker.go.id/companies/82363845-0a68-4ded-b6c9-523fc2e19a98/69020b8e753d5.png",
+        "banner": "https://wlkp-assets.kemnaker.go.id/companies/82363845-0a68-4ded-b6c9-523fc2e19a98/69020bd246388.png",
+        "created_at": "2025-10-29 19:51:29",
+        "updated_at": "2025-10-30 10:12:37",
+        "kode_kabupaten": "3374",
+        "nama_kabupaten": "KOTA SEMARANG",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": null
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": null
+      }
     }
   ],
   "meta": {
@@ -2792,5 +2792,5 @@
       "total": 2937
     }
   },
-  "_scraped_at": "2025-11-12T09:54:00.075628+00:00"
+  "_scraped_at": "2025-11-12T10:13:29.374834+00:00"
 }

@@ -526,81 +526,6 @@
       }
     },
     {
-      "id_posisi": "a0442783-1684-4f5c-93f6-8fe2f32b24a5",
-      "posisi": "Staf Sertifikasi",
-      "deskripsi_posisi": "Mendukung pengelolaan dan pelaksanaan program sertifikasi termasuk perencanaan, administrasi, pembuatan skema sertifikasi, koordinasi, serta evaluasi kegiatan sertifikasi agar selaras standar kualitas layanan perusahaan.",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "002bc1e9-9108-4874-98b8-b34b7e6b964c",
-      "created_at": "2025-10-06 09:04:40",
-      "updated_at": "2025-10-28 16:35:54",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 1,
-      "jumlah_terdaftar": 24,
-      "program_studi": "[{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"},{\"id\":\"6107d202-63c7-4740-ba37-e422caef7e3f\",\"title\":\"Ilmu Pertanian\"},{\"id\":\"a946654c-0ae8-4dc7-8d57-34a9395311a2\",\"title\":\"Penyuluhan Pertanian\"},{\"id\":\"26b331e7-f48b-45d6-8aca-06d4168ea230\",\"title\":\"Teknologi Pertanian\"},{\"id\":\"e628eb72-0af5-4e85-89c3-638409255baa\",\"title\":\"Teknologi Pengolahan Hasil Perkebunan\"}]",
-      "jenjang": "[\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "002bc1e9-9108-4874-98b8-b34b7e6b964c",
-        "id_sumber_dana": null,
-        "id_perusahaan": "953bb662-b36a-42e2-9a0a-2518e0fe5bdc",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "953bb662-b36a-42e2-9a0a-2518e0fe5bdc",
-        "id_desa": null,
-        "nama_perusahaan": "Lpp Agro Nusantara",
-        "deskripsi_perusahaan": "PT LPP Agro Nusantara merupakan perusahaan bergerak dibidang jasa LACC (Learning, Asesmen, Consultancy, Certification) dan Hotel & MICE",
-        "alamat": "JL. URIP SUMOHARJO 100",
-        "logo": "https://wlkp-assets.kemnaker.go.id/companies/953bb662-b36a-42e2-9a0a-2518e0fe5bdc/6350f97168421.png",
-        "banner": "https://wlkp-assets.kemnaker.go.id/companies/953bb662-b36a-42e2-9a0a-2518e0fe5bdc/6350fbf11c6df.jpg",
-        "created_at": "2025-10-06 09:04:40",
-        "updated_at": "2025-10-28 16:35:54",
-        "kode_kabupaten": "3471",
-        "nama_kabupaten": "KOTA YOGYAKARTA",
-        "kode_provinsi": "34",
-        "nama_provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": null
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": null
-      }
-    },
-    {
       "id_posisi": "a0442d10-aa6c-4033-b590-373055c3a933",
       "posisi": "Staf Pengembangan Bisnis",
       "deskripsi_posisi": "Mendukung proses pengembangan bisnis perusahaan melalui perancangan bisnis model, tata kelola, serta administratif dalam pelaksanaan inisiatif bisnis baru untuk meningkatkan pertumbuhan, keberlanjutan, dan daya saing perusahaan.",
@@ -919,6 +844,81 @@
       "jumlah_kuota": 1,
       "jumlah_terdaftar": 10,
       "program_studi": "[{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"},{\"id\":\"21442969-5763-4416-bb8d-56a80e55ada9\",\"title\":\"Teknik Mesin\"},{\"id\":\"6107d202-63c7-4740-ba37-e422caef7e3f\",\"title\":\"Ilmu Pertanian\"},{\"id\":\"26b331e7-f48b-45d6-8aca-06d4168ea230\",\"title\":\"Teknologi Pertanian\"}]",
+      "jenjang": "[\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "002bc1e9-9108-4874-98b8-b34b7e6b964c",
+        "id_sumber_dana": null,
+        "id_perusahaan": "953bb662-b36a-42e2-9a0a-2518e0fe5bdc",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "953bb662-b36a-42e2-9a0a-2518e0fe5bdc",
+        "id_desa": null,
+        "nama_perusahaan": "Lpp Agro Nusantara",
+        "deskripsi_perusahaan": "PT LPP Agro Nusantara merupakan perusahaan bergerak dibidang jasa LACC (Learning, Asesmen, Consultancy, Certification) dan Hotel & MICE",
+        "alamat": "JL. URIP SUMOHARJO 100",
+        "logo": "https://wlkp-assets.kemnaker.go.id/companies/953bb662-b36a-42e2-9a0a-2518e0fe5bdc/6350f97168421.png",
+        "banner": "https://wlkp-assets.kemnaker.go.id/companies/953bb662-b36a-42e2-9a0a-2518e0fe5bdc/6350fbf11c6df.jpg",
+        "created_at": "2025-10-06 09:04:40",
+        "updated_at": "2025-10-28 16:35:54",
+        "kode_kabupaten": "3471",
+        "nama_kabupaten": "KOTA YOGYAKARTA",
+        "kode_provinsi": "34",
+        "nama_provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": null
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": null
+      }
+    },
+    {
+      "id_posisi": "a0442783-1684-4f5c-93f6-8fe2f32b24a5",
+      "posisi": "Staf Sertifikasi",
+      "deskripsi_posisi": "Mendukung pengelolaan dan pelaksanaan program sertifikasi termasuk perencanaan, administrasi, pembuatan skema sertifikasi, koordinasi, serta evaluasi kegiatan sertifikasi agar selaras standar kualitas layanan perusahaan.",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "002bc1e9-9108-4874-98b8-b34b7e6b964c",
+      "created_at": "2025-10-06 09:04:40",
+      "updated_at": "2025-10-28 16:35:54",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 1,
+      "jumlah_terdaftar": 23,
+      "program_studi": "[{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"},{\"id\":\"6107d202-63c7-4740-ba37-e422caef7e3f\",\"title\":\"Ilmu Pertanian\"},{\"id\":\"a946654c-0ae8-4dc7-8d57-34a9395311a2\",\"title\":\"Penyuluhan Pertanian\"},{\"id\":\"26b331e7-f48b-45d6-8aca-06d4168ea230\",\"title\":\"Teknologi Pertanian\"},{\"id\":\"e628eb72-0af5-4e85-89c3-638409255baa\",\"title\":\"Teknologi Pengolahan Hasil Perkebunan\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
         "id_status_posisi": 2,
@@ -2117,7 +2117,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 24,
+      "jumlah_terdaftar": 25,
       "program_studi": "[{\"id\":\"89831149-9a92-4334-a368-4dec352f470a\",\"title\":\"Perencanaan Wilayah dan Kota\"},{\"id\":\"a4cd875c-c20b-42d9-a4da-a634722d42b9\",\"title\":\"Teknik Sipil\"},{\"id\":\"70c09692-4aa8-45db-a054-a8a9126dccd4\",\"title\":\"Teknik Arsitektur\"},{\"id\":\"e6de6b0a-cac4-4b6c-82ee-76bd21c959e7\",\"title\":\"Destinasi Pariwisata\"},{\"id\":\"8708c8d9-5e6c-4702-887d-27871a485f67\",\"title\":\"Manajemen Resort dan Leisure\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -2251,9 +2251,9 @@
       }
     },
     {
-      "id_posisi": "a03e307d-9570-4d6e-9040-d1bdc7819a1b",
-      "posisi": "Beauty Coach",
-      "deskripsi_posisi": "•\tMemberikan pelatihan dan bimbingan kepada siswa, karyawan, atau klien terkait teknik kecantikan (makeup, hair, skin care, dan body treatment).\n•\tMenyusun kurikulum atau modul pelatihan sesuai dengan standar industri kecantikan.\n•\tMelakukan demo, konsultasi, dan evaluasi hasil pelatihan peserta.\n•\tMengembangkan program pengajaran dan metode coaching yang efektif serta up-to-date dengan tren industri kecantikan.\n•\tMenjaga standar kebersihan, keselamatan, dan profesionalisme dalam setiap sesi pelatihan.\n•\tBerkolaborasi dengan tim pemasaran dan manajemen dalam mengembangkan program promosi dan kegiatan edukasi.\n•\tMemberikan feedback terhadap perkembangan siswa dan membantu mereka mencapai kompetensi yang ditargetkan.",
+      "id_posisi": "a03e2ed4-61d5-4ead-a2d8-e079b81ff895",
+      "posisi": "Legal Officer",
+      "deskripsi_posisi": "•\tMenyusun, meninjau, dan memastikan seluruh dokumen hukum perusahaan sesuai dengan peraturan perundang-undangan yang berlaku.\n•\tMemberikan konsultasi hukum terkait kontrak, perjanjian kerja sama, lisensi, dan kepatuhan hukum.\n•\tMengelola arsip dokumen legal dan perizinan perusahaan (termasuk NIB, izin operasional, MOU, perjanjian vendor).\n•\tMelakukan kajian risiko hukum dan memberikan rekomendasi untuk meminimalisasi potensi sengketa.\n•\tBerkoordinasi dengan lembaga pemerintah, notaris, dan pihak eksternal terkait urusan legalitas.\n•\tMenangani sengketa hukum atau mediasi apabila terjadi perselisihan kontraktual.\n•\tMemastikan seluruh kegiatan bisnis perusahaan berjalan sesuai hukum dan etika bisnis.",
       "syarat_khusus": null,
       "usia_minimal": null,
       "usia_maksimal": null,
@@ -2267,9 +2267,9 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 2,
-      "program_studi": "[{\"id\":\"c716123f-cd31-4754-b729-2b48ca940647\",\"title\":\"Pendidikan Tata Rias Dan Kecantikan\"},{\"id\":\"f917aa13-61da-4bdc-a05a-9aabd1944b4e\",\"title\":\"Pendidikan Tata Kecantikan\"},{\"id\":\"b3ccf470-72fc-470c-95e1-9aa217760305\",\"title\":\"Tata Rias dan Kecantikan\"},{\"id\":\"4fae0731-c9a1-4253-9523-5661168db537\",\"title\":\"Kosmetik dan Perawatan Kecantikan\"}]",
-      "jenjang": "[\"Sarjana\",\"Diploma\"]",
+      "jumlah_terdaftar": 7,
+      "program_studi": "[{\"id\":\"277d622d-242a-40a4-a46a-ee63cf22fc0a\",\"title\":\"Hukum Bisnis\"},{\"id\":\"9d46d840-695e-4ecf-915c-ef58ebc36d9b\",\"title\":\"Administrasi Bisnis\"},{\"id\":\"92f5f89b-dc4d-44ec-b562-f3f67116aa3a\",\"title\":\"Hubungan Internasional\"},{\"id\":\"fd3ebf70-4f4b-4dab-a7ab-ec31d20bd01b\",\"title\":\"Hukum\"},{\"id\":\"eff4cc72-fcf3-433c-ad9c-db0384f6cab1\",\"title\":\"Administrasi Bisnis Internasional\"}]",
+      "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
         "id_status_posisi": 2,
         "nama_status_posisi": "Terverifikasi"
@@ -2326,9 +2326,9 @@
       }
     },
     {
-      "id_posisi": "a03e2ed4-61d5-4ead-a2d8-e079b81ff895",
-      "posisi": "Legal Officer",
-      "deskripsi_posisi": "•\tMenyusun, meninjau, dan memastikan seluruh dokumen hukum perusahaan sesuai dengan peraturan perundang-undangan yang berlaku.\n•\tMemberikan konsultasi hukum terkait kontrak, perjanjian kerja sama, lisensi, dan kepatuhan hukum.\n•\tMengelola arsip dokumen legal dan perizinan perusahaan (termasuk NIB, izin operasional, MOU, perjanjian vendor).\n•\tMelakukan kajian risiko hukum dan memberikan rekomendasi untuk meminimalisasi potensi sengketa.\n•\tBerkoordinasi dengan lembaga pemerintah, notaris, dan pihak eksternal terkait urusan legalitas.\n•\tMenangani sengketa hukum atau mediasi apabila terjadi perselisihan kontraktual.\n•\tMemastikan seluruh kegiatan bisnis perusahaan berjalan sesuai hukum dan etika bisnis.",
+      "id_posisi": "a03e307d-9570-4d6e-9040-d1bdc7819a1b",
+      "posisi": "Beauty Coach",
+      "deskripsi_posisi": "•\tMemberikan pelatihan dan bimbingan kepada siswa, karyawan, atau klien terkait teknik kecantikan (makeup, hair, skin care, dan body treatment).\n•\tMenyusun kurikulum atau modul pelatihan sesuai dengan standar industri kecantikan.\n•\tMelakukan demo, konsultasi, dan evaluasi hasil pelatihan peserta.\n•\tMengembangkan program pengajaran dan metode coaching yang efektif serta up-to-date dengan tren industri kecantikan.\n•\tMenjaga standar kebersihan, keselamatan, dan profesionalisme dalam setiap sesi pelatihan.\n•\tBerkolaborasi dengan tim pemasaran dan manajemen dalam mengembangkan program promosi dan kegiatan edukasi.\n•\tMemberikan feedback terhadap perkembangan siswa dan membantu mereka mencapai kompetensi yang ditargetkan.",
       "syarat_khusus": null,
       "usia_minimal": null,
       "usia_maksimal": null,
@@ -2342,9 +2342,9 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 7,
-      "program_studi": "[{\"id\":\"277d622d-242a-40a4-a46a-ee63cf22fc0a\",\"title\":\"Hukum Bisnis\"},{\"id\":\"9d46d840-695e-4ecf-915c-ef58ebc36d9b\",\"title\":\"Administrasi Bisnis\"},{\"id\":\"92f5f89b-dc4d-44ec-b562-f3f67116aa3a\",\"title\":\"Hubungan Internasional\"},{\"id\":\"fd3ebf70-4f4b-4dab-a7ab-ec31d20bd01b\",\"title\":\"Hukum\"},{\"id\":\"eff4cc72-fcf3-433c-ad9c-db0384f6cab1\",\"title\":\"Administrasi Bisnis Internasional\"}]",
-      "jenjang": "[\"Sarjana\"]",
+      "jumlah_terdaftar": 2,
+      "program_studi": "[{\"id\":\"c716123f-cd31-4754-b729-2b48ca940647\",\"title\":\"Pendidikan Tata Rias Dan Kecantikan\"},{\"id\":\"f917aa13-61da-4bdc-a05a-9aabd1944b4e\",\"title\":\"Pendidikan Tata Kecantikan\"},{\"id\":\"b3ccf470-72fc-470c-95e1-9aa217760305\",\"title\":\"Tata Rias dan Kecantikan\"},{\"id\":\"4fae0731-c9a1-4253-9523-5661168db537\",\"title\":\"Kosmetik dan Perawatan Kecantikan\"}]",
+      "jenjang": "[\"Sarjana\",\"Diploma\"]",
       "ref_status_posisi": {
         "id_status_posisi": 2,
         "nama_status_posisi": "Terverifikasi"
@@ -3151,81 +3151,6 @@
       }
     },
     {
-      "id_posisi": "a04654ee-aa6e-4bc6-b038-bda87898d29d",
-      "posisi": "Staf HRD",
-      "deskripsi_posisi": "Deskripsi Pekerjaan :\n•\tMelakukan kegiatan administratif, penilaian karyawan, screening CV, wawancara\n•\tMembantu melaksanakan program pelatihan dan pengembangan SDM\n\nKualifikasi :\n•\tMahasiswa tingkat akhir/freshgraduate jurusan Psikologi/Manajemen SDM\n•\tMemiliki pengetahuan terkait pelatihan dan penilaian kinerja\n•\tMemiliki pengetahuan terkait rekrutmen, seleksi kerja, teknik wawancara, administrasi rekrutmen\n•\tMampu menggunakan Microsoft Office (Word, Excel)\n•\tKomunikatif, adaptif, cekatan, dan memiliki kemauan belajar yang tinggi\n•\tDiutamakan berdomisili di Jogja dan sekitarnya (penempatan : Jogja)",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "6810bfe2-29c9-4d92-a214-86bb49837093",
-      "created_at": "2025-11-01 11:11:08",
-      "updated_at": "2025-11-01 11:13:56",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 1,
-      "jumlah_terdaftar": 13,
-      "program_studi": "[{\"id\":\"3e1f167b-ac1f-4208-b1f7-ff2244791c64\",\"title\":\"Psikologi\"},{\"id\":\"275bb92a-f5fa-485f-bf0c-5c0e9d4500d7\",\"title\":\"Manajemen Sumber Daya Manusia\"},{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"}]",
-      "jenjang": "[\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "6810bfe2-29c9-4d92-a214-86bb49837093",
-        "id_sumber_dana": null,
-        "id_perusahaan": "ff23514c-513e-4cf4-9594-920324dfd130",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "ff23514c-513e-4cf4-9594-920324dfd130",
-        "id_desa": null,
-        "nama_perusahaan": "Pustaka Insan Madani",
-        "deskripsi_perusahaan": null,
-        "alamat": "JL.KENANGA SAMBILEGI LOR,RT/RW.04/54,MAGUWOHARJO,DEPOK,",
-        "logo": "https://wlkp-assets.kemnaker.go.id/companies/ff23514c-513e-4cf4-9594-920324dfd130/5dccd0792d237.png",
-        "banner": "https://wlkp-assets.kemnaker.go.id/companies/ff23514c-513e-4cf4-9594-920324dfd130/5f968cd3e11c6.png",
-        "created_at": "2025-11-01 11:11:08",
-        "updated_at": "2025-11-01 11:13:56",
-        "kode_kabupaten": "3404",
-        "nama_kabupaten": "KAB. SLEMAN",
-        "kode_provinsi": "34",
-        "nama_provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": null
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": null
-      }
-    },
-    {
       "id_posisi": "a0482329-1c86-48f9-9356-655c69c24770",
       "posisi": "Graphic Designer",
       "deskripsi_posisi": "Deskripsi Pekerjaan :\n- Membantu pembuatan konten media digital dan cetak\n- Membantu menjaga konsistensi visual brand di seluruh platform\n- Berkolaborasi dengan tim untuk menghasilkan ide desain yang menarik\n- Mengembangkan ide visual sesuai brief yang diterima\n\nKualifikasi :\n- Jurusan Desain Komunikasi Visual/ Multimedia atau bidang terkait\n- Menguasai dasar software desain : Adobe Photoshop, Adobe Illustrator, canva\n- Kreatif, komunikatif\n- Mampu bekerja sesuai deadline dan menerima masukan\n- Memahami teknik dasar-dasar desain grafis",
@@ -3320,6 +3245,81 @@
       "jumlah_terdaftar": 4,
       "program_studi": "[{\"id\":\"18f1fc9e-e9d1-4855-9d42-d86edd8519b6\",\"title\":\"Multimedia\"},{\"id\":\"2c1f894d-16df-471c-abe7-6939d132c6b0\",\"title\":\"Komunikasi\"}]",
       "jenjang": "[\"Sarjana\",\"Diploma\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "6810bfe2-29c9-4d92-a214-86bb49837093",
+        "id_sumber_dana": null,
+        "id_perusahaan": "ff23514c-513e-4cf4-9594-920324dfd130",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "ff23514c-513e-4cf4-9594-920324dfd130",
+        "id_desa": null,
+        "nama_perusahaan": "Pustaka Insan Madani",
+        "deskripsi_perusahaan": null,
+        "alamat": "JL.KENANGA SAMBILEGI LOR,RT/RW.04/54,MAGUWOHARJO,DEPOK,",
+        "logo": "https://wlkp-assets.kemnaker.go.id/companies/ff23514c-513e-4cf4-9594-920324dfd130/5dccd0792d237.png",
+        "banner": "https://wlkp-assets.kemnaker.go.id/companies/ff23514c-513e-4cf4-9594-920324dfd130/5f968cd3e11c6.png",
+        "created_at": "2025-11-01 11:11:08",
+        "updated_at": "2025-11-01 11:13:56",
+        "kode_kabupaten": "3404",
+        "nama_kabupaten": "KAB. SLEMAN",
+        "kode_provinsi": "34",
+        "nama_provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": null
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": null
+      }
+    },
+    {
+      "id_posisi": "a04654ee-aa6e-4bc6-b038-bda87898d29d",
+      "posisi": "Staf HRD",
+      "deskripsi_posisi": "Deskripsi Pekerjaan :\n•\tMelakukan kegiatan administratif, penilaian karyawan, screening CV, wawancara\n•\tMembantu melaksanakan program pelatihan dan pengembangan SDM\n\nKualifikasi :\n•\tMahasiswa tingkat akhir/freshgraduate jurusan Psikologi/Manajemen SDM\n•\tMemiliki pengetahuan terkait pelatihan dan penilaian kinerja\n•\tMemiliki pengetahuan terkait rekrutmen, seleksi kerja, teknik wawancara, administrasi rekrutmen\n•\tMampu menggunakan Microsoft Office (Word, Excel)\n•\tKomunikatif, adaptif, cekatan, dan memiliki kemauan belajar yang tinggi\n•\tDiutamakan berdomisili di Jogja dan sekitarnya (penempatan : Jogja)",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "6810bfe2-29c9-4d92-a214-86bb49837093",
+      "created_at": "2025-11-01 11:11:08",
+      "updated_at": "2025-11-01 11:13:56",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 1,
+      "jumlah_terdaftar": 14,
+      "program_studi": "[{\"id\":\"3e1f167b-ac1f-4208-b1f7-ff2244791c64\",\"title\":\"Psikologi\"},{\"id\":\"275bb92a-f5fa-485f-bf0c-5c0e9d4500d7\",\"title\":\"Manajemen Sumber Daya Manusia\"},{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"}]",
+      "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
         "id_status_posisi": 2,
         "nama_status_posisi": "Terverifikasi"
@@ -3767,7 +3767,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 6,
+      "jumlah_terdaftar": 7,
       "program_studi": "[{\"id\":\"b65a25f2-988f-40f8-9dfd-c1c097560e41\",\"title\":\"Ilmu Informatika\"},{\"id\":\"03b570a2-c678-4413-aa47-bfed8308fac5\",\"title\":\"Teknik Informatika\"},{\"id\":\"0b074455-5cb4-45c4-8111-1a9e3b6de1c0\",\"title\":\"Informatika\"},{\"id\":\"8bdce5f1-553c-40b4-a5f5-9e5ff9387b60\",\"title\":\"Sistem Informasi\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -4367,7 +4367,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 22,
+      "jumlah_terdaftar": 21,
       "program_studi": "[{\"id\":\"fd3ebf70-4f4b-4dab-a7ab-ec31d20bd01b\",\"title\":\"Hukum\"},{\"id\":\"b1d47991-f9e7-47c4-8e42-317b52b4d330\",\"title\":\"Ilmu Hukum\"},{\"id\":\"c702a4e5-9f96-4e85-9b2b-e31a5f350e05\",\"title\":\"Hukum Syariah\"},{\"id\":\"c818ee08-9547-4427-9e41-4776e8ad2432\",\"title\":\"Hukum Ekonomi Syari`ah\"},{\"id\":\"6535e939-e6f6-4ab5-807e-f2c126f4411a\",\"title\":\"Hukum Tata Negara\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -5176,6 +5176,81 @@
       }
     },
     {
+      "id_posisi": "a03cc77c-4727-485e-953d-cf27a68f13e0",
+      "posisi": "Assisten Trainer",
+      "deskripsi_posisi": "1. Memperbarui kurikulum pelatihan\n2. Membuat materi pelatihan \n3. Melakukan persiapan pelatihan sampai dengan evaluasi pelatihan\n4. Melakukan analisa dari dampak pelatihan",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "c627af42-adb2-4648-8f7b-bc7729bc770a",
+      "created_at": "2025-10-30 12:58:04",
+      "updated_at": null,
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 1,
+      "jumlah_terdaftar": 2,
+      "program_studi": "[{\"id\":\"68d15fae-5b63-4b25-8bb5-164f3d85e2d4\",\"title\":\"Pendidikan Teknik Mesin\"}]",
+      "jenjang": "[\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "c627af42-adb2-4648-8f7b-bc7729bc770a",
+        "id_sumber_dana": null,
+        "id_perusahaan": "c4474de4-cee2-43be-8289-7751e35d434a",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "c4474de4-cee2-43be-8289-7751e35d434a",
+        "id_desa": null,
+        "nama_perusahaan": "Yogya Presisi Tehnikatama Industri",
+        "deskripsi_perusahaan": "PT Yogya Presisi Teknikatama Industri (PT YPTI) is a company that moved into the manufacturing sector. PT YPTI serves the precision part, jig & fixtures, mold making, plastic injection molding, and research, development, and prototyping. PT YPTI has a full range of CNC Machines to fulfill customer satisfaction. We also offer reverse engineering to help our customers develop their designs until final execution. PT YPTI uses coordinate measuring machines and other precision inspection facilities with ISO 9001 certification in 2008. We can run small-batch and high-volume production in our machining/production line.",
+        "alamat": "DHURI, TIRTOMARTANI, KALASAN",
+        "logo": "https://wlkp-assets.kemnaker.go.id/companies/c4474de4-cee2-43be-8289-7751e35d434a/5e008f5026c77.jpg",
+        "banner": "https://wlkp-assets.kemnaker.go.id/companies/c4474de4-cee2-43be-8289-7751e35d434a/5e008f5c53d5a.png",
+        "created_at": "2025-10-30 12:58:04",
+        "updated_at": null,
+        "kode_kabupaten": "3404",
+        "nama_kabupaten": "KAB. SLEMAN",
+        "kode_provinsi": "34",
+        "nama_provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": null
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": null
+      }
+    },
+    {
       "id_posisi": "a044106f-9894-4862-b4eb-4e7915af24f6",
       "posisi": "Supervisor Marketing",
       "deskripsi_posisi": "1. Mengidentifikasi proses produksi untuk setiap project yang ada\n2. Membuat report monitoring project untuk job order\n3. Melakukan analisa terhadap problem delay untuk project job order beserta counter measure nya",
@@ -5267,7 +5342,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 13,
+      "jumlah_terdaftar": 12,
       "program_studi": "[{\"id\":\"2fee5a6d-a685-4a85-911b-5aa7e4980851\",\"title\":\"Teknik Industri\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -5345,81 +5420,6 @@
       "jumlah_terdaftar": 8,
       "program_studi": "[{\"id\":\"21442969-5763-4416-bb8d-56a80e55ada9\",\"title\":\"Teknik Mesin\"},{\"id\":\"2fee5a6d-a685-4a85-911b-5aa7e4980851\",\"title\":\"Teknik Industri\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "c627af42-adb2-4648-8f7b-bc7729bc770a",
-        "id_sumber_dana": null,
-        "id_perusahaan": "c4474de4-cee2-43be-8289-7751e35d434a",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "c4474de4-cee2-43be-8289-7751e35d434a",
-        "id_desa": null,
-        "nama_perusahaan": "Yogya Presisi Tehnikatama Industri",
-        "deskripsi_perusahaan": "PT Yogya Presisi Teknikatama Industri (PT YPTI) is a company that moved into the manufacturing sector. PT YPTI serves the precision part, jig & fixtures, mold making, plastic injection molding, and research, development, and prototyping. PT YPTI has a full range of CNC Machines to fulfill customer satisfaction. We also offer reverse engineering to help our customers develop their designs until final execution. PT YPTI uses coordinate measuring machines and other precision inspection facilities with ISO 9001 certification in 2008. We can run small-batch and high-volume production in our machining/production line.",
-        "alamat": "DHURI, TIRTOMARTANI, KALASAN",
-        "logo": "https://wlkp-assets.kemnaker.go.id/companies/c4474de4-cee2-43be-8289-7751e35d434a/5e008f5026c77.jpg",
-        "banner": "https://wlkp-assets.kemnaker.go.id/companies/c4474de4-cee2-43be-8289-7751e35d434a/5e008f5c53d5a.png",
-        "created_at": "2025-10-30 12:58:04",
-        "updated_at": null,
-        "kode_kabupaten": "3404",
-        "nama_kabupaten": "KAB. SLEMAN",
-        "kode_provinsi": "34",
-        "nama_provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": null
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": null
-      }
-    },
-    {
-      "id_posisi": "a03cc77c-4727-485e-953d-cf27a68f13e0",
-      "posisi": "Assisten Trainer",
-      "deskripsi_posisi": "1. Memperbarui kurikulum pelatihan\n2. Membuat materi pelatihan \n3. Melakukan persiapan pelatihan sampai dengan evaluasi pelatihan\n4. Melakukan analisa dari dampak pelatihan",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "c627af42-adb2-4648-8f7b-bc7729bc770a",
-      "created_at": "2025-10-30 12:58:04",
-      "updated_at": null,
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 1,
-      "jumlah_terdaftar": 1,
-      "program_studi": "[{\"id\":\"68d15fae-5b63-4b25-8bb5-164f3d85e2d4\",\"title\":\"Pendidikan Teknik Mesin\"}]",
-      "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
         "id_status_posisi": 2,
         "nama_status_posisi": "Terverifikasi"
@@ -7517,5 +7517,5 @@
       "total": 1031
     }
   },
-  "_scraped_at": "2025-11-12T09:54:06.792954+00:00"
+  "_scraped_at": "2025-11-12T10:13:33.770520+00:00"
 }

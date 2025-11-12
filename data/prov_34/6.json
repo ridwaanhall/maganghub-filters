@@ -617,7 +617,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 3,
+      "jumlah_terdaftar": 4,
       "program_studi": "[{\"id\":\"90586281-900a-4cee-821e-3ad158837f1a\",\"title\":\"Teknik informatika\"}]",
       "jenjang": "[\"Diploma\"]",
       "ref_status_posisi": {
@@ -4067,7 +4067,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 9,
+      "jumlah_terdaftar": 10,
       "program_studi": "[{\"id\":\"681a6e41-f24c-464d-838c-480fdef72f66\",\"title\":\"Sosiologi\"},{\"id\":\"702dfd8b-b5b8-40fb-843b-4d503451b314\",\"title\":\"Ekonomi\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -4442,7 +4442,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 1,
+      "jumlah_terdaftar": 2,
       "program_studi": "[{\"id\":\"40e5799a-ac08-4003-aced-99c4182ca97f\",\"title\":\"Ekonomi Islam\"},{\"id\":\"962c1629-486b-4945-a41b-721772a336ee\",\"title\":\"Ekonomi Syariah\"},{\"id\":\"e67556e0-01a8-4300-aff5-7175600c6de2\",\"title\":\"Manajemen dan Bisnis Syariah\"},{\"id\":\"83ff506e-311d-47bf-a963-0e42382b6806\",\"title\":\"Keuangan Syariah\"},{\"id\":\"470dd423-9b44-491d-ade1-1d1854cb9ec1\",\"title\":\"Hukum Ekonomi Syariah\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -4592,7 +4592,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 17,
+      "jumlah_terdaftar": 16,
       "program_studi": "[{\"id\":\"3e1f167b-ac1f-4208-b1f7-ff2244791c64\",\"title\":\"Psikologi\"},{\"id\":\"275bb92a-f5fa-485f-bf0c-5c0e9d4500d7\",\"title\":\"Manajemen Sumber Daya Manusia\"},{\"id\":\"fd3ebf70-4f4b-4dab-a7ab-ec31d20bd01b\",\"title\":\"Hukum\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -4667,7 +4667,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 1,
+      "jumlah_terdaftar": 2,
       "program_studi": "[{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"},{\"id\":\"9dfcaa37-a44b-4331-87ab-bd32dc1066cb\",\"title\":\"Desain Komunikasi Visual\"},{\"id\":\"e90b7fe8-f4a5-4a1c-85f8-e929004b29e1\",\"title\":\"Desain Grafis\"},{\"id\":\"e2843b4a-1c93-44b9-bafd-c667c91efd9c\",\"title\":\"Desain Media\"},{\"id\":\"bef61511-23f4-4602-96e5-1661680bf4de\",\"title\":\"Komunikasi Digital dan Media\"}]",
       "jenjang": "[\"Sarjana\",\"Diploma\"]",
       "ref_status_posisi": {
@@ -7517,5 +7517,5 @@
       "total": 1031
     }
   },
-  "_scraped_at": "2025-11-12T09:54:06.576610+00:00"
+  "_scraped_at": "2025-11-12T10:13:33.547598+00:00"
 }

@@ -751,6 +751,81 @@
       }
     },
     {
+      "id_posisi": "a04a0a07-3e36-4872-a776-d6fbd9e5f128",
+      "posisi": "Analis SDM dan Hukum",
+      "deskripsi_posisi": "melakukan analisis kebutuhan kompetensi dan pemetaan kapasitas pegawai, menyusun bahan evaluasi kinerja dan pengembangan SDM berbasis data\nmenyusun dokumentasi kebijakan SDM, SOP, dan proses human capital\nmenelaah dokumen hukum internal dan penyusunan supporting legal drafting",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "f3cdc538-9bc9-417b-bebe-7401c121773b",
+      "created_at": "2025-11-06 09:17:36",
+      "updated_at": "2025-11-06 09:17:36",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 1,
+      "jumlah_terdaftar": 31,
+      "program_studi": "[{\"id\":\"0c353635-be19-41e3-abef-287c8fd73d32\",\"title\":\"Teknologi Informasi\"},{\"id\":\"fd3ebf70-4f4b-4dab-a7ab-ec31d20bd01b\",\"title\":\"Hukum\"},{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"},{\"id\":\"44c12a8c-7a88-47ea-87fb-0e7202a1390d\",\"title\":\"Administrasi\"}]",
+      "jenjang": "[\"Diploma\",\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "f3cdc538-9bc9-417b-bebe-7401c121773b",
+        "id_sumber_dana": null,
+        "id_perusahaan": "96f69b53-8c4b-41af-b96b-559962881ff7",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "96f69b53-8c4b-41af-b96b-559962881ff7",
+        "id_desa": null,
+        "nama_perusahaan": "BPS Provinsi DI Yogyakarta",
+        "deskripsi_perusahaan": null,
+        "alamat": "Jl. Lingkar Selatan, Geblagan, Tamantirto, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta",
+        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/oZlwi9xSxLAHDLlvEKib1j3Zq6vpIb2V1K7wEpDJ.jpg",
+        "banner": null,
+        "created_at": "2025-11-06 09:17:36",
+        "updated_at": "2025-11-06 09:17:36",
+        "kode_kabupaten": "3402",
+        "nama_kabupaten": "KAB. BANTUL",
+        "kode_provinsi": "34",
+        "nama_provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": "Badan Pusat Statistik"
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": "BPS Provinsi DI Yogyakarta"
+      }
+    },
+    {
       "id_posisi": "a04a07f0-31dc-4522-be1b-0919119e21fe",
       "posisi": "Analis Sistem Informasi Statistik, Prakom, Humas",
       "deskripsi_posisi": "melakukan analisis kebutuhan sistem pengolahan dan penyajian data statistik\nmenyusun dokumentasi teknis requirement sistem informasi statistik\nmelakukan pengecekan kualitas implementasi sistem dan integrasi data\nmelakukan pengelolaan komunikasi timbal balik antara organisasi dan publik, penyampaian informasi, pembangunan citra positif, serta pemantauan opini publik",
@@ -994,81 +1069,6 @@
       "jumlah_kuota": 1,
       "jumlah_terdaftar": 20,
       "program_studi": "[{\"id\":\"689c292f-0f48-4b88-93ff-695196c71acb\",\"title\":\"Statistik\"},{\"id\":\"0c353635-be19-41e3-abef-287c8fd73d32\",\"title\":\"Teknologi Informasi\"},{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"},{\"id\":\"702dfd8b-b5b8-40fb-843b-4d503451b314\",\"title\":\"Ekonomi\"},{\"id\":\"6676270f-d9fa-43fd-b203-615f6ddc8b91\",\"title\":\"Ekonomi Pertanian dan Agribisnis\"}]",
-      "jenjang": "[\"Diploma\",\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "f3cdc538-9bc9-417b-bebe-7401c121773b",
-        "id_sumber_dana": null,
-        "id_perusahaan": "96f69b53-8c4b-41af-b96b-559962881ff7",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "96f69b53-8c4b-41af-b96b-559962881ff7",
-        "id_desa": null,
-        "nama_perusahaan": "BPS Provinsi DI Yogyakarta",
-        "deskripsi_perusahaan": null,
-        "alamat": "Jl. Lingkar Selatan, Geblagan, Tamantirto, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta",
-        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/oZlwi9xSxLAHDLlvEKib1j3Zq6vpIb2V1K7wEpDJ.jpg",
-        "banner": null,
-        "created_at": "2025-11-06 09:17:36",
-        "updated_at": "2025-11-06 09:17:36",
-        "kode_kabupaten": "3402",
-        "nama_kabupaten": "KAB. BANTUL",
-        "kode_provinsi": "34",
-        "nama_provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": "Badan Pusat Statistik"
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": "BPS Provinsi DI Yogyakarta"
-      }
-    },
-    {
-      "id_posisi": "a04a0a07-3e36-4872-a776-d6fbd9e5f128",
-      "posisi": "Analis SDM dan Hukum",
-      "deskripsi_posisi": "melakukan analisis kebutuhan kompetensi dan pemetaan kapasitas pegawai, menyusun bahan evaluasi kinerja dan pengembangan SDM berbasis data\nmenyusun dokumentasi kebijakan SDM, SOP, dan proses human capital\nmenelaah dokumen hukum internal dan penyusunan supporting legal drafting",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "f3cdc538-9bc9-417b-bebe-7401c121773b",
-      "created_at": "2025-11-06 09:17:36",
-      "updated_at": "2025-11-06 09:17:36",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 1,
-      "jumlah_terdaftar": 32,
-      "program_studi": "[{\"id\":\"0c353635-be19-41e3-abef-287c8fd73d32\",\"title\":\"Teknologi Informasi\"},{\"id\":\"fd3ebf70-4f4b-4dab-a7ab-ec31d20bd01b\",\"title\":\"Hukum\"},{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"},{\"id\":\"44c12a8c-7a88-47ea-87fb-0e7202a1390d\",\"title\":\"Administrasi\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
         "id_status_posisi": 2,
@@ -2942,7 +2942,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 4,
+      "jumlah_terdaftar": 3,
       "program_studi": "[{\"id\":\"44c12a8c-7a88-47ea-87fb-0e7202a1390d\",\"title\":\"Administrasi\"},{\"id\":\"fb8baadf-4b6f-423a-a499-07e330c61000\",\"title\":\"Administrasi Perkantoran\"},{\"id\":\"fa9c3906-d811-4cc1-836e-e861f0a75f01\",\"title\":\"Manajemen Administrasi Perkantoran\"},{\"id\":\"ecfc7a4a-9ddc-4291-a35e-eda47e3050b1\",\"title\":\"Kesekretariatan\"},{\"id\":\"d024dfa9-a679-4492-9c2c-870984076842\",\"title\":\"Sekretari\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -5192,7 +5192,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 0,
+      "jumlah_terdaftar": 1,
       "program_studi": "[{\"id\":\"9cd9d15c-d9eb-4d4a-8f13-7f6272e6c8ee\",\"title\":\"Pendidikan Olahraga Dan Kesehatan\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -5492,7 +5492,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 22,
+      "jumlah_terdaftar": 23,
       "program_studi": "[{\"id\":\"9c45e738-34b0-48d4-90ff-e9ac9cade490\",\"title\":\"Keperawatan\"},{\"id\":\"4f53bef4-5310-443b-82bc-1e99f1f2ef08\",\"title\":\"Farmasi\"},{\"id\":\"4f7a53df-a963-4a1c-80aa-8fbea498d288\",\"title\":\"Kesehatan Masyarakat\"},{\"id\":\"c8e29d79-8e8e-406d-b56f-06f32dbc4671\",\"title\":\"Manajemen Pelayanan Rumah Sakit\"},{\"id\":\"897f7e2a-b86f-439a-a375-b3a288b51e02\",\"title\":\"Administrasi Kesehatan\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -6167,7 +6167,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 11,
+      "jumlah_terdaftar": 12,
       "program_studi": "[{\"id\":\"2c88d9da-5636-40d2-9d1d-d3882c313960\",\"title\":\"Kearsipan\"},{\"id\":\"feba6ac2-0634-498a-a720-3eba52d2bc0d\",\"title\":\"Administrasi Negara\"},{\"id\":\"7551b4b0-9160-465c-9065-be559c153ce7\",\"title\":\"Administrasi Publik\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -7201,81 +7201,6 @@
       }
     },
     {
-      "id_posisi": "a056471d-c621-4d28-8f53-79b4cf231da5",
-      "posisi": "Humas",
-      "deskripsi_posisi": "1.\tMenjalankan fungsi kehumasan seperti media relasi, dokumentasi, publikasi dan pengelolaan media sosial.\n2.\tMemantau dan melakukan evaluasi pemberitaan media yang menyangkut nama baik PMI DIY.\n3.\tMemberikan  bantuan  teknis  dan  pengawasan  terhadap  semua  produk  publikasi  dan dokumentasi PMI sesuai dengan ketentuan Corporate Identity di lingkungan PMI DIY dan PMI Kabupaten/Kota.\n4.\tMendokumentasikan kegiatan organisasi baik melalui foto maupun video dan mengarsipkannya.\n5.\tMengelola media publikasi (KIE) PMI, konten website dan media sosial PMI DIY secara kekinian.",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "e0c597a4-df1a-4947-9e71-b7d2902af064",
-      "created_at": "2025-11-05 10:17:17",
-      "updated_at": "2025-11-06 09:52:28",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 1,
-      "jumlah_terdaftar": 1,
-      "program_studi": "[{\"id\":\"e90b7fe8-f4a5-4a1c-85f8-e929004b29e1\",\"title\":\"Desain Grafis\"},{\"id\":\"9dfcaa37-a44b-4331-87ab-bd32dc1066cb\",\"title\":\"Desain Komunikasi Visual\"}]",
-      "jenjang": "[\"Diploma\",\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "e0c597a4-df1a-4947-9e71-b7d2902af064",
-        "id_sumber_dana": null,
-        "id_perusahaan": "958b1504-063a-4ade-9cff-fc36a02581ff",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "958b1504-063a-4ade-9cff-fc36a02581ff",
-        "id_desa": null,
-        "nama_perusahaan": "Palang Merah Indonesia",
-        "deskripsi_perusahaan": null,
-        "alamat": "JL SILIWANGI NO 3",
-        "logo": null,
-        "banner": null,
-        "created_at": "2025-11-05 10:17:17",
-        "updated_at": "2025-11-06 09:52:28",
-        "kode_kabupaten": "3404",
-        "nama_kabupaten": "KAB. SLEMAN",
-        "kode_provinsi": "34",
-        "nama_provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": null
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": null
-      }
-    },
-    {
       "id_posisi": "a0567ab1-e1a1-4c4e-810d-f7ac763e99b4",
       "posisi": "Perawat Gigi",
       "deskripsi_posisi": "1.\tPelayanan Pasien\na.\tMelakukan pemeriksaan awal terhadap kondisi gigi dan mulut pasien sesuai prosedur.\nb.\tMenyiapkan pasien sebelum tindakan dokter gigi.\nc.\tMembantu dokter gigi dalam melakukan tindakan medis seperti penambalan, pembersihan karang gigi, pencabutan gigi, dan tindakan lain sesuai kewenangan.\nd.\tMelakukan tindakan keperawatan gigi mandiri sesuai kompetensi, seperti penyuluhan kebersihan gigi dan mulut, pembersihan plak, atau aplikasi fluor.\ne.\tMelaksanakan triase sederhana terhadap pasien yang datang untuk menentukan prioritas pelayanan.\n2.\tPenyiapan dan Pemeliharaan Alat\na.\tMenyiapkan peralatan, bahan, dan ruang praktik sebelum dan sesudah tindakan.\nb.\tMelakukan sterilisasi, desinfeksi, dan penyimpanan alat kedokteran gigi sesuai standar.\nc.\tMemastikan ketersediaan bahan medis habis pakai dan alat kesehatan yang diperlukan.\n3.\tAdministrasi Pelayanan\na.\tMengisi rekam medis pasien dengan lengkap dan akurat.\nb.\tMengatur jadwal pelayanan dan membantu administrasi pendaftaran pasien.\nc.\tMenyusun laporan harian, mingguan, dan bulanan terkait kegiatan pelayanan gigi dan mulut.\n4.\tEdukasi dan Promosi Kesehatan\na.\tMemberikan penyuluhan tentang kesehatan gigi dan mulut kepada pasien, keluarga, dan masyarakat.\nb.\tBerpartisipasi dalam kegiatan promosi kesehatan seperti pemeriksaan gigi keliling, penyuluhan di sekolah, atau kegiatan sosial PMI.\n5.\tPengendalian Mutu dan Keselamatan Pasien\na.\tMelaksanakan prosedur keselamatan pasien dan pencegahan infeksi.\nb.\tMenjaga kebersihan, ketertiban, dan kenyamanan ruang perawatan gigi.",
@@ -7426,6 +7351,81 @@
       }
     },
     {
+      "id_posisi": "a056471d-c621-4d28-8f53-79b4cf231da5",
+      "posisi": "Humas",
+      "deskripsi_posisi": "1.\tMenjalankan fungsi kehumasan seperti media relasi, dokumentasi, publikasi dan pengelolaan media sosial.\n2.\tMemantau dan melakukan evaluasi pemberitaan media yang menyangkut nama baik PMI DIY.\n3.\tMemberikan  bantuan  teknis  dan  pengawasan  terhadap  semua  produk  publikasi  dan dokumentasi PMI sesuai dengan ketentuan Corporate Identity di lingkungan PMI DIY dan PMI Kabupaten/Kota.\n4.\tMendokumentasikan kegiatan organisasi baik melalui foto maupun video dan mengarsipkannya.\n5.\tMengelola media publikasi (KIE) PMI, konten website dan media sosial PMI DIY secara kekinian.",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "e0c597a4-df1a-4947-9e71-b7d2902af064",
+      "created_at": "2025-11-05 10:17:17",
+      "updated_at": "2025-11-06 09:52:28",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 1,
+      "jumlah_terdaftar": 2,
+      "program_studi": "[{\"id\":\"e90b7fe8-f4a5-4a1c-85f8-e929004b29e1\",\"title\":\"Desain Grafis\"},{\"id\":\"9dfcaa37-a44b-4331-87ab-bd32dc1066cb\",\"title\":\"Desain Komunikasi Visual\"}]",
+      "jenjang": "[\"Diploma\",\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "e0c597a4-df1a-4947-9e71-b7d2902af064",
+        "id_sumber_dana": null,
+        "id_perusahaan": "958b1504-063a-4ade-9cff-fc36a02581ff",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "958b1504-063a-4ade-9cff-fc36a02581ff",
+        "id_desa": null,
+        "nama_perusahaan": "Palang Merah Indonesia",
+        "deskripsi_perusahaan": null,
+        "alamat": "JL SILIWANGI NO 3",
+        "logo": null,
+        "banner": null,
+        "created_at": "2025-11-05 10:17:17",
+        "updated_at": "2025-11-06 09:52:28",
+        "kode_kabupaten": "3404",
+        "nama_kabupaten": "KAB. SLEMAN",
+        "kode_provinsi": "34",
+        "nama_provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": null
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": null
+      }
+    },
+    {
       "id_posisi": "a0564545-73b0-4647-bdad-a20d796df948",
       "posisi": "Front Office",
       "deskripsi_posisi": "1.\tMelaksanakan pengelolaan rekam medis.\n2.\tMelakukan pendokumentasian rekam medis.\n3.\tMelakukan entry data.\n4.\tMelakukan rujukan eksternal.\n5.\tMelaksanakan tugas klaim tindakan.\n6.\tMelaksanakan tugas sebagai petugas pendaftaran.",
@@ -7517,5 +7517,5 @@
       "total": 1031
     }
   },
-  "_scraped_at": "2025-11-12T09:54:07.376636+00:00"
+  "_scraped_at": "2025-11-12T10:13:34.370178+00:00"
 }

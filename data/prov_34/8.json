@@ -4592,7 +4592,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 16,
+      "jumlah_terdaftar": 15,
       "program_studi": "[{\"id\":\"fd3ebf70-4f4b-4dab-a7ab-ec31d20bd01b\",\"title\":\"Hukum\"},{\"id\":\"277d622d-242a-40a4-a46a-ee63cf22fc0a\",\"title\":\"Hukum Bisnis\"},{\"id\":\"b1d47991-f9e7-47c4-8e42-317b52b4d330\",\"title\":\"Ilmu Hukum\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -4744,81 +4744,6 @@
       "jumlah_kuota": 1,
       "jumlah_terdaftar": 12,
       "program_studi": "[{\"id\":\"9dfcaa37-a44b-4331-87ab-bd32dc1066cb\",\"title\":\"Desain Komunikasi Visual\"},{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"},{\"id\":\"18f1fc9e-e9d1-4855-9d42-d86edd8519b6\",\"title\":\"Multimedia\"},{\"id\":\"0979db79-c812-4572-8176-337177e48219\",\"title\":\"Hubungan Masyarakat dan Komunikasi Digital\"},{\"id\":\"2c1f894d-16df-471c-abe7-6939d132c6b0\",\"title\":\"Komunikasi\"}]",
-      "jenjang": "[\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "951181ee-2f96-4667-9498-0935fccaa75d",
-        "id_sumber_dana": null,
-        "id_perusahaan": "85da5a50-7e80-45c9-9983-ac5a9fe03038",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "85da5a50-7e80-45c9-9983-ac5a9fe03038",
-        "id_desa": null,
-        "nama_perusahaan": "Noonbit Academy Indonesia",
-        "deskripsi_perusahaan": null,
-        "alamat": "Jl. Prof. Dr. Herman Yohanes No. 53",
-        "logo": "https://wlkp-assets.kemnaker.go.id/companies/765da620-99aa-4c03-abab-b2fdb0b20246/6908a76cc5871.png",
-        "banner": "https://wlkp-assets.kemnaker.go.id/companies/765da620-99aa-4c03-abab-b2fdb0b20246/6908a7f7ae8f2.jpg",
-        "created_at": "2025-11-03 20:24:24",
-        "updated_at": "2025-11-05 15:22:37",
-        "kode_kabupaten": "3404",
-        "nama_kabupaten": "KAB. SLEMAN",
-        "kode_provinsi": "34",
-        "nama_provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": null
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": null
-      }
-    },
-    {
-      "id_posisi": "a0470021-7ae0-4ffe-879e-de7785f1b9dd",
-      "posisi": "Class Operations Intern",
-      "deskripsi_posisi": "Key Responsibilities:\n\n1. Mengelola komunikasi untuk siswa Noonbit melalui akun WhatsApp Operasional.\n2. Menanggapi pesan terkait jadwal kelas, penjadwalan ulang, dan kehadiran dengan sopan dan cepat.\n3. Berkoordinasi dengan Admin Operasional Kelas lain untuk permintaan penjadwalan ulang.\n4. Memperbarui perubahan yang sudah dikonfirmasi di Reschedule Tracker Sheet.\n5. Menindaklanjuti konfirmasi yang masih tertunda dari tutor atau siswa.\n6. Mengelola sertifikat kelas privat dan pembaruan dokumen pendukung.\n7. Mengirimkan laporan komunikasi harian kepada Class Operational Specialist.\n\nRequirements:\n\n1. Memiliki kemampuan menulis yang baik dan mampu menjaga kesopanan dalam berkomunikasi.\n2. Cepat merespons dan mampu menangani banyak percakapan secara efisien.\n3. Menguasai Google Sheets, Drive, Classroom, dan WhatsApp Web.\n4. Teliti, terorganisir, dan bertanggung jawab dalam pengelolaan dokumen.\n5. Memiliki pengalaman di bidang administrasi, layanan pelanggan, atau dukungan operasional (pengalaman di bidang pendidikan/edutech menjadi nilai tambah).\n6. Diutamakan yang mengikuti dan menyukai budaya pop Korea (bahasa, lagu, drama, dll).",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "951181ee-2f96-4667-9498-0935fccaa75d",
-      "created_at": "2025-11-03 20:24:24",
-      "updated_at": "2025-11-05 15:22:37",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 1,
-      "jumlah_terdaftar": 37,
-      "program_studi": "[{\"id\":\"44c12a8c-7a88-47ea-87fb-0e7202a1390d\",\"title\":\"Administrasi\"},{\"id\":\"9d46d840-695e-4ecf-915c-ef58ebc36d9b\",\"title\":\"Administrasi Bisnis\"},{\"id\":\"2c1f894d-16df-471c-abe7-6939d132c6b0\",\"title\":\"Komunikasi\"},{\"id\":\"3e1f167b-ac1f-4208-b1f7-ff2244791c64\",\"title\":\"Psikologi\"},{\"id\":\"c717c15a-f651-404a-8040-65767cae5db1\",\"title\":\"Bahasa dan Kebudayaan Korea\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
         "id_status_posisi": 2,
@@ -5044,6 +4969,81 @@
       "jumlah_kuota": 1,
       "jumlah_terdaftar": 6,
       "program_studi": "[{\"id\":\"f2b794f4-a7ce-41a2-9d42-d3124c95bcd0\",\"title\":\"Bahasa Korea\"},{\"id\":\"d5446fad-8c00-44c8-a6c9-ce7d7390ad41\",\"title\":\"Pendidikan Bahasa Korea\"},{\"id\":\"c717c15a-f651-404a-8040-65767cae5db1\",\"title\":\"Bahasa dan Kebudayaan Korea\"},{\"id\":\"e12302ac-c8dc-4d0a-90a7-402f6fafd27e\",\"title\":\"Manajemen Pemasaran\\/Marketing\"},{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"}]",
+      "jenjang": "[\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "951181ee-2f96-4667-9498-0935fccaa75d",
+        "id_sumber_dana": null,
+        "id_perusahaan": "85da5a50-7e80-45c9-9983-ac5a9fe03038",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "85da5a50-7e80-45c9-9983-ac5a9fe03038",
+        "id_desa": null,
+        "nama_perusahaan": "Noonbit Academy Indonesia",
+        "deskripsi_perusahaan": null,
+        "alamat": "Jl. Prof. Dr. Herman Yohanes No. 53",
+        "logo": "https://wlkp-assets.kemnaker.go.id/companies/765da620-99aa-4c03-abab-b2fdb0b20246/6908a76cc5871.png",
+        "banner": "https://wlkp-assets.kemnaker.go.id/companies/765da620-99aa-4c03-abab-b2fdb0b20246/6908a7f7ae8f2.jpg",
+        "created_at": "2025-11-03 20:24:24",
+        "updated_at": "2025-11-05 15:22:37",
+        "kode_kabupaten": "3404",
+        "nama_kabupaten": "KAB. SLEMAN",
+        "kode_provinsi": "34",
+        "nama_provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": null
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": null
+      }
+    },
+    {
+      "id_posisi": "a0470021-7ae0-4ffe-879e-de7785f1b9dd",
+      "posisi": "Class Operations Intern",
+      "deskripsi_posisi": "Key Responsibilities:\n\n1. Mengelola komunikasi untuk siswa Noonbit melalui akun WhatsApp Operasional.\n2. Menanggapi pesan terkait jadwal kelas, penjadwalan ulang, dan kehadiran dengan sopan dan cepat.\n3. Berkoordinasi dengan Admin Operasional Kelas lain untuk permintaan penjadwalan ulang.\n4. Memperbarui perubahan yang sudah dikonfirmasi di Reschedule Tracker Sheet.\n5. Menindaklanjuti konfirmasi yang masih tertunda dari tutor atau siswa.\n6. Mengelola sertifikat kelas privat dan pembaruan dokumen pendukung.\n7. Mengirimkan laporan komunikasi harian kepada Class Operational Specialist.\n\nRequirements:\n\n1. Memiliki kemampuan menulis yang baik dan mampu menjaga kesopanan dalam berkomunikasi.\n2. Cepat merespons dan mampu menangani banyak percakapan secara efisien.\n3. Menguasai Google Sheets, Drive, Classroom, dan WhatsApp Web.\n4. Teliti, terorganisir, dan bertanggung jawab dalam pengelolaan dokumen.\n5. Memiliki pengalaman di bidang administrasi, layanan pelanggan, atau dukungan operasional (pengalaman di bidang pendidikan/edutech menjadi nilai tambah).\n6. Diutamakan yang mengikuti dan menyukai budaya pop Korea (bahasa, lagu, drama, dll).",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "951181ee-2f96-4667-9498-0935fccaa75d",
+      "created_at": "2025-11-03 20:24:24",
+      "updated_at": "2025-11-05 15:22:37",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 1,
+      "jumlah_terdaftar": 37,
+      "program_studi": "[{\"id\":\"44c12a8c-7a88-47ea-87fb-0e7202a1390d\",\"title\":\"Administrasi\"},{\"id\":\"9d46d840-695e-4ecf-915c-ef58ebc36d9b\",\"title\":\"Administrasi Bisnis\"},{\"id\":\"2c1f894d-16df-471c-abe7-6939d132c6b0\",\"title\":\"Komunikasi\"},{\"id\":\"3e1f167b-ac1f-4208-b1f7-ff2244791c64\",\"title\":\"Psikologi\"},{\"id\":\"c717c15a-f651-404a-8040-65767cae5db1\",\"title\":\"Bahasa dan Kebudayaan Korea\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
         "id_status_posisi": 2,
@@ -6001,9 +6001,9 @@
       }
     },
     {
-      "id_posisi": "a0480644-3208-4387-805b-1a4e3ead4071",
-      "posisi": "FINANCE / KEUANGAN / AKUNTAN",
-      "deskripsi_posisi": "Jobdesc Finance:\n1. Merekap Transaksi Harian Marketplace\n2. Menyusun Laporan Keuangan\n3. Pencatatan Budget Marketing Perusahaan\n4. Pengecekan Terkait Invoice Penjualan",
+      "id_posisi": "a0480f2e-e9b7-48ae-bb09-bc6c9e777d0e",
+      "posisi": "CONTENT CREATOR / VIDEOGRAPHER / VIDEO EDITOR / GRAPHIC DESIGN",
+      "deskripsi_posisi": "Jobdesc:\n\n1. Membantu Membuat Video Konten\n2. Membantu Pengelolaan Sosial Media Perusahaan\n3. Membantu Membuat Desain Grafis Sesuai Brief \n4. Minimal Menguasai Canva atau Capcut\n5. Dapat mengoperasikan kamera dengan baik",
       "syarat_khusus": null,
       "usia_minimal": null,
       "usia_maksimal": null,
@@ -6018,8 +6018,8 @@
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
       "jumlah_terdaftar": 6,
-      "program_studi": "[{\"id\":\"c13ae920-a48f-4a7c-8c89-2b286a7fc225\",\"title\":\"Akuntansi\"},{\"id\":\"69da5119-d806-4ddf-84c9-ace9186212d3\",\"title\":\"Akuntansi Keuangan Perusahaan\"},{\"id\":\"e2ceca3e-19c6-4aae-aa29-c36be7f76487\",\"title\":\"Administrasi Keuangan\"},{\"id\":\"0b0a2a05-888a-43fc-ac2f-faa42ffd95da\",\"title\":\"Perpajakan\"},{\"id\":\"142f5e84-5f07-410b-9384-e024db022466\",\"title\":\"Keuangan dan Perbankan\"}]",
-      "jenjang": "[\"Sarjana\",\"Diploma\"]",
+      "program_studi": "[{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"},{\"id\":\"9dfcaa37-a44b-4331-87ab-bd32dc1066cb\",\"title\":\"Desain Komunikasi Visual\"},{\"id\":\"a5fb0a56-78ec-485e-84a0-b85f818c3ed1\",\"title\":\"Teknologi Multimedia dan Broadcasting\"},{\"id\":\"18f1fc9e-e9d1-4855-9d42-d86edd8519b6\",\"title\":\"Multimedia\"},{\"id\":\"38a57855-c348-4e9e-845a-d3fa03c133b6\",\"title\":\"Jurnalistik\"}]",
+      "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
         "id_status_posisi": 2,
         "nama_status_posisi": "Terverifikasi"
@@ -6076,9 +6076,9 @@
       }
     },
     {
-      "id_posisi": "a0480f2e-e9b7-48ae-bb09-bc6c9e777d0e",
-      "posisi": "CONTENT CREATOR / VIDEOGRAPHER / VIDEO EDITOR / GRAPHIC DESIGN",
-      "deskripsi_posisi": "Jobdesc:\n\n1. Membantu Membuat Video Konten\n2. Membantu Pengelolaan Sosial Media Perusahaan\n3. Membantu Membuat Desain Grafis Sesuai Brief \n4. Minimal Menguasai Canva atau Capcut\n5. Dapat mengoperasikan kamera dengan baik",
+      "id_posisi": "a0480644-3208-4387-805b-1a4e3ead4071",
+      "posisi": "FINANCE / KEUANGAN / AKUNTAN",
+      "deskripsi_posisi": "Jobdesc Finance:\n1. Merekap Transaksi Harian Marketplace\n2. Menyusun Laporan Keuangan\n3. Pencatatan Budget Marketing Perusahaan\n4. Pengecekan Terkait Invoice Penjualan",
       "syarat_khusus": null,
       "usia_minimal": null,
       "usia_maksimal": null,
@@ -6092,9 +6092,9 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 6,
-      "program_studi": "[{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"},{\"id\":\"9dfcaa37-a44b-4331-87ab-bd32dc1066cb\",\"title\":\"Desain Komunikasi Visual\"},{\"id\":\"a5fb0a56-78ec-485e-84a0-b85f818c3ed1\",\"title\":\"Teknologi Multimedia dan Broadcasting\"},{\"id\":\"18f1fc9e-e9d1-4855-9d42-d86edd8519b6\",\"title\":\"Multimedia\"},{\"id\":\"38a57855-c348-4e9e-845a-d3fa03c133b6\",\"title\":\"Jurnalistik\"}]",
-      "jenjang": "[\"Diploma\",\"Sarjana\"]",
+      "jumlah_terdaftar": 7,
+      "program_studi": "[{\"id\":\"c13ae920-a48f-4a7c-8c89-2b286a7fc225\",\"title\":\"Akuntansi\"},{\"id\":\"69da5119-d806-4ddf-84c9-ace9186212d3\",\"title\":\"Akuntansi Keuangan Perusahaan\"},{\"id\":\"e2ceca3e-19c6-4aae-aa29-c36be7f76487\",\"title\":\"Administrasi Keuangan\"},{\"id\":\"0b0a2a05-888a-43fc-ac2f-faa42ffd95da\",\"title\":\"Perpajakan\"},{\"id\":\"142f5e84-5f07-410b-9384-e024db022466\",\"title\":\"Keuangan dan Perbankan\"}]",
+      "jenjang": "[\"Sarjana\",\"Diploma\"]",
       "ref_status_posisi": {
         "id_status_posisi": 2,
         "nama_status_posisi": "Terverifikasi"
@@ -7517,5 +7517,5 @@
       "total": 1031
     }
   },
-  "_scraped_at": "2025-11-12T09:54:06.987338+00:00"
+  "_scraped_at": "2025-11-12T10:13:33.949986+00:00"
 }

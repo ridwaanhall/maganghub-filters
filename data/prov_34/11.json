@@ -451,9 +451,9 @@
       }
     },
     {
-      "id_posisi": "a052d1d5-f3d1-4ae0-9e8d-99a715872557",
-      "posisi": "Administrasi Klaim",
-      "deskripsi_posisi": "Membantu pelaksanaan kegiatan administratif dan aktivitas yang terkait dengan pelaksanaan fungsi administrasi klaim, meliputi:\na. Mengelola register klaim (FKTP dan FKRTL)\nb. Membantu mengelola kelengkapan berkas klaim",
+      "id_posisi": "a052d0aa-d5d0-4e73-9b24-01453f3b9965",
+      "posisi": "Front Liner (FL)",
+      "deskripsi_posisi": "Membantu pelaksanaan kegiatan administratif dan aktivitas yang terkait dengan pelaksanaan fungsi pelayanan peserta, meliputi:\na. Layanan administrasi peserta perorangan, namun terbatas pada kegiatan yang tidak menggunakan akses aplikasi internal;\nb. Pelayanan program loyalitas peserta;\nc. Perencanaan pemberian informasi langsung dan tidak langsung;\nd. Pemberian informasi langsung dan tidak langsung.",
       "syarat_khusus": null,
       "usia_minimal": null,
       "usia_maksimal": null,
@@ -467,8 +467,8 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 20,
-      "program_studi": "[{\"id\":\"1b10c018-7e0a-4f55-9d0d-07ffdbc1b12b\",\"title\":\"Keperawatan\"},{\"id\":\"4f53bef4-5310-443b-82bc-1e99f1f2ef08\",\"title\":\"Farmasi\"},{\"id\":\"4f7a53df-a963-4a1c-80aa-8fbea498d288\",\"title\":\"Kesehatan Masyarakat\"},{\"id\":\"c8e29d79-8e8e-406d-b56f-06f32dbc4671\",\"title\":\"Manajemen Pelayanan Rumah Sakit\"},{\"id\":\"33b078c7-22c8-4c73-a0fd-cd49cfcaea92\",\"title\":\"Administrasi Rumah Sakit\"}]",
+      "jumlah_terdaftar": 12,
+      "program_studi": "[{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"},{\"id\":\"fd3ebf70-4f4b-4dab-a7ab-ec31d20bd01b\",\"title\":\"Hukum\"},{\"id\":\"98b6ac41-8b72-46e8-b79e-f97a0401b388\",\"title\":\"Manajemen Ekonomi\"},{\"id\":\"92f5f89b-dc4d-44ec-b562-f3f67116aa3a\",\"title\":\"Hubungan Internasional\"},{\"id\":\"7551b4b0-9160-465c-9065-be559c153ce7\",\"title\":\"Administrasi Publik\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
         "id_status_posisi": 2,
@@ -526,9 +526,9 @@
       }
     },
     {
-      "id_posisi": "a052d0aa-d5d0-4e73-9b24-01453f3b9965",
-      "posisi": "Front Liner (FL)",
-      "deskripsi_posisi": "Membantu pelaksanaan kegiatan administratif dan aktivitas yang terkait dengan pelaksanaan fungsi pelayanan peserta, meliputi:\na. Layanan administrasi peserta perorangan, namun terbatas pada kegiatan yang tidak menggunakan akses aplikasi internal;\nb. Pelayanan program loyalitas peserta;\nc. Perencanaan pemberian informasi langsung dan tidak langsung;\nd. Pemberian informasi langsung dan tidak langsung.",
+      "id_posisi": "a052d1d5-f3d1-4ae0-9e8d-99a715872557",
+      "posisi": "Administrasi Klaim",
+      "deskripsi_posisi": "Membantu pelaksanaan kegiatan administratif dan aktivitas yang terkait dengan pelaksanaan fungsi administrasi klaim, meliputi:\na. Mengelola register klaim (FKTP dan FKRTL)\nb. Membantu mengelola kelengkapan berkas klaim",
       "syarat_khusus": null,
       "usia_minimal": null,
       "usia_maksimal": null,
@@ -542,8 +542,8 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 10,
-      "program_studi": "[{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"},{\"id\":\"fd3ebf70-4f4b-4dab-a7ab-ec31d20bd01b\",\"title\":\"Hukum\"},{\"id\":\"98b6ac41-8b72-46e8-b79e-f97a0401b388\",\"title\":\"Manajemen Ekonomi\"},{\"id\":\"92f5f89b-dc4d-44ec-b562-f3f67116aa3a\",\"title\":\"Hubungan Internasional\"},{\"id\":\"7551b4b0-9160-465c-9065-be559c153ce7\",\"title\":\"Administrasi Publik\"}]",
+      "jumlah_terdaftar": 20,
+      "program_studi": "[{\"id\":\"1b10c018-7e0a-4f55-9d0d-07ffdbc1b12b\",\"title\":\"Keperawatan\"},{\"id\":\"4f53bef4-5310-443b-82bc-1e99f1f2ef08\",\"title\":\"Farmasi\"},{\"id\":\"4f7a53df-a963-4a1c-80aa-8fbea498d288\",\"title\":\"Kesehatan Masyarakat\"},{\"id\":\"c8e29d79-8e8e-406d-b56f-06f32dbc4671\",\"title\":\"Manajemen Pelayanan Rumah Sakit\"},{\"id\":\"33b078c7-22c8-4c73-a0fd-cd49cfcaea92\",\"title\":\"Administrasi Rumah Sakit\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
         "id_status_posisi": 2,
@@ -2342,5 +2342,5 @@
       "total": 1031
     }
   },
-  "_scraped_at": "2025-11-12T09:54:07.561726+00:00"
+  "_scraped_at": "2025-11-12T10:13:34.517828+00:00"
 }

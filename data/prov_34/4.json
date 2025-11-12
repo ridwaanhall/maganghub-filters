@@ -992,7 +992,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 2,
-      "jumlah_terdaftar": 3,
+      "jumlah_terdaftar": 4,
       "program_studi": "[{\"id\":\"bf0b7d57-cfef-42f1-82a2-aa75edcbdef2\",\"title\":\"Pendidikan Kewarganegaraan\"},{\"id\":\"5a1ed582-2e67-48bc-8cd8-09eecc170787\",\"title\":\"Pendidikan  Bahasa Inggris\"},{\"id\":\"31266e15-132e-412e-bae5-60c31e2d3399\",\"title\":\"Pendidikan Matematika\"},{\"id\":\"2996dfee-5885-4c92-99cf-e7b11656e7e9\",\"title\":\"Pendidikan  IPA\"},{\"id\":\"1fc38c65-848b-4905-81b3-4b00c3436d98\",\"title\":\"Pendidikan IPS\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -1367,7 +1367,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 2,
-      "jumlah_terdaftar": 31,
+      "jumlah_terdaftar": 32,
       "program_studi": "[{\"id\":\"4921b3e9-3836-4d2b-951a-45105bf57313\",\"title\":\"Perbankan\"},{\"id\":\"a09e5326-50be-41c2-aed4-f3d2974ef403\",\"title\":\"Manajemen Keuangan Perbankan\"},{\"id\":\"f8e3de2f-729d-480c-9b3d-c8af8e72267d\",\"title\":\"Ekonomi, Keuangan dan Perbankan\"},{\"id\":\"c13ae920-a48f-4a7c-8c89-2b286a7fc225\",\"title\":\"Akuntansi\"},{\"id\":\"02b4ec7d-94a2-4768-937f-ec401fac608e\",\"title\":\"Manajemen Keuangan\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -3617,7 +3617,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 2,
-      "jumlah_terdaftar": 19,
+      "jumlah_terdaftar": 18,
       "program_studi": "[{\"id\":\"03b570a2-c678-4413-aa47-bfed8308fac5\",\"title\":\"Teknik Informatika\"},{\"id\":\"8bdce5f1-553c-40b4-a5f5-9e5ff9387b60\",\"title\":\"Sistem Informasi\"},{\"id\":\"0b074455-5cb4-45c4-8111-1a9e3b6de1c0\",\"title\":\"Informatika\"},{\"id\":\"246e6e8a-413d-4dff-9d82-161b6222f8d0\",\"title\":\"Ilmu Komputer\"},{\"id\":\"93594dd7-0c1d-48c0-8f50-fd4bfde199b3\",\"title\":\"Teknik Elektro\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -5717,7 +5717,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 2,
-      "jumlah_terdaftar": 4,
+      "jumlah_terdaftar": 5,
       "program_studi": "[{\"id\":\"f3649513-83b2-430f-bf51-cc6925874975\",\"title\":\"Bisnis Digital\"},{\"id\":\"c9672149-95cd-4da9-8825-59fa83030831\",\"title\":\"Hubungan Masyarakat Dan Komunikasi Digital\"},{\"id\":\"9808ccda-82eb-47cd-a2e5-78d6baf95192\",\"title\":\"Pemasaran Digital\"},{\"id\":\"18f1fc9e-e9d1-4855-9d42-d86edd8519b6\",\"title\":\"Multimedia\"},{\"id\":\"e3668d6d-acab-4f65-8d20-262e73fe8f36\",\"title\":\"Manajemen Pemasaran\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -7517,5 +7517,5 @@
       "total": 1031
     }
   },
-  "_scraped_at": "2025-11-12T09:54:06.167355+00:00"
+  "_scraped_at": "2025-11-12T10:13:33.111210+00:00"
 }

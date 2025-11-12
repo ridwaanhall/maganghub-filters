@@ -1,6 +1,81 @@
 {
   "data": [
     {
+      "id_posisi": "a053fde3-b847-45b9-af32-26b51f5fa700",
+      "posisi": "Apoteker",
+      "deskripsi_posisi": "1. Mengelola penyimpanan dan distribusi obat di unit layanan Kesehatan \n2. Menyiapkan obat sesuai resep dokter.\n3. Memastikan keamanan dan kedaluwarsa obat\n4. Menyusun laporan penggunaan obat secara berkala.",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "1b9290a2-5105-464d-838d-2403f37fcdae",
+      "created_at": "2025-11-10 08:51:28",
+      "updated_at": "2025-11-10 08:51:28",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 2,
+      "jumlah_terdaftar": 0,
+      "program_studi": "[{\"id\":\"4f53bef4-5310-443b-82bc-1e99f1f2ef08\",\"title\":\"Farmasi\"},{\"id\":\"e99673f1-4d14-4c5d-8c05-7e3607d3135b\",\"title\":\"Farmasi Klinik Dan Komunitas\"}]",
+      "jenjang": "[\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "1b9290a2-5105-464d-838d-2403f37fcdae",
+        "id_sumber_dana": null,
+        "id_perusahaan": "58cf15a2-5738-43c1-8768-1b611c36205f",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "58cf15a2-5738-43c1-8768-1b611c36205f",
+        "id_desa": null,
+        "nama_perusahaan": "LEMBAGA PEMASYARAKATAN NARKOTIKA KELAS IIA NUSAKAMBANGAN",
+        "deskripsi_perusahaan": null,
+        "alamat": "Jl. Nusakambangan KM 8.5, Kelurahan Tambakreja, Kecamatan Cilacap Selatan, Cilacap",
+        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/8Y82LvsrUcC0zzFnEFXghB8DsxRYXn33pwig5MVn.png",
+        "banner": null,
+        "created_at": "2025-11-10 08:51:28",
+        "updated_at": "2025-11-10 08:51:28",
+        "kode_kabupaten": "3301",
+        "nama_kabupaten": "KAB. CILACAP",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": "LEMBAGA PEMASYARAKATAN NARKOTIKA KELAS IIA NUSAKAMBANGAN"
+      }
+    },
+    {
       "id_posisi": "a053fe40-4d82-4a70-bc13-5b670b25230b",
       "posisi": "Pengelola Fasilitas Umum",
       "deskripsi_posisi": "1. Menyiapkan sarana pendukung kegiatan umum seperti ruang rapat, kendaraan, dan logistik. \n2.  Memantau penggunaan fasilitas agar efisien.\n3. Mengatur perawatan rutin fasilitas umum.\n4. Membantu kebutuhan operasional kantor.",
@@ -7201,81 +7276,6 @@
       }
     },
     {
-      "id_posisi": "a0526e29-2976-4034-9c71-0668e7742940",
-      "posisi": "APOTEKER",
-      "deskripsi_posisi": "1. Mengelola penyimpanan dan distribusi obat di\nunit layanan Kesehatan\n2. Menyiapkan obat sesuai resep dokter.\n3. Memastikan keamanan dan kedaluwarsa obat\n4. Menyusun laporan penggunaan obat secara\nberkala.",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "1a789489-eb13-4889-a813-9cb67104c417",
-      "created_at": "2025-11-09 16:34:21",
-      "updated_at": "2025-11-09 16:34:21",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 2,
-      "jumlah_terdaftar": 1,
-      "program_studi": "[{\"id\":\"4f53bef4-5310-443b-82bc-1e99f1f2ef08\",\"title\":\"Farmasi\"},{\"id\":\"e99673f1-4d14-4c5d-8c05-7e3607d3135b\",\"title\":\"Farmasi Klinik Dan Komunitas\"}]",
-      "jenjang": "[\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "1a789489-eb13-4889-a813-9cb67104c417",
-        "id_sumber_dana": null,
-        "id_perusahaan": "5b8b71ef-cf50-4b85-97a2-4b077ffea09a",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "5b8b71ef-cf50-4b85-97a2-4b077ffea09a",
-        "id_desa": null,
-        "nama_perusahaan": "RUMAH TAHANAN NEGARA KELAS IIB BOYOLALI",
-        "deskripsi_perusahaan": null,
-        "alamat": "Dk.Masahan,Mojosongo,Boyolali",
-        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/MXTttyqs7NY8McsxFS1Nx1Ek4A0oHnRBOXjDj2UI.jpg",
-        "banner": null,
-        "created_at": "2025-11-09 16:34:21",
-        "updated_at": "2025-11-09 16:34:21",
-        "kode_kabupaten": "3309",
-        "nama_kabupaten": "KAB. BOYOLALI",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": "RUMAH TAHANAN NEGARA KELAS IIB BOYOLALI"
-      }
-    },
-    {
       "id_posisi": "a0540f90-cd9e-4dca-a7e9-ac265f467123",
       "posisi": "Pembina Kemandirian",
       "deskripsi_posisi": "1.   Melatih warga binaan dalam keterampilan kerja\ndan kewirausahaan.\n2.   Menyusun jadwal dan materi pelatihan kerja.\n3.   Melakukan   pendampingan   selama   praktik kerja.\n4.   Mengevaluasi kemampuan dan kesiapan kerja",
@@ -7517,5 +7517,5 @@
       "total": 2937
     }
   },
-  "_scraped_at": "2025-11-12T09:53:56.383401+00:00"
+  "_scraped_at": "2025-11-12T10:13:26.480764+00:00"
 }

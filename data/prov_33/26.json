@@ -1,156 +1,6 @@
 {
   "data": [
     {
-      "id_posisi": "a0549098-089c-4e1a-bcd4-68ab5f1f1882",
-      "posisi": "Pembina Kepribadian",
-      "deskripsi_posisi": "1. Menyusun dan melaksanakan program\npembinaan karakter warga binaan.\n2. Melatih keterampilan komunikasi dan\npengendalian diri\n3. Melakukan evaluasi hasil pembinaan\nkepribadian.\n4. Menyusun laporan perkembangan individu.",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "1ef43c9a-ec7d-4c7d-b197-4bb48492f937",
-      "created_at": "2025-11-11 14:59:00",
-      "updated_at": "2025-11-11 14:59:00",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 1,
-      "jumlah_terdaftar": 2,
-      "program_studi": "[{\"id\":\"04fcc836-3374-4f8d-ad35-1e73c4e71013\",\"title\":\"Seni Rupa\"}]",
-      "jenjang": "[\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "1ef43c9a-ec7d-4c7d-b197-4bb48492f937",
-        "id_sumber_dana": null,
-        "id_perusahaan": "0758f61c-ddda-424e-b61b-06a7d7fc3a7c",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "0758f61c-ddda-424e-b61b-06a7d7fc3a7c",
-        "id_desa": null,
-        "nama_perusahaan": "RUMAH TAHANAN NEGARA KELAS IIB KUDUS",
-        "deskripsi_perusahaan": null,
-        "alamat": "Jl. Sunan Kudus no 70, Demaan, Kudus, Kabupaten Kudus, Jawa Tengah",
-        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/cLsAPftmg1eK4ZaImDsx5dX3zwIAqyB90semfNdj.jpg",
-        "banner": null,
-        "created_at": "2025-11-11 14:59:00",
-        "updated_at": "2025-11-11 14:59:00",
-        "kode_kabupaten": "3319",
-        "nama_kabupaten": "KAB. KUDUS",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": "RUMAH TAHANAN NEGARA KELAS IIB KUDUS"
-      }
-    },
-    {
-      "id_posisi": "a0530f75-8369-4cb1-ba62-f28c6d93bd50",
-      "posisi": "PEMBINA KEPRIBADIAN",
-      "deskripsi_posisi": "1. Menyusun dan melaksanakan program pembinaan karakter warga binaan.\n2. Melatih keterampilan komunikasi dan pengendalian diri\n3. Melakukan evaluasi hasil pembinaan kepribadian.\n4. Menyusun laporan perkembangan individu.",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "db731572-fe52-447d-99ba-355fa96ee2c2",
-      "created_at": "2025-11-10 12:09:26",
-      "updated_at": "2025-11-10 12:09:26",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 1,
-      "jumlah_terdaftar": 0,
-      "program_studi": "[{\"id\":\"721ff95c-9e08-4364-9904-8dfdcb33418a\",\"title\":\"Pendidikan Agama Hindu\"}]",
-      "jenjang": "[\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "db731572-fe52-447d-99ba-355fa96ee2c2",
-        "id_sumber_dana": null,
-        "id_perusahaan": "9d3c9073-4b0f-4467-a730-98774c53cd7e",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "9d3c9073-4b0f-4467-a730-98774c53cd7e",
-        "id_desa": null,
-        "nama_perusahaan": "LEMBAGA PEMASYARAKATAN KELAS IIA PEKALONGAN",
-        "deskripsi_perusahaan": null,
-        "alamat": "Jl WR Supratman No. 106 Pekalongan Utara Kota Pekalongan",
-        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/CnvwA2iHQhTogzoWqcB3OGgc8nDLljj8emGc6Mfc.png",
-        "banner": null,
-        "created_at": "2025-11-10 12:09:26",
-        "updated_at": "2025-11-10 12:09:26",
-        "kode_kabupaten": "3375",
-        "nama_kabupaten": "KOTA PEKALONGAN",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": "LEMBAGA PEMASYARAKATAN KELAS IIA PEKALONGAN"
-      }
-    },
-    {
       "id_posisi": "a054924c-6d85-403b-8081-4ade91e1cc1f",
       "posisi": "Pembina Kepribadian",
       "deskripsi_posisi": "1. Menyusun dan melaksanakan program\npembinaan karakter warga binaan.\n2. Melatih keterampilan komunikasi dan\npengendalian diri\n3. Melakukan evaluasi hasil pembinaan\nkepribadian.\n4. Menyusun laporan perkembangan individu.",
@@ -1576,9 +1426,9 @@
       }
     },
     {
-      "id_posisi": "a05480ea-73ef-4c6e-b84e-48009a684bd7",
-      "posisi": "Pengadministrasi Perkantoran",
-      "deskripsi_posisi": "Pengadministrasi Perkantoran mempunyai tugas melaksanakan kegiatan dukungan administrasi perkantoran, pemerintahan, dan pelayanan publik. Pengadministrasi Perkantoran membantu pimpinan dalam menerima, mencatat dan mendistribusikan surat, dokumen, barang, dan pesan ke unit kerja berdasarkan masalah dan tujuannya, menangani kearsipan dan urusan kerumahtanggaan agar terwujud tertib administrasi ketatausahaan, kerumahtanggaan.",
+      "id_posisi": "a054800b-2721-4fdf-87d4-bb5fd43295da",
+      "posisi": "Fasilitator Pemerintahan",
+      "deskripsi_posisi": "Fasilitator Pemerintahan mempunyai tugas melaksanakan kegiatan fasilitasi, koordinasi, pengkajian, identifikasi, pengolahan, kompilasi data atau bahan informasi di bidang pemerintahan",
       "syarat_khusus": null,
       "usia_minimal": null,
       "usia_maksimal": null,
@@ -1592,9 +1442,9 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 15,
-      "program_studi": "[{\"id\":\"91895219-1f30-4565-a573-92039fa815b2\",\"title\":\"Manajemen Perkantoran\"},{\"id\":\"fb8baadf-4b6f-423a-a499-07e330c61000\",\"title\":\"Administrasi Perkantoran\"},{\"id\":\"2c88d9da-5636-40d2-9d1d-d3882c313960\",\"title\":\"Kearsipan\"}]",
-      "jenjang": "[\"Diploma\"]",
+      "jumlah_terdaftar": 6,
+      "program_studi": "[{\"id\":\"7551b4b0-9160-465c-9065-be559c153ce7\",\"title\":\"Administrasi Publik\"},{\"id\":\"c13ae920-a48f-4a7c-8c89-2b286a7fc225\",\"title\":\"Akuntansi\"},{\"id\":\"9294aed6-f64b-448d-b868-ff809513f6e0\",\"title\":\"Kebijakan Pendidikan\"},{\"id\":\"202bd384-0c8a-4ec5-89d6-8c926b2aa615\",\"title\":\"Rehabilitasi Sosial\"},{\"id\":\"c2124f0d-010b-4a3b-bc31-ed4509fdbdce\",\"title\":\"Administrasi Pemerintahan Daerah\"}]",
+      "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
         "id_status_posisi": 2,
         "nama_status_posisi": "Terverifikasi"
@@ -1726,9 +1576,9 @@
       }
     },
     {
-      "id_posisi": "a05481dc-e712-4b7c-9fe4-61e4709f51b2",
-      "posisi": "Pengelola Data dan Informasi",
-      "deskripsi_posisi": "Pengolah Data dan Informasi melaksanakan dan mengendalikan\ntugas dalam lingkup pengumpulan dan pengolahan data\nsebagai bahan kebijakan teknis dan informasi kelembagaan\nsesuai peraturan perundangan-undangan yang berlaku dalam\nrangka mendukung tujuan organisasi.",
+      "id_posisi": "a05480ea-73ef-4c6e-b84e-48009a684bd7",
+      "posisi": "Pengadministrasi Perkantoran",
+      "deskripsi_posisi": "Pengadministrasi Perkantoran mempunyai tugas melaksanakan kegiatan dukungan administrasi perkantoran, pemerintahan, dan pelayanan publik. Pengadministrasi Perkantoran membantu pimpinan dalam menerima, mencatat dan mendistribusikan surat, dokumen, barang, dan pesan ke unit kerja berdasarkan masalah dan tujuannya, menangani kearsipan dan urusan kerumahtanggaan agar terwujud tertib administrasi ketatausahaan, kerumahtanggaan.",
       "syarat_khusus": null,
       "usia_minimal": null,
       "usia_maksimal": null,
@@ -1742,8 +1592,8 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 7,
-      "program_studi": "[{\"id\":\"03b570a2-c678-4413-aa47-bfed8308fac5\",\"title\":\"Teknik Informatika\"},{\"id\":\"d5d70731-4169-42b2-90ba-028f85f4798e\",\"title\":\"Manajemen Informatika\"},{\"id\":\"8bdce5f1-553c-40b4-a5f5-9e5ff9387b60\",\"title\":\"Sistem Informasi\"}]",
+      "jumlah_terdaftar": 15,
+      "program_studi": "[{\"id\":\"91895219-1f30-4565-a573-92039fa815b2\",\"title\":\"Manajemen Perkantoran\"},{\"id\":\"fb8baadf-4b6f-423a-a499-07e330c61000\",\"title\":\"Administrasi Perkantoran\"},{\"id\":\"2c88d9da-5636-40d2-9d1d-d3882c313960\",\"title\":\"Kearsipan\"}]",
       "jenjang": "[\"Diploma\"]",
       "ref_status_posisi": {
         "id_status_posisi": 2,
@@ -2342,7 +2192,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 0,
+      "jumlah_terdaftar": 1,
       "program_studi": "[{\"id\":\"f8a85513-5cdb-45ef-9697-7eb7f13bb593\",\"title\":\"Pendidikan Keagamaan Buddha\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -2401,9 +2251,9 @@
       }
     },
     {
-      "id_posisi": "a0547eaf-fe08-46ce-a65f-b224fd11908e",
-      "posisi": "Penelaah Teknis Kebijakan",
-      "deskripsi_posisi": "Penelaah Kebijakan Teknis mempunyai tugas melaksanakan dukungan teknis dalam rangka penyiapan bahan di bidang penempatan dan pelindungan Pekerja Migran Indonesia.",
+      "id_posisi": "a05481dc-e712-4b7c-9fe4-61e4709f51b2",
+      "posisi": "Pengelola Data dan Informasi",
+      "deskripsi_posisi": "Pengolah Data dan Informasi melaksanakan dan mengendalikan\ntugas dalam lingkup pengumpulan dan pengolahan data\nsebagai bahan kebijakan teknis dan informasi kelembagaan\nsesuai peraturan perundangan-undangan yang berlaku dalam\nrangka mendukung tujuan organisasi.",
       "syarat_khusus": null,
       "usia_minimal": null,
       "usia_maksimal": null,
@@ -2418,8 +2268,8 @@
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
       "jumlah_terdaftar": 7,
-      "program_studi": "[{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"},{\"id\":\"702dfd8b-b5b8-40fb-843b-4d503451b314\",\"title\":\"Ekonomi\"},{\"id\":\"fd3ebf70-4f4b-4dab-a7ab-ec31d20bd01b\",\"title\":\"Hukum\"},{\"id\":\"32ee6e1d-cec9-44a4-84d3-53ea4db85b9d\",\"title\":\"ILMU PEMERINTAHAN\"},{\"id\":\"b725ac52-6009-47c6-a349-3c15a8dc9141\",\"title\":\"Ilmu Politik\"}]",
-      "jenjang": "[\"Diploma\",\"Sarjana\"]",
+      "program_studi": "[{\"id\":\"03b570a2-c678-4413-aa47-bfed8308fac5\",\"title\":\"Teknik Informatika\"},{\"id\":\"d5d70731-4169-42b2-90ba-028f85f4798e\",\"title\":\"Manajemen Informatika\"},{\"id\":\"8bdce5f1-553c-40b4-a5f5-9e5ff9387b60\",\"title\":\"Sistem Informasi\"}]",
+      "jenjang": "[\"Diploma\"]",
       "ref_status_posisi": {
         "id_status_posisi": 2,
         "nama_status_posisi": "Terverifikasi"
@@ -2551,9 +2401,9 @@
       }
     },
     {
-      "id_posisi": "a054800b-2721-4fdf-87d4-bb5fd43295da",
-      "posisi": "Fasilitator Pemerintahan",
-      "deskripsi_posisi": "Fasilitator Pemerintahan mempunyai tugas melaksanakan kegiatan fasilitasi, koordinasi, pengkajian, identifikasi, pengolahan, kompilasi data atau bahan informasi di bidang pemerintahan",
+      "id_posisi": "a0547eaf-fe08-46ce-a65f-b224fd11908e",
+      "posisi": "Penelaah Teknis Kebijakan",
+      "deskripsi_posisi": "Penelaah Kebijakan Teknis mempunyai tugas melaksanakan dukungan teknis dalam rangka penyiapan bahan di bidang penempatan dan pelindungan Pekerja Migran Indonesia.",
       "syarat_khusus": null,
       "usia_minimal": null,
       "usia_maksimal": null,
@@ -2567,8 +2417,8 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 6,
-      "program_studi": "[{\"id\":\"7551b4b0-9160-465c-9065-be559c153ce7\",\"title\":\"Administrasi Publik\"},{\"id\":\"c13ae920-a48f-4a7c-8c89-2b286a7fc225\",\"title\":\"Akuntansi\"},{\"id\":\"9294aed6-f64b-448d-b868-ff809513f6e0\",\"title\":\"Kebijakan Pendidikan\"},{\"id\":\"202bd384-0c8a-4ec5-89d6-8c926b2aa615\",\"title\":\"Rehabilitasi Sosial\"},{\"id\":\"c2124f0d-010b-4a3b-bc31-ed4509fdbdce\",\"title\":\"Administrasi Pemerintahan Daerah\"}]",
+      "jumlah_terdaftar": 7,
+      "program_studi": "[{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"},{\"id\":\"702dfd8b-b5b8-40fb-843b-4d503451b314\",\"title\":\"Ekonomi\"},{\"id\":\"fd3ebf70-4f4b-4dab-a7ab-ec31d20bd01b\",\"title\":\"Hukum\"},{\"id\":\"32ee6e1d-cec9-44a4-84d3-53ea4db85b9d\",\"title\":\"ILMU PEMERINTAHAN\"},{\"id\":\"b725ac52-6009-47c6-a349-3c15a8dc9141\",\"title\":\"Ilmu Politik\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
         "id_status_posisi": 2,
@@ -2867,7 +2717,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 12,
+      "jumlah_terdaftar": 13,
       "program_studi": "[{\"id\":\"c13ae920-a48f-4a7c-8c89-2b286a7fc225\",\"title\":\"Akuntansi\"},{\"id\":\"a86f123a-2b95-4d24-b49d-174d3a639d91\",\"title\":\"Statistika\"},{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"},{\"id\":\"2fee5a6d-a685-4a85-911b-5aa7e4980851\",\"title\":\"Teknik Industri\"},{\"id\":\"702dfd8b-b5b8-40fb-843b-4d503451b314\",\"title\":\"Ekonomi\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -3451,45 +3301,45 @@
       }
     },
     {
-      "id_posisi": "a048b7f1-4749-4352-a1ba-67f6dcf4f3f9",
-      "posisi": "Teknisi Jaringan",
-      "deskripsi_posisi": "menciptakan terselenggaranya jaringan komputer yang bekerja baik , dapat berfungsi dengan baik, stabil, dan aman. Tugas dan tanggung jawab meliputi aspek instalasi, konfigurasi, pemeliharaan, serta perbaikan jaringan",
+      "id_posisi": "a0489897-861f-4ced-afb7-c8eb117ced3e",
+      "posisi": "Human Capital Development (HCD)",
+      "deskripsi_posisi": "1. Menganalisis kebutuhan pelatihan karyawan serta merancang rencana dan jadwal pelaksanaannya.\n2. Mengatur dan melaksanakan kegiatan pelatihan dengan mencakup koordinasi narasumber, pengelolaan kebutuhan logistik, evaluasi efektivitas pelatihan, serta penyusunan laporan hasil pelaksanaan.\n3. Melaksanakan koordinasi dan menindaklanjuti program pengembangan karyawan serta pelaksanaan fungsi Talent Management sesuai dengan ketentuan yang berlaku.\n4. Melaksanakan kegiatan perekrutan, administrasi SDM, dan pengelolaan informasi karyawan.\n5. Bertanggung jawab atas pengelolaan administrasi kepegawaian yang mencakup benefit, absensi, promosi, mutasi, dan hubungan industrial demi efektivitas operasional SDM.\n6. Bekerja sama dengan tim internal dan mitra eksternal dalam mengelola kebutuhan SDM, administrasi asuransi, dan laporan HR.\n7. Menguasai program Microsoft Office.",
       "syarat_khusus": null,
       "usia_minimal": null,
       "usia_maksimal": null,
       "revisi": null,
       "id_kondisi_fisik": null,
-      "id_program": "08e0d477-5aa1-46f2-9d2f-dc7bc0e47313",
-      "created_at": "2025-11-05 17:39:16",
-      "updated_at": "2025-11-07 07:15:32",
+      "id_program": "cdcc70d0-4d63-4441-9988-65e61a1b30a2",
+      "created_at": "2025-11-04 11:14:52",
+      "updated_at": "2025-11-05 20:03:39",
       "kode_kbji": null,
       "penempatan": null,
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 5,
-      "program_studi": "[{\"id\":\"93594dd7-0c1d-48c0-8f50-fd4bfde199b3\",\"title\":\"Teknik Elektro\"},{\"id\":\"90586281-900a-4cee-821e-3ad158837f1a\",\"title\":\"Teknik informatika\"},{\"id\":\"cbf82a7d-423a-4b1c-b3d7-c7c82d4cc46a\",\"title\":\"Teknik Komputer Dan Jaringan\"}]",
-      "jenjang": "[\"Sarjana\",\"Diploma\"]",
+      "jumlah_terdaftar": 14,
+      "program_studi": "[{\"id\":\"3e1f167b-ac1f-4208-b1f7-ff2244791c64\",\"title\":\"Psikologi\"},{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"},{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"},{\"id\":\"fd3ebf70-4f4b-4dab-a7ab-ec31d20bd01b\",\"title\":\"Hukum\"},{\"id\":\"6b8a9fd9-3bd6-4b68-b133-dc1714ec7434\",\"title\":\"Kesehatan Gigi dan Mulut\"}]",
+      "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
         "id_status_posisi": 2,
         "nama_status_posisi": "Terverifikasi"
       },
       "program": {
-        "id_program": "08e0d477-5aa1-46f2-9d2f-dc7bc0e47313",
+        "id_program": "cdcc70d0-4d63-4441-9988-65e61a1b30a2",
         "id_sumber_dana": null,
-        "id_perusahaan": "9715d832-a76a-4493-bef3-981a93747c35",
+        "id_perusahaan": "d6a2217b-7ed9-4310-a88c-6529d4cdf38e",
         "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
       },
       "perusahaan": {
-        "id_perusahaan": "9715d832-a76a-4493-bef3-981a93747c35",
+        "id_perusahaan": "d6a2217b-7ed9-4310-a88c-6529d4cdf38e",
         "id_desa": null,
-        "nama_perusahaan": "BPVP Surakarta",
+        "nama_perusahaan": "Gigigo Dental Care",
         "deskripsi_perusahaan": null,
-        "alamat": "Jl. Bhayangkara No. 38 Surakarta",
-        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/ESBdgO6lL6XgIBnpdyQfdV1RzIGcMBOzlteraE4N.png",
-        "banner": null,
-        "created_at": "2025-11-05 17:39:16",
-        "updated_at": "2025-11-07 07:15:32",
+        "alamat": "Jl. Mr. Sartono No.87, Nusukan, Kec. Banjarsari, Kota Surakarta, Jawa Tengah 57135",
+        "logo": "https://wlkp-assets.kemnaker.go.id/companies/71cefdde-fb83-4ad2-8370-fba574f31009/690972a87a005.png",
+        "banner": "https://wlkp-assets.kemnaker.go.id/companies/71cefdde-fb83-4ad2-8370-fba574f31009/6909731c73684.png",
+        "created_at": "2025-11-04 11:14:52",
+        "updated_at": "2025-11-05 20:03:39",
         "kode_kabupaten": "3372",
         "nama_kabupaten": "KOTA SURAKARTA",
         "kode_provinsi": "33",
@@ -3519,10 +3369,10 @@
         "publish": 1
       },
       "government_agency": {
-        "government_agency_name": "Kementerian Ketenagakerjaan"
+        "government_agency_name": null
       },
       "sub_government_agency": {
-        "sub_government_agency_name": "BPVP Surakarta"
+        "sub_government_agency_name": null
       }
     },
     {
@@ -3601,45 +3451,45 @@
       }
     },
     {
-      "id_posisi": "a0489897-861f-4ced-afb7-c8eb117ced3e",
-      "posisi": "Human Capital Development (HCD)",
-      "deskripsi_posisi": "1. Menganalisis kebutuhan pelatihan karyawan serta merancang rencana dan jadwal pelaksanaannya.\n2. Mengatur dan melaksanakan kegiatan pelatihan dengan mencakup koordinasi narasumber, pengelolaan kebutuhan logistik, evaluasi efektivitas pelatihan, serta penyusunan laporan hasil pelaksanaan.\n3. Melaksanakan koordinasi dan menindaklanjuti program pengembangan karyawan serta pelaksanaan fungsi Talent Management sesuai dengan ketentuan yang berlaku.\n4. Melaksanakan kegiatan perekrutan, administrasi SDM, dan pengelolaan informasi karyawan.\n5. Bertanggung jawab atas pengelolaan administrasi kepegawaian yang mencakup benefit, absensi, promosi, mutasi, dan hubungan industrial demi efektivitas operasional SDM.\n6. Bekerja sama dengan tim internal dan mitra eksternal dalam mengelola kebutuhan SDM, administrasi asuransi, dan laporan HR.\n7. Menguasai program Microsoft Office.",
+      "id_posisi": "a048b7f1-4749-4352-a1ba-67f6dcf4f3f9",
+      "posisi": "Teknisi Jaringan",
+      "deskripsi_posisi": "menciptakan terselenggaranya jaringan komputer yang bekerja baik , dapat berfungsi dengan baik, stabil, dan aman. Tugas dan tanggung jawab meliputi aspek instalasi, konfigurasi, pemeliharaan, serta perbaikan jaringan",
       "syarat_khusus": null,
       "usia_minimal": null,
       "usia_maksimal": null,
       "revisi": null,
       "id_kondisi_fisik": null,
-      "id_program": "cdcc70d0-4d63-4441-9988-65e61a1b30a2",
-      "created_at": "2025-11-04 11:14:52",
-      "updated_at": "2025-11-05 20:03:39",
+      "id_program": "08e0d477-5aa1-46f2-9d2f-dc7bc0e47313",
+      "created_at": "2025-11-05 17:39:16",
+      "updated_at": "2025-11-07 07:15:32",
       "kode_kbji": null,
       "penempatan": null,
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 14,
-      "program_studi": "[{\"id\":\"3e1f167b-ac1f-4208-b1f7-ff2244791c64\",\"title\":\"Psikologi\"},{\"id\":\"2f6440b7-d057-40e7-bce1-9a4cf73f441d\",\"title\":\"Manajemen\"},{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"},{\"id\":\"fd3ebf70-4f4b-4dab-a7ab-ec31d20bd01b\",\"title\":\"Hukum\"},{\"id\":\"6b8a9fd9-3bd6-4b68-b133-dc1714ec7434\",\"title\":\"Kesehatan Gigi dan Mulut\"}]",
-      "jenjang": "[\"Sarjana\"]",
+      "jumlah_terdaftar": 5,
+      "program_studi": "[{\"id\":\"93594dd7-0c1d-48c0-8f50-fd4bfde199b3\",\"title\":\"Teknik Elektro\"},{\"id\":\"90586281-900a-4cee-821e-3ad158837f1a\",\"title\":\"Teknik informatika\"},{\"id\":\"cbf82a7d-423a-4b1c-b3d7-c7c82d4cc46a\",\"title\":\"Teknik Komputer Dan Jaringan\"}]",
+      "jenjang": "[\"Sarjana\",\"Diploma\"]",
       "ref_status_posisi": {
         "id_status_posisi": 2,
         "nama_status_posisi": "Terverifikasi"
       },
       "program": {
-        "id_program": "cdcc70d0-4d63-4441-9988-65e61a1b30a2",
+        "id_program": "08e0d477-5aa1-46f2-9d2f-dc7bc0e47313",
         "id_sumber_dana": null,
-        "id_perusahaan": "d6a2217b-7ed9-4310-a88c-6529d4cdf38e",
+        "id_perusahaan": "9715d832-a76a-4493-bef3-981a93747c35",
         "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
       },
       "perusahaan": {
-        "id_perusahaan": "d6a2217b-7ed9-4310-a88c-6529d4cdf38e",
+        "id_perusahaan": "9715d832-a76a-4493-bef3-981a93747c35",
         "id_desa": null,
-        "nama_perusahaan": "Gigigo Dental Care",
+        "nama_perusahaan": "BPVP Surakarta",
         "deskripsi_perusahaan": null,
-        "alamat": "Jl. Mr. Sartono No.87, Nusukan, Kec. Banjarsari, Kota Surakarta, Jawa Tengah 57135",
-        "logo": "https://wlkp-assets.kemnaker.go.id/companies/71cefdde-fb83-4ad2-8370-fba574f31009/690972a87a005.png",
-        "banner": "https://wlkp-assets.kemnaker.go.id/companies/71cefdde-fb83-4ad2-8370-fba574f31009/6909731c73684.png",
-        "created_at": "2025-11-04 11:14:52",
-        "updated_at": "2025-11-05 20:03:39",
+        "alamat": "Jl. Bhayangkara No. 38 Surakarta",
+        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/ESBdgO6lL6XgIBnpdyQfdV1RzIGcMBOzlteraE4N.png",
+        "banner": null,
+        "created_at": "2025-11-05 17:39:16",
+        "updated_at": "2025-11-07 07:15:32",
         "kode_kabupaten": "3372",
         "nama_kabupaten": "KOTA SURAKARTA",
         "kode_provinsi": "33",
@@ -3669,10 +3519,10 @@
         "publish": 1
       },
       "government_agency": {
-        "government_agency_name": null
+        "government_agency_name": "Kementerian Ketenagakerjaan"
       },
       "sub_government_agency": {
-        "sub_government_agency_name": null
+        "sub_government_agency_name": "BPVP Surakarta"
       }
     },
     {
@@ -4067,7 +3917,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 1,
-      "jumlah_terdaftar": 23,
+      "jumlah_terdaftar": 24,
       "program_studi": "[{\"id\":\"f7f96a5a-4563-46ed-a53c-bcf3f26882e7\",\"title\":\"Ilmu Teknologi Pangan\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -7126,81 +6976,6 @@
       }
     },
     {
-      "id_posisi": "a05416c1-724c-4c4e-9a7c-e5898f8736a9",
-      "posisi": "Pembina Kepribadian",
-      "deskripsi_posisi": "1. Menyusun dan melaksanakan program pembinaan karakter warga binaan.\n2. Melatih keterampilan komunikasi dan pengendalian diri\n3. Melakukan evaluasi hasil pembinaan kepribadian.\n4. Menyusun laporan perkembangan individu.",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "ef448d10-a0e0-4c47-9047-4f7893cd3c55",
-      "created_at": "2025-11-11 08:46:26",
-      "updated_at": "2025-11-11 08:46:26",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 1,
-      "jumlah_terdaftar": 0,
-      "program_studi": "[{\"id\":\"f8a85513-5cdb-45ef-9697-7eb7f13bb593\",\"title\":\"Pendidikan Keagamaan Buddha\"}]",
-      "jenjang": "[\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "ef448d10-a0e0-4c47-9047-4f7893cd3c55",
-        "id_sumber_dana": null,
-        "id_perusahaan": "0cca1976-5bd2-4b62-b226-7f096acde16a",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "0cca1976-5bd2-4b62-b226-7f096acde16a",
-        "id_desa": null,
-        "nama_perusahaan": "LEMBAGA PEMASYARAKATAN KELAS IIB SLAWI",
-        "deskripsi_perusahaan": null,
-        "alamat": "Jalan Raya, Mejasen, Tegalandong, Lebaksiu, Tegal Regency, Central Java 52461",
-        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/7xaZGtMNBf92nmCVQ3RYlPES57lCRt5Ahd3756ci.png",
-        "banner": null,
-        "created_at": "2025-11-11 08:46:26",
-        "updated_at": "2025-11-11 08:46:26",
-        "kode_kabupaten": "3328",
-        "nama_kabupaten": "KAB. TEGAL",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": "LEMBAGA PEMASYARAKATAN KELAS IIB SLAWI"
-      }
-    },
-    {
       "id_posisi": "a044bd85-3907-460a-89fe-719301023996",
       "posisi": "Branch Business Development Intern",
       "deskripsi_posisi": "Memberikan gambaran umum mengenai strategi pemasaran yang digunakan dalam mepromosikan produk dan layanan Bank kepada masyarakat, pengelolaan dana, transaksi harian, pelaporan keuangan serta penerapan prinsip manajemen risiko dan kepatuhan terhadap regulasi keuangan",
@@ -7499,6 +7274,231 @@
       "sub_government_agency": {
         "sub_government_agency_name": "LEMBAGA PEMASYARAKATAN KELAS IIB SLAWI"
       }
+    },
+    {
+      "id_posisi": "a03e48f1-bfcc-4fc1-bc7d-6d13fef54084",
+      "posisi": "Employee Branding Content Creator",
+      "deskripsi_posisi": "Anda menjadi bagian dari tim HR yang memiliki tanggung jawab membuat konten internal perusahaan sebagai tools untuk meningkatkan employee branding berupa video mulai dari perencanaan konsep, pengambilan gambar, editing, hingga publikasi di berbagai platform digital. Selain itu, posisi ini juga menganalisis performa video untuk menilai efektivitas konten dan memberikan rekomendasi pengembangan strategi berikutnya.",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "0d9afa5f-1d4c-4ccc-87c7-8c756f146f71",
+      "created_at": "2025-10-03 02:53:20",
+      "updated_at": "2025-10-30 07:53:19",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 1,
+      "jumlah_terdaftar": 8,
+      "program_studi": "[{\"id\":\"0397cb69-3411-4c91-b3a1-defbe5932670\",\"title\":\"Manajemen & Produksi Film Video & TV\"},{\"id\":\"e90b7fe8-f4a5-4a1c-85f8-e929004b29e1\",\"title\":\"Desain Grafis\"},{\"id\":\"9dfcaa37-a44b-4331-87ab-bd32dc1066cb\",\"title\":\"Desain Komunikasi Visual\"},{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"},{\"id\":\"a5fb0a56-78ec-485e-84a0-b85f818c3ed1\",\"title\":\"Teknologi Multimedia dan Broadcasting\"}]",
+      "jenjang": "[\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "0d9afa5f-1d4c-4ccc-87c7-8c756f146f71",
+        "id_sumber_dana": null,
+        "id_perusahaan": "3f45d7c8-a263-4d3d-a128-d950e0609c24",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "3f45d7c8-a263-4d3d-a128-d950e0609c24",
+        "id_desa": null,
+        "nama_perusahaan": "Hartono Istana Teknologi",
+        "deskripsi_perusahaan": null,
+        "alamat": "Jl. KHR Asnawi PO.BOX.126, Ds. Bakalankrapyak kec. Kaliwungu, Kab. Kudus Prov. Jawa Tengah.\nKode Pos : 59332",
+        "logo": "https://wlkp-assets.kemnaker.go.id/companies/3f45d7c8-a263-4d3d-a128-d950e0609c24/68df924783ecb.png",
+        "banner": null,
+        "created_at": "2025-10-03 02:53:20",
+        "updated_at": "2025-10-30 07:53:19",
+        "kode_kabupaten": "3319",
+        "nama_kabupaten": "KAB. KUDUS",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": null
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": null
+      }
+    },
+    {
+      "id_posisi": "a04e01e9-4120-4372-9554-0a7eddec4dc3",
+      "posisi": "Translator Mandarin",
+      "deskripsi_posisi": "Mahasiswa magang akan membantu dalam komunikasi bisnis dengan klien, supplier, atau partner dari China atau Taiwan, melakukan penerjemahan dokumen dan korespondensi bisnis berbahasa Mandarin, membantu dalam negosiasi dan koordinasi dengan pihak berbahasa Mandarin, serta mendukung kegiatan meeting atau video conference. Peserta juga akan membantu dalam penyusunan materi promosi atau dokumen perusahaan dalam Bahasa Mandarin.",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "d4daa443-46b4-46c2-bc6f-78e6d292a21d",
+      "created_at": "2025-11-06 11:32:57",
+      "updated_at": "2025-11-06 11:41:44",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 1,
+      "jumlah_terdaftar": 0,
+      "program_studi": "[{\"id\":\"27f828fc-c4b1-493b-92d5-ce4f9f37eef1\",\"title\":\"Bahasa Mandarin\"},{\"id\":\"aef35891-26c4-4bc9-ac2e-af19a7f6ddc3\",\"title\":\"Bahasa Mandarin Untuk Komunikasi Bisnis Dan Profesional\"},{\"id\":\"09994878-6a02-4ced-be13-9f67b7d3cfe7\",\"title\":\"Pendidikan Bahasa Mandarin\"},{\"id\":\"22363117-4e7b-4152-9587-4ca318c43d34\",\"title\":\"Bahasa Mandarin dan Kebudayaan Tiongkok\"}]",
+      "jenjang": "[\"Sarjana\",\"Diploma\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "d4daa443-46b4-46c2-bc6f-78e6d292a21d",
+        "id_sumber_dana": null,
+        "id_perusahaan": "9ffe6c11-bb68-4fb1-ba46-5c5967fc5696",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "9ffe6c11-bb68-4fb1-ba46-5c5967fc5696",
+        "id_desa": null,
+        "nama_perusahaan": "Bhaja Sejahtera Perkasa",
+        "deskripsi_perusahaan": null,
+        "alamat": "Jalan Astana nomor 74 Pasekaran Batang",
+        "logo": "https://wlkp-assets.kemnaker.go.id/companies/45d04c41-a49f-41bf-b793-63ebee691bca/5d4bdb15aa11f.png",
+        "banner": "https://wlkp-assets.kemnaker.go.id/companies/45d04c41-a49f-41bf-b793-63ebee691bca/5d5f95b4d3a7a.jpeg",
+        "created_at": "2025-11-06 11:32:57",
+        "updated_at": "2025-11-06 11:41:44",
+        "kode_kabupaten": "3325",
+        "nama_kabupaten": "KAB. BATANG",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": null
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": null
+      }
+    },
+    {
+      "id_posisi": "a05337bf-b462-440a-95a4-7f0b8e6fdc7b",
+      "posisi": "PEMBINA KEPRIBADIAN",
+      "deskripsi_posisi": "1. Menyusun dan melaksanakan program pembinaan karakter warga binaan.\n2. Melatih keterampilan komunikasi dan pengendalian diri\n3. Melakukan evaluasi hasil pembinaan kepribadian.\n4. Menyusun laporan perkembangan individu.",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "db731572-fe52-447d-99ba-355fa96ee2c2",
+      "created_at": "2025-11-10 12:09:26",
+      "updated_at": "2025-11-10 12:09:26",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 1,
+      "jumlah_terdaftar": 0,
+      "program_studi": "[{\"id\":\"9cd9d15c-d9eb-4d4a-8f13-7f6272e6c8ee\",\"title\":\"Pendidikan Olahraga Dan Kesehatan\"}]",
+      "jenjang": "[\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "db731572-fe52-447d-99ba-355fa96ee2c2",
+        "id_sumber_dana": null,
+        "id_perusahaan": "9d3c9073-4b0f-4467-a730-98774c53cd7e",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "9d3c9073-4b0f-4467-a730-98774c53cd7e",
+        "id_desa": null,
+        "nama_perusahaan": "LEMBAGA PEMASYARAKATAN KELAS IIA PEKALONGAN",
+        "deskripsi_perusahaan": null,
+        "alamat": "Jl WR Supratman No. 106 Pekalongan Utara Kota Pekalongan",
+        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/CnvwA2iHQhTogzoWqcB3OGgc8nDLljj8emGc6Mfc.png",
+        "banner": null,
+        "created_at": "2025-11-10 12:09:26",
+        "updated_at": "2025-11-10 12:09:26",
+        "kode_kabupaten": "3375",
+        "nama_kabupaten": "KOTA PEKALONGAN",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": "LEMBAGA PEMASYARAKATAN KELAS IIA PEKALONGAN"
+      }
     }
   ],
   "meta": {
@@ -7517,5 +7517,5 @@
       "total": 2937
     }
   },
-  "_scraped_at": "2025-11-12T09:53:59.257224+00:00"
+  "_scraped_at": "2025-11-12T10:13:28.597479+00:00"
 }
