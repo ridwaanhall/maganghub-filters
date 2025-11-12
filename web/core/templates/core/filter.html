@@ -78,6 +78,7 @@
               <th class="px-4 py-2 border">Provinsi</th>
               <th class="px-4 py-2 border">Program Studi</th>
               <th class="px-4 py-2 border">Jenjang</th>
+              <th class="px-4 py-2 border">Accept (%)</th>
               <th class="px-4 py-2 border">Link</th>
             </tr>
           </thead>
@@ -95,6 +96,7 @@
                 <td class="px-4 py-2 border align-top">{{ item.nama_provinsi }}</td>
                 <td class="px-4 py-2 border align-top">{{ item.program_studi }}</td>
                 <td class="px-4 py-2 border align-top">{{ item.jenjang }}</td>
+                <td class="px-4 py-2 border align-top">{{ item.accept_pct }}</td>
                 <td class="px-4 py-2 border align-top">
                   {% if item.id_posisi %}
                     <a target="_blank" rel="noopener" class="text-blue-600 underline" href="https://maganghub.kemnaker.go.id/lowongan/view/{{ item.id_posisi }}">View</a>

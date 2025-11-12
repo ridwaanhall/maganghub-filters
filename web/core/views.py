@@ -249,7 +249,37 @@ def filter_view(request):
 				"id_perusahaan": (cp.get("id_perusahaan") or it.get("program", {}).get("id_perusahaan")),
 				"id_posisi": it.get("id_posisi"),
 				"deskripsi_posisi": it.get("deskripsi_posisi"),
+				# compute accept percentage: (jumlah_terdaftar + 1) / jumlah_kuota * 100
+				"accept_pct": None,
 			})
+
+			# compute and set accept_pct after append to avoid deep nesting
+			try:
+				jq = it.get("jumlah_kuota")
+				jt = it.get("jumlah_terdaftar", 0)
+				jq_i = 0
+				jt_i = 0
+				if jq not in (None, ""):
+					try:
+						jq_i = int(jq)
+					except Exception:
+						jq_i = 0
+				try:
+					jt_i = int(jt)
+				except Exception:
+					jt_i = 0
+				# Option B: display jumlah_kuota / jumlah_terdaftar and percentage = kuota / terdaftar
+				if jt_i > 0:
+					pct = (jq_i / jt_i) * 100.0
+					numer = jq_i
+					denom = jt_i
+					display_results[-1]["accept_pct"] = f"{numer}/{denom} ({pct:.1f}%)"
+				else:
+					# no registrants -> cannot compute percentage
+					display_results[-1]["accept_pct"] = f"{jq_i}/0 (-)"
+			except Exception:
+				# on any error, set placeholder
+				display_results[-1]["accept_pct"] = "-"
 
 	# use display_results in template
 	results = display_results
