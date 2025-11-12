@@ -1,6 +1,531 @@
 {
   "data": [
     {
+      "id_posisi": "a052a649-3a6a-4949-9d92-d24f188693a6",
+      "posisi": "TEKNISI PEMELIHARAAN JARINGAN",
+      "deskripsi_posisi": "Melakukan kegiatan instalasi dan konfigurasi perangkat keras serta lunak jaringan (seperti router, switch, kabel), pemecahan masalah (troubleshooting) konektivitas, pemantauan kinerja jaringan secara berkala, pemeliharaan preventif (seperti pembersihan, pencadangan data, pembaruan perangkat lunak), dan dukungan pengguna akhir untuk masalah yang berkaitan dengan jaringan",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "1264f73d-c481-44eb-aec5-442c17005aba",
+      "created_at": "2025-11-10 16:23:02",
+      "updated_at": "2025-11-10 16:23:02",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 2,
+      "jumlah_terdaftar": 2,
+      "program_studi": "[{\"id\":\"93594dd7-0c1d-48c0-8f50-fd4bfde199b3\",\"title\":\"Teknik Elektro\"},{\"id\":\"4dd3d9d0-6f26-49c2-97d1-e97ced429b1e\",\"title\":\"Teknik Listrik\"}]",
+      "jenjang": "[\"Diploma\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "1264f73d-c481-44eb-aec5-442c17005aba",
+        "id_sumber_dana": null,
+        "id_perusahaan": "e5b7f92a-1659-444b-b192-7f6483493be4",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "e5b7f92a-1659-444b-b192-7f6483493be4",
+        "id_desa": null,
+        "nama_perusahaan": "Balai Pelatihan dan Penyuluhan Perikanan Tegal",
+        "deskripsi_perusahaan": null,
+        "alamat": "JLN. MARTOLOYO PO BOX 22 TEGAL",
+        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/2g0S9tm5dAHlgn3eGKv10cE1hOzx7mcCApPrbYjC.jpg",
+        "banner": null,
+        "created_at": "2025-11-10 16:23:02",
+        "updated_at": "2025-11-10 16:23:02",
+        "kode_kabupaten": "3376",
+        "nama_kabupaten": "KOTA TEGAL",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": "Kementerian Kelautan dan Perikanan"
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": "Balai Pelatihan dan Penyuluhan Perikanan Tegal"
+      }
+    },
+    {
+      "id_posisi": "a052e5d5-14e4-46ef-b5ec-a71e294105bf",
+      "posisi": "Pembina Kemandirian",
+      "deskripsi_posisi": "1. Melatih warga binaan dalam keterampilan kerja\ndan kewirausahaan.\n2. Menyusun jadwal dan materi pelatihan kerja.\n3. Melakukan pendampingan selama praktik\nkerja.\n4. Mengevaluasi kemampuan dan kesiapan kerja",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "c5e288e1-c596-408a-9e68-8d6bc277d5ec",
+      "created_at": "2025-11-09 19:17:07",
+      "updated_at": "2025-11-09 19:17:07",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 2,
+      "jumlah_terdaftar": 1,
+      "program_studi": "[{\"id\":\"e90b7fe8-f4a5-4a1c-85f8-e929004b29e1\",\"title\":\"Desain Grafis\"}]",
+      "jenjang": "[\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "c5e288e1-c596-408a-9e68-8d6bc277d5ec",
+        "id_sumber_dana": null,
+        "id_perusahaan": "1fdf8bbd-525c-46c1-a1fe-cb0b923eb80f",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "1fdf8bbd-525c-46c1-a1fe-cb0b923eb80f",
+        "id_desa": null,
+        "nama_perusahaan": "RUMAH TAHANAN NEGARA KELAS IIB TEMANGGUNG",
+        "deskripsi_perusahaan": null,
+        "alamat": "Jl. Brigjen Katamso No. 01 Temanggung",
+        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/l5xiknLPNgLWPSUpLMtptwF3rIFND5FqYA7PZ3bv.jpg",
+        "banner": null,
+        "created_at": "2025-11-09 19:17:07",
+        "updated_at": "2025-11-09 19:17:07",
+        "kode_kabupaten": "3323",
+        "nama_kabupaten": "KAB. TEMANGGUNG",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": "RUMAH TAHANAN NEGARA KELAS IIB TEMANGGUNG"
+      }
+    },
+    {
+      "id_posisi": "a053dc21-b306-469b-b732-c8236ed194ec",
+      "posisi": "Perawat  Kesehatan",
+      "deskripsi_posisi": "1. Memberikan perawatan kesehatan umum dan \ntindakan medis ringan. \n2. Menyusun catatan perkembangan pasien. \n3. Menjaga ketersediaan alat medis sederhana. \n4. Menyampaikan laporan kepada dokter atau \npimpinan medis.",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "c5e288e1-c596-408a-9e68-8d6bc277d5ec",
+      "created_at": "2025-11-09 19:17:07",
+      "updated_at": "2025-11-09 19:17:07",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 2,
+      "jumlah_terdaftar": 0,
+      "program_studi": "[{\"id\":\"dbcc16ac-6297-4f5e-a1f8-d6804bb972c7\",\"title\":\"Ilmu Gizi\"}]",
+      "jenjang": "[\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "c5e288e1-c596-408a-9e68-8d6bc277d5ec",
+        "id_sumber_dana": null,
+        "id_perusahaan": "1fdf8bbd-525c-46c1-a1fe-cb0b923eb80f",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "1fdf8bbd-525c-46c1-a1fe-cb0b923eb80f",
+        "id_desa": null,
+        "nama_perusahaan": "RUMAH TAHANAN NEGARA KELAS IIB TEMANGGUNG",
+        "deskripsi_perusahaan": null,
+        "alamat": "Jl. Brigjen Katamso No. 01 Temanggung",
+        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/l5xiknLPNgLWPSUpLMtptwF3rIFND5FqYA7PZ3bv.jpg",
+        "banner": null,
+        "created_at": "2025-11-09 19:17:07",
+        "updated_at": "2025-11-09 19:17:07",
+        "kode_kabupaten": "3323",
+        "nama_kabupaten": "KAB. TEMANGGUNG",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": "RUMAH TAHANAN NEGARA KELAS IIB TEMANGGUNG"
+      }
+    },
+    {
+      "id_posisi": "a053dea5-6638-4baf-9d17-9a4a90ced6f3",
+      "posisi": "Pengelola  Fasilitas  Umum",
+      "deskripsi_posisi": "1. Menyiapkan sarana pendukung kegiatan \numum seperti ruang rapat, kendaraan, dan \nlogistik. \n2.  Memantau penggunaan fasilitas agar efisien. \n3. Mengatur perawatan rutin fasilitas umum. \n4. Membantu kebutuhan operasional kantor.",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "c5e288e1-c596-408a-9e68-8d6bc277d5ec",
+      "created_at": "2025-11-09 19:17:07",
+      "updated_at": "2025-11-09 19:17:07",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 2,
+      "jumlah_terdaftar": 1,
+      "program_studi": "[{\"id\":\"93594dd7-0c1d-48c0-8f50-fd4bfde199b3\",\"title\":\"Teknik Elektro\"}]",
+      "jenjang": "[\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "c5e288e1-c596-408a-9e68-8d6bc277d5ec",
+        "id_sumber_dana": null,
+        "id_perusahaan": "1fdf8bbd-525c-46c1-a1fe-cb0b923eb80f",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "1fdf8bbd-525c-46c1-a1fe-cb0b923eb80f",
+        "id_desa": null,
+        "nama_perusahaan": "RUMAH TAHANAN NEGARA KELAS IIB TEMANGGUNG",
+        "deskripsi_perusahaan": null,
+        "alamat": "Jl. Brigjen Katamso No. 01 Temanggung",
+        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/l5xiknLPNgLWPSUpLMtptwF3rIFND5FqYA7PZ3bv.jpg",
+        "banner": null,
+        "created_at": "2025-11-09 19:17:07",
+        "updated_at": "2025-11-09 19:17:07",
+        "kode_kabupaten": "3323",
+        "nama_kabupaten": "KAB. TEMANGGUNG",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": "RUMAH TAHANAN NEGARA KELAS IIB TEMANGGUNG"
+      }
+    },
+    {
+      "id_posisi": "a052e536-96f0-42e8-9490-0d9b91fb5d27",
+      "posisi": "Pembina Kemandirian",
+      "deskripsi_posisi": "1. Melatih warga binaan dalam keterampilan kerja\ndan kewirausahaan.\n2. Menyusun jadwal dan materi pelatihan kerja.\n3. Melakukan pendampingan selama praktik\nkerja.\n4. Mengevaluasi kemampuan dan kesiapan kerja",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "c5e288e1-c596-408a-9e68-8d6bc277d5ec",
+      "created_at": "2025-11-09 19:17:07",
+      "updated_at": "2025-11-09 19:17:07",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 2,
+      "jumlah_terdaftar": 2,
+      "program_studi": "[{\"id\":\"6107d202-63c7-4740-ba37-e422caef7e3f\",\"title\":\"Ilmu Pertanian\"}]",
+      "jenjang": "[\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "c5e288e1-c596-408a-9e68-8d6bc277d5ec",
+        "id_sumber_dana": null,
+        "id_perusahaan": "1fdf8bbd-525c-46c1-a1fe-cb0b923eb80f",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "1fdf8bbd-525c-46c1-a1fe-cb0b923eb80f",
+        "id_desa": null,
+        "nama_perusahaan": "RUMAH TAHANAN NEGARA KELAS IIB TEMANGGUNG",
+        "deskripsi_perusahaan": null,
+        "alamat": "Jl. Brigjen Katamso No. 01 Temanggung",
+        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/l5xiknLPNgLWPSUpLMtptwF3rIFND5FqYA7PZ3bv.jpg",
+        "banner": null,
+        "created_at": "2025-11-09 19:17:07",
+        "updated_at": "2025-11-09 19:17:07",
+        "kode_kabupaten": "3323",
+        "nama_kabupaten": "KAB. TEMANGGUNG",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": "RUMAH TAHANAN NEGARA KELAS IIB TEMANGGUNG"
+      }
+    },
+    {
+      "id_posisi": "a053dcec-2865-4674-9a66-594a08df1045",
+      "posisi": "Apoteker",
+      "deskripsi_posisi": "1. Mengelola penyimpanan dan distribusi obat di \nunit layanan Kesehatan \n2. Menyiapkan obat sesuai resep dokter. \n3. Memastikan keamanan dan kedaluwarsa obat \n4. Menyusun laporan penggunaan obat secara \nberkala.",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "c5e288e1-c596-408a-9e68-8d6bc277d5ec",
+      "created_at": "2025-11-09 19:17:07",
+      "updated_at": "2025-11-09 19:17:07",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 2,
+      "jumlah_terdaftar": 0,
+      "program_studi": "[{\"id\":\"4f53bef4-5310-443b-82bc-1e99f1f2ef08\",\"title\":\"Farmasi\"},{\"id\":\"664e78c5-8af2-4932-8e01-2a2dcfac5d50\",\"title\":\"Farmasi Klinis\"}]",
+      "jenjang": "[\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "c5e288e1-c596-408a-9e68-8d6bc277d5ec",
+        "id_sumber_dana": null,
+        "id_perusahaan": "1fdf8bbd-525c-46c1-a1fe-cb0b923eb80f",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "1fdf8bbd-525c-46c1-a1fe-cb0b923eb80f",
+        "id_desa": null,
+        "nama_perusahaan": "RUMAH TAHANAN NEGARA KELAS IIB TEMANGGUNG",
+        "deskripsi_perusahaan": null,
+        "alamat": "Jl. Brigjen Katamso No. 01 Temanggung",
+        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/l5xiknLPNgLWPSUpLMtptwF3rIFND5FqYA7PZ3bv.jpg",
+        "banner": null,
+        "created_at": "2025-11-09 19:17:07",
+        "updated_at": "2025-11-09 19:17:07",
+        "kode_kabupaten": "3323",
+        "nama_kabupaten": "KAB. TEMANGGUNG",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": "RUMAH TAHANAN NEGARA KELAS IIB TEMANGGUNG"
+      }
+    },
+    {
+      "id_posisi": "a052e112-dfe3-4bc3-8fd2-45992ec004b0",
+      "posisi": "Pembina Kemandirian",
+      "deskripsi_posisi": "1. Menyusun dan melaksanakan program\npembinaan karakter warga binaan.\n2. Melatih keterampilan komunikasi dan\npengendalian diri\n3. Melakukan evaluasi hasil pembinaan\nkepribadian.\n4. Menyusun laporan perkembangan individu.",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "c5e288e1-c596-408a-9e68-8d6bc277d5ec",
+      "created_at": "2025-11-09 19:17:07",
+      "updated_at": "2025-11-09 19:17:07",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 2,
+      "jumlah_terdaftar": 2,
+      "program_studi": "[{\"id\":\"74f0be5f-6abc-455b-b326-4a3d62e1a8cf\",\"title\":\"Peternakan\"}]",
+      "jenjang": "[\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "c5e288e1-c596-408a-9e68-8d6bc277d5ec",
+        "id_sumber_dana": null,
+        "id_perusahaan": "1fdf8bbd-525c-46c1-a1fe-cb0b923eb80f",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "1fdf8bbd-525c-46c1-a1fe-cb0b923eb80f",
+        "id_desa": null,
+        "nama_perusahaan": "RUMAH TAHANAN NEGARA KELAS IIB TEMANGGUNG",
+        "deskripsi_perusahaan": null,
+        "alamat": "Jl. Brigjen Katamso No. 01 Temanggung",
+        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/l5xiknLPNgLWPSUpLMtptwF3rIFND5FqYA7PZ3bv.jpg",
+        "banner": null,
+        "created_at": "2025-11-09 19:17:07",
+        "updated_at": "2025-11-09 19:17:07",
+        "kode_kabupaten": "3323",
+        "nama_kabupaten": "KAB. TEMANGGUNG",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": "RUMAH TAHANAN NEGARA KELAS IIB TEMANGGUNG"
+      }
+    },
+    {
       "id_posisi": "a052e5a7-5573-458e-959b-dcbf5510393f",
       "posisi": "Pembina Kemandirian",
       "deskripsi_posisi": "1. Melatih warga binaan dalam keterampilan kerja\ndan kewirausahaan.\n2. Menyusun jadwal dan materi pelatihan kerja.\n3. Melakukan pendampingan selama praktik\nkerja.\n4. Mengevaluasi kemampuan dan kesiapan kerja",
@@ -94,6 +619,81 @@
       "jumlah_kuota": 2,
       "jumlah_terdaftar": 2,
       "program_studi": "[{\"id\":\"03b570a2-c678-4413-aa47-bfed8308fac5\",\"title\":\"Teknik Informatika\"}]",
+      "jenjang": "[\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "c5e288e1-c596-408a-9e68-8d6bc277d5ec",
+        "id_sumber_dana": null,
+        "id_perusahaan": "1fdf8bbd-525c-46c1-a1fe-cb0b923eb80f",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "1fdf8bbd-525c-46c1-a1fe-cb0b923eb80f",
+        "id_desa": null,
+        "nama_perusahaan": "RUMAH TAHANAN NEGARA KELAS IIB TEMANGGUNG",
+        "deskripsi_perusahaan": null,
+        "alamat": "Jl. Brigjen Katamso No. 01 Temanggung",
+        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/l5xiknLPNgLWPSUpLMtptwF3rIFND5FqYA7PZ3bv.jpg",
+        "banner": null,
+        "created_at": "2025-11-09 19:17:07",
+        "updated_at": "2025-11-09 19:17:07",
+        "kode_kabupaten": "3323",
+        "nama_kabupaten": "KAB. TEMANGGUNG",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": "RUMAH TAHANAN NEGARA KELAS IIB TEMANGGUNG"
+      }
+    },
+    {
+      "id_posisi": "a052d9b0-4cbb-4430-ae3e-e5618452a65a",
+      "posisi": "Pembinan Kepribadian",
+      "deskripsi_posisi": "1. Menyusun dan melaksanakan program\npembinaan karakter warga binaan.\n2. Melatih keterampilan komunikasi dan\npengendalian diri\n3. Melakukan evaluasi hasil pembinaan\nkepribadian.\n4. Menyusun laporan perkembangan individu.",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "c5e288e1-c596-408a-9e68-8d6bc277d5ec",
+      "created_at": "2025-11-09 19:17:07",
+      "updated_at": "2025-11-09 19:17:07",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 2,
+      "jumlah_terdaftar": 5,
+      "program_studi": "[{\"id\":\"bf0b7d57-cfef-42f1-82a2-aa75edcbdef2\",\"title\":\"Pendidikan Kewarganegaraan\"},{\"id\":\"12a8abcc-9c25-4032-9834-f4c3c93634bc\",\"title\":\"Pendidikan Agama\"},{\"id\":\"da10d7cd-200a-45a3-8439-5ba6c1412cce\",\"title\":\"Pendidikan Bahasa Inggris\"},{\"id\":\"7d842336-ea1d-40bf-b4b9-f89d55f73bbf\",\"title\":\"Pendidikan Bahasa Indonesia\"},{\"id\":\"1a18d5f2-ce0c-4382-ab78-687429fae8d5\",\"title\":\"Pendidikan IPA\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
         "id_status_posisi": 2,
@@ -317,7 +917,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 2,
-      "jumlah_terdaftar": 2,
+      "jumlah_terdaftar": 3,
       "program_studi": "[{\"id\":\"5195be92-310c-4e2b-9b65-7fd772390892\",\"title\":\"Pendidikan agama Islam\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -392,7 +992,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 2,
-      "jumlah_terdaftar": 1,
+      "jumlah_terdaftar": 2,
       "program_studi": "[{\"id\":\"88b12c72-e32f-40e7-a121-7c357c07d7fd\",\"title\":\"Ilmu Perikanan\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -842,7 +1442,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 2,
-      "jumlah_terdaftar": 0,
+      "jumlah_terdaftar": 1,
       "program_studi": "[{\"id\":\"1b10c018-7e0a-4f55-9d0d-07ffdbc1b12b\",\"title\":\"Keperawatan\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -992,7 +1592,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 2,
-      "jumlah_terdaftar": 50,
+      "jumlah_terdaftar": 53,
       "program_studi": "[{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"},{\"id\":\"0979db79-c812-4572-8176-337177e48219\",\"title\":\"Hubungan Masyarakat dan Komunikasi Digital\"},{\"id\":\"9dfcaa37-a44b-4331-87ab-bd32dc1066cb\",\"title\":\"Desain Komunikasi Visual\"},{\"id\":\"e3668d6d-acab-4f65-8d20-262e73fe8f36\",\"title\":\"Manajemen Pemasaran\"},{\"id\":\"38a57855-c348-4e9e-845a-d3fa03c133b6\",\"title\":\"Jurnalistik\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -1576,81 +2176,6 @@
       }
     },
     {
-      "id_posisi": "a0525cd0-a9d1-4394-823b-1321ce72c220",
-      "posisi": "Pengelola Keuangan dan Anggaran",
-      "deskripsi_posisi": "1. Menyusun rencana kebutuhan anggaran tahunan.\n2. Mengelola pencairan dan pembukuan keuangan.\n3. Membuat laporan pertanggungjawaban anggaran.\n4. Memastikan kepatuhan terhadap aturan keuangan negara",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "85c3b3b5-1d73-4830-936d-d1eb12b58f66",
-      "created_at": "2025-11-10 08:51:11",
-      "updated_at": "2025-11-10 08:51:11",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 2,
-      "jumlah_terdaftar": 3,
-      "program_studi": "[{\"id\":\"c13ae920-a48f-4a7c-8c89-2b286a7fc225\",\"title\":\"Akuntansi\"}]",
-      "jenjang": "[\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "85c3b3b5-1d73-4830-936d-d1eb12b58f66",
-        "id_sumber_dana": null,
-        "id_perusahaan": "082417dd-debd-47b1-9204-3d2dc92cbc72",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "082417dd-debd-47b1-9204-3d2dc92cbc72",
-        "id_desa": null,
-        "nama_perusahaan": "LEMBAGA PEMASYARAKATAN KELAS IIB PURWODADI",
-        "deskripsi_perusahaan": null,
-        "alamat": "Jl. R.Suprapto No.54, Jetis Timur, Purwodadi, Kec. Purwodadi",
-        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/nkVFWaJOONg0yBl2giFKK4MSjV0Qb2IoZaJ6XqHH.png",
-        "banner": null,
-        "created_at": "2025-11-10 08:51:11",
-        "updated_at": "2025-11-10 08:51:11",
-        "kode_kabupaten": "3315",
-        "nama_kabupaten": "KAB. GROBOGAN",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": "LEMBAGA PEMASYARAKATAN KELAS IIB PURWODADI"
-      }
-    },
-    {
       "id_posisi": "a0525dc1-389d-48d2-ae89-57a571660627",
       "posisi": "Pengelola Fasilitas Umum",
       "deskripsi_posisi": "1. Menyiapkan sarana pendukung kegiatan umum seperti ruang rapat, kendaraan, dan logistik.\n2. Memantau penggunaan fasilitas agar efisien.\n3. Mengatur perawatan rutin fasilitas umum.\n4. Membantu kebutuhan operasional kantor",
@@ -1726,6 +2251,81 @@
       }
     },
     {
+      "id_posisi": "a0525cd0-a9d1-4394-823b-1321ce72c220",
+      "posisi": "Pengelola Keuangan dan Anggaran",
+      "deskripsi_posisi": "1. Menyusun rencana kebutuhan anggaran tahunan.\n2. Mengelola pencairan dan pembukuan keuangan.\n3. Membuat laporan pertanggungjawaban anggaran.\n4. Memastikan kepatuhan terhadap aturan keuangan negara",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "85c3b3b5-1d73-4830-936d-d1eb12b58f66",
+      "created_at": "2025-11-10 08:51:11",
+      "updated_at": "2025-11-10 08:51:11",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 2,
+      "jumlah_terdaftar": 4,
+      "program_studi": "[{\"id\":\"c13ae920-a48f-4a7c-8c89-2b286a7fc225\",\"title\":\"Akuntansi\"}]",
+      "jenjang": "[\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "85c3b3b5-1d73-4830-936d-d1eb12b58f66",
+        "id_sumber_dana": null,
+        "id_perusahaan": "082417dd-debd-47b1-9204-3d2dc92cbc72",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "082417dd-debd-47b1-9204-3d2dc92cbc72",
+        "id_desa": null,
+        "nama_perusahaan": "LEMBAGA PEMASYARAKATAN KELAS IIB PURWODADI",
+        "deskripsi_perusahaan": null,
+        "alamat": "Jl. R.Suprapto No.54, Jetis Timur, Purwodadi, Kec. Purwodadi",
+        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/nkVFWaJOONg0yBl2giFKK4MSjV0Qb2IoZaJ6XqHH.png",
+        "banner": null,
+        "created_at": "2025-11-10 08:51:11",
+        "updated_at": "2025-11-10 08:51:11",
+        "kode_kabupaten": "3315",
+        "nama_kabupaten": "KAB. GROBOGAN",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": "LEMBAGA PEMASYARAKATAN KELAS IIB PURWODADI"
+      }
+    },
+    {
       "id_posisi": "a0525d46-2885-4adf-8198-0e1dd0862317",
       "posisi": "Pengelola BMN",
       "deskripsi_posisi": "1. Mengelola aset dan inventaris milik negara di unit kerja.\n2. Mencatat penerimaan, pemakaian, dan penghapusan barang.\n3. Melakukan inventarisasi berkala.\n4. Menyusun laporan aset sesuai ketentuan",
@@ -1742,7 +2342,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 2,
-      "jumlah_terdaftar": 6,
+      "jumlah_terdaftar": 7,
       "program_studi": "[{\"id\":\"7d00e7aa-90a4-49a6-a9cc-372a5f04983b\",\"title\":\"Manajemen Aset Publik\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -1967,7 +2567,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 2,
-      "jumlah_terdaftar": 2,
+      "jumlah_terdaftar": 1,
       "program_studi": "[{\"id\":\"18bd7010-64b2-41b6-94bb-0e6c092b742f\",\"title\":\"Pendidikan Agama Islam\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -2192,7 +2792,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 2,
-      "jumlah_terdaftar": 1,
+      "jumlah_terdaftar": 2,
       "program_studi": "[{\"id\":\"03b570a2-c678-4413-aa47-bfed8308fac5\",\"title\":\"Teknik Informatika\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -2417,83 +3017,8 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 2,
-      "jumlah_terdaftar": 0,
+      "jumlah_terdaftar": 1,
       "program_studi": "[{\"id\":\"93594dd7-0c1d-48c0-8f50-fd4bfde199b3\",\"title\":\"Teknik Elektro\"}]",
-      "jenjang": "[\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "8faa9b8d-b2f8-4f2c-9201-bd077f2252cd",
-        "id_sumber_dana": null,
-        "id_perusahaan": "c2cd0f95-faea-4dc6-b216-f5f7e10723b0",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "c2cd0f95-faea-4dc6-b216-f5f7e10723b0",
-        "id_desa": null,
-        "nama_perusahaan": "LEMBAGA PEMASYARAKATAN KELAS IIB BREBES",
-        "deskripsi_perusahaan": null,
-        "alamat": "Jalan Slamet No 1 Kelurahan Brebes Kecamatan Brebes Kabupaten Brebes",
-        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/0BI3cjqCHDSU9oXeyFBs2RmFWHZlqGnFOPRQIaKE.jpg",
-        "banner": null,
-        "created_at": "2025-11-10 21:11:04",
-        "updated_at": "2025-11-10 21:11:04",
-        "kode_kabupaten": "3329",
-        "nama_kabupaten": "KAB. BREBES",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": "LEMBAGA PEMASYARAKATAN KELAS IIB BREBES"
-      }
-    },
-    {
-      "id_posisi": "a0530c1d-11d2-4e49-84e6-68da504d1b47",
-      "posisi": "Apoteker",
-      "deskripsi_posisi": "1. Mengelola penyimpanan dan distribusi obat di \nunit layanan Kesehatan \n2. Menyiapkan obat sesuai resep dokter. \n3. Memastikan keamanan dan kedaluwarsa obat \n4. Menyusun laporan penggunaan obat secara \nberkala.",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "8faa9b8d-b2f8-4f2c-9201-bd077f2252cd",
-      "created_at": "2025-11-10 21:11:04",
-      "updated_at": "2025-11-10 21:11:04",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 2,
-      "jumlah_terdaftar": 0,
-      "program_studi": "[{\"id\":\"4f53bef4-5310-443b-82bc-1e99f1f2ef08\",\"title\":\"Farmasi\"},{\"id\":\"664e78c5-8af2-4932-8e01-2a2dcfac5d50\",\"title\":\"Farmasi Klinis\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
         "id_status_posisi": 2,
@@ -2719,6 +3244,81 @@
       "jumlah_kuota": 2,
       "jumlah_terdaftar": 0,
       "program_studi": "[{\"id\":\"dbcc16ac-6297-4f5e-a1f8-d6804bb972c7\",\"title\":\"Ilmu Gizi\"}]",
+      "jenjang": "[\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "8faa9b8d-b2f8-4f2c-9201-bd077f2252cd",
+        "id_sumber_dana": null,
+        "id_perusahaan": "c2cd0f95-faea-4dc6-b216-f5f7e10723b0",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "c2cd0f95-faea-4dc6-b216-f5f7e10723b0",
+        "id_desa": null,
+        "nama_perusahaan": "LEMBAGA PEMASYARAKATAN KELAS IIB BREBES",
+        "deskripsi_perusahaan": null,
+        "alamat": "Jalan Slamet No 1 Kelurahan Brebes Kecamatan Brebes Kabupaten Brebes",
+        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/0BI3cjqCHDSU9oXeyFBs2RmFWHZlqGnFOPRQIaKE.jpg",
+        "banner": null,
+        "created_at": "2025-11-10 21:11:04",
+        "updated_at": "2025-11-10 21:11:04",
+        "kode_kabupaten": "3329",
+        "nama_kabupaten": "KAB. BREBES",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": "LEMBAGA PEMASYARAKATAN KELAS IIB BREBES"
+      }
+    },
+    {
+      "id_posisi": "a0530c1d-11d2-4e49-84e6-68da504d1b47",
+      "posisi": "Apoteker",
+      "deskripsi_posisi": "1. Mengelola penyimpanan dan distribusi obat di \nunit layanan Kesehatan \n2. Menyiapkan obat sesuai resep dokter. \n3. Memastikan keamanan dan kedaluwarsa obat \n4. Menyusun laporan penggunaan obat secara \nberkala.",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "8faa9b8d-b2f8-4f2c-9201-bd077f2252cd",
+      "created_at": "2025-11-10 21:11:04",
+      "updated_at": "2025-11-10 21:11:04",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 2,
+      "jumlah_terdaftar": 1,
+      "program_studi": "[{\"id\":\"4f53bef4-5310-443b-82bc-1e99f1f2ef08\",\"title\":\"Farmasi\"},{\"id\":\"664e78c5-8af2-4932-8e01-2a2dcfac5d50\",\"title\":\"Farmasi Klinis\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
         "id_status_posisi": 2,
@@ -3076,81 +3676,6 @@
       }
     },
     {
-      "id_posisi": "a054a5b9-ad2a-4fbc-aea5-2ffdb53c5a22",
-      "posisi": "Pembina Kepribadian",
-      "deskripsi_posisi": "1. Menyusun dan melaksanakan program pembinaan karakter warga binaan.\n2. Melatih keterampilan komunikasi dan pengendalian diri\n3. Melakukan evaluasi hasil pembinaan kepribadian.\n4. Menyusun laporan perkembangan individu.",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "804ffac3-4464-4fa6-a318-9f84c4c1caf8",
-      "created_at": "2025-11-11 14:26:09",
-      "updated_at": "2025-11-11 14:26:09",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 2,
-      "jumlah_terdaftar": 2,
-      "program_studi": "[{\"id\":\"bf0b7d57-cfef-42f1-82a2-aa75edcbdef2\",\"title\":\"Pendidikan Kewarganegaraan\"},{\"id\":\"da10d7cd-200a-45a3-8439-5ba6c1412cce\",\"title\":\"Pendidikan Bahasa Inggris\"},{\"id\":\"7d842336-ea1d-40bf-b4b9-f89d55f73bbf\",\"title\":\"Pendidikan Bahasa Indonesia\"},{\"id\":\"1a18d5f2-ce0c-4382-ab78-687429fae8d5\",\"title\":\"Pendidikan IPA\"},{\"id\":\"31266e15-132e-412e-bae5-60c31e2d3399\",\"title\":\"Pendidikan Matematika\"}]",
-      "jenjang": "[\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "804ffac3-4464-4fa6-a318-9f84c4c1caf8",
-        "id_sumber_dana": null,
-        "id_perusahaan": "14e4e667-c8e6-4a41-86e0-18c2a38b1d57",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "14e4e667-c8e6-4a41-86e0-18c2a38b1d57",
-        "id_desa": null,
-        "nama_perusahaan": "LEMBAGA PEMASYARAKATAN KELAS IIA MAGELANG",
-        "deskripsi_perusahaan": null,
-        "alamat": "jl. Sutopo 02, Magelang",
-        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/qUvLxsBE6ur0iRI2qUwoHDLqGz7XGCqBHnO9BMuP.jpg",
-        "banner": null,
-        "created_at": "2025-11-11 14:26:09",
-        "updated_at": "2025-11-11 14:26:09",
-        "kode_kabupaten": "3371",
-        "nama_kabupaten": "KOTA MAGELANG",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": "LEMBAGA PEMASYARAKATAN KELAS IIA MAGELANG"
-      }
-    },
-    {
       "id_posisi": "a0547f08-06a1-452b-a60b-ef02017c5c71",
       "posisi": "Pembina Kepribadian",
       "deskripsi_posisi": "1. Menyusun dan melaksanakan program pembinaan karakter warga binaan.\n2. Melatih keterampilan komunikasi dan pengendalian diri\n3. Melakukan evaluasi hasil pembinaan kepribadian.\n4. Menyusun laporan perkembangan individu.",
@@ -3169,81 +3694,6 @@
       "jumlah_kuota": 2,
       "jumlah_terdaftar": 2,
       "program_studi": "[{\"id\":\"0bc0e2c9-9c10-4bf4-be94-fbe6c480968f\",\"title\":\"Pendidikan AGama Islam\"}]",
-      "jenjang": "[\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "804ffac3-4464-4fa6-a318-9f84c4c1caf8",
-        "id_sumber_dana": null,
-        "id_perusahaan": "14e4e667-c8e6-4a41-86e0-18c2a38b1d57",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "14e4e667-c8e6-4a41-86e0-18c2a38b1d57",
-        "id_desa": null,
-        "nama_perusahaan": "LEMBAGA PEMASYARAKATAN KELAS IIA MAGELANG",
-        "deskripsi_perusahaan": null,
-        "alamat": "jl. Sutopo 02, Magelang",
-        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/qUvLxsBE6ur0iRI2qUwoHDLqGz7XGCqBHnO9BMuP.jpg",
-        "banner": null,
-        "created_at": "2025-11-11 14:26:09",
-        "updated_at": "2025-11-11 14:26:09",
-        "kode_kabupaten": "3371",
-        "nama_kabupaten": "KOTA MAGELANG",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": "LEMBAGA PEMASYARAKATAN KELAS IIA MAGELANG"
-      }
-    },
-    {
-      "id_posisi": "a054a07a-5e87-4a6a-8fd4-4482b1695676",
-      "posisi": "Pengelola BMN",
-      "deskripsi_posisi": "1. Mengelola aset dan inventaris milik negara di unit kerja.\n2. Mencatat penerimaan, pemakaian, dan penghapusan barang.\n3. Melakukan inventarisasi berkala.\n4. Menyusun laporan aset sesuai ketentuan.",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "804ffac3-4464-4fa6-a318-9f84c4c1caf8",
-      "created_at": "2025-11-11 14:26:09",
-      "updated_at": "2025-11-11 14:26:09",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 2,
-      "jumlah_terdaftar": 6,
-      "program_studi": "[{\"id\":\"7d00e7aa-90a4-49a6-a9cc-372a5f04983b\",\"title\":\"Manajemen Aset Publik\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
         "id_status_posisi": 2,
@@ -3542,7 +3992,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 2,
-      "jumlah_terdaftar": 1,
+      "jumlah_terdaftar": 2,
       "program_studi": "[{\"id\":\"93594dd7-0c1d-48c0-8f50-fd4bfde199b3\",\"title\":\"Teknik Elektro\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -3901,6 +4351,156 @@
       }
     },
     {
+      "id_posisi": "a054a07a-5e87-4a6a-8fd4-4482b1695676",
+      "posisi": "Pengelola BMN",
+      "deskripsi_posisi": "1. Mengelola aset dan inventaris milik negara di unit kerja.\n2. Mencatat penerimaan, pemakaian, dan penghapusan barang.\n3. Melakukan inventarisasi berkala.\n4. Menyusun laporan aset sesuai ketentuan.",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "804ffac3-4464-4fa6-a318-9f84c4c1caf8",
+      "created_at": "2025-11-11 14:26:09",
+      "updated_at": "2025-11-11 14:26:09",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 2,
+      "jumlah_terdaftar": 7,
+      "program_studi": "[{\"id\":\"7d00e7aa-90a4-49a6-a9cc-372a5f04983b\",\"title\":\"Manajemen Aset Publik\"}]",
+      "jenjang": "[\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "804ffac3-4464-4fa6-a318-9f84c4c1caf8",
+        "id_sumber_dana": null,
+        "id_perusahaan": "14e4e667-c8e6-4a41-86e0-18c2a38b1d57",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "14e4e667-c8e6-4a41-86e0-18c2a38b1d57",
+        "id_desa": null,
+        "nama_perusahaan": "LEMBAGA PEMASYARAKATAN KELAS IIA MAGELANG",
+        "deskripsi_perusahaan": null,
+        "alamat": "jl. Sutopo 02, Magelang",
+        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/qUvLxsBE6ur0iRI2qUwoHDLqGz7XGCqBHnO9BMuP.jpg",
+        "banner": null,
+        "created_at": "2025-11-11 14:26:09",
+        "updated_at": "2025-11-11 14:26:09",
+        "kode_kabupaten": "3371",
+        "nama_kabupaten": "KOTA MAGELANG",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": "LEMBAGA PEMASYARAKATAN KELAS IIA MAGELANG"
+      }
+    },
+    {
+      "id_posisi": "a054a5b9-ad2a-4fbc-aea5-2ffdb53c5a22",
+      "posisi": "Pembina Kepribadian",
+      "deskripsi_posisi": "1. Menyusun dan melaksanakan program pembinaan karakter warga binaan.\n2. Melatih keterampilan komunikasi dan pengendalian diri\n3. Melakukan evaluasi hasil pembinaan kepribadian.\n4. Menyusun laporan perkembangan individu.",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "804ffac3-4464-4fa6-a318-9f84c4c1caf8",
+      "created_at": "2025-11-11 14:26:09",
+      "updated_at": "2025-11-11 14:26:09",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 2,
+      "jumlah_terdaftar": 5,
+      "program_studi": "[{\"id\":\"bf0b7d57-cfef-42f1-82a2-aa75edcbdef2\",\"title\":\"Pendidikan Kewarganegaraan\"},{\"id\":\"da10d7cd-200a-45a3-8439-5ba6c1412cce\",\"title\":\"Pendidikan Bahasa Inggris\"},{\"id\":\"7d842336-ea1d-40bf-b4b9-f89d55f73bbf\",\"title\":\"Pendidikan Bahasa Indonesia\"},{\"id\":\"1a18d5f2-ce0c-4382-ab78-687429fae8d5\",\"title\":\"Pendidikan IPA\"},{\"id\":\"31266e15-132e-412e-bae5-60c31e2d3399\",\"title\":\"Pendidikan Matematika\"}]",
+      "jenjang": "[\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "804ffac3-4464-4fa6-a318-9f84c4c1caf8",
+        "id_sumber_dana": null,
+        "id_perusahaan": "14e4e667-c8e6-4a41-86e0-18c2a38b1d57",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "14e4e667-c8e6-4a41-86e0-18c2a38b1d57",
+        "id_desa": null,
+        "nama_perusahaan": "LEMBAGA PEMASYARAKATAN KELAS IIA MAGELANG",
+        "deskripsi_perusahaan": null,
+        "alamat": "jl. Sutopo 02, Magelang",
+        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/qUvLxsBE6ur0iRI2qUwoHDLqGz7XGCqBHnO9BMuP.jpg",
+        "banner": null,
+        "created_at": "2025-11-11 14:26:09",
+        "updated_at": "2025-11-11 14:26:09",
+        "kode_kabupaten": "3371",
+        "nama_kabupaten": "KOTA MAGELANG",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": "LEMBAGA PEMASYARAKATAN KELAS IIA MAGELANG"
+      }
+    },
+    {
       "id_posisi": "a054a100-31f8-4ffe-9072-ac0e27e6b5bd",
       "posisi": "Pengelola Fasilitas Umum",
       "deskripsi_posisi": "1. Menyiapkan sarana pendukung kegiatan umum seperti ruang rapat, kendaraan, dan logistik.\n2.  Memantau penggunaan fasilitas agar efisien.\n3. Mengatur perawatan rutin fasilitas umum.\n4. Membantu kebutuhan operasional kantor.",
@@ -3994,81 +4594,6 @@
       "jumlah_kuota": 2,
       "jumlah_terdaftar": 2,
       "program_studi": "[{\"id\":\"da10d7cd-200a-45a3-8439-5ba6c1412cce\",\"title\":\"Pendidikan Bahasa Inggris\"},{\"id\":\"7d842336-ea1d-40bf-b4b9-f89d55f73bbf\",\"title\":\"Pendidikan Bahasa Indonesia\"},{\"id\":\"1a18d5f2-ce0c-4382-ab78-687429fae8d5\",\"title\":\"Pendidikan IPA\"},{\"id\":\"1fc38c65-848b-4905-81b3-4b00c3436d98\",\"title\":\"Pendidikan IPS\"},{\"id\":\"31266e15-132e-412e-bae5-60c31e2d3399\",\"title\":\"Pendidikan Matematika\"}]",
-      "jenjang": "[\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "0dc636a4-cbd5-4872-9035-95d4d3fce170",
-        "id_sumber_dana": null,
-        "id_perusahaan": "62a61a94-9c9b-495c-868d-31b4b6450b96",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "62a61a94-9c9b-495c-868d-31b4b6450b96",
-        "id_desa": null,
-        "nama_perusahaan": "LEMBAGA PEMASYARAKATAN TERBUKA KELAS IIB KENDAL",
-        "deskripsi_perusahaan": null,
-        "alamat": "Lapas Terbuka Kelas IIB Kendal\r\nJl. Raya Bleder – Kendal KM.10 \r\nDesa Wonosari Kec. Patebon Kab. Kendal Kode Pos : 51351",
-        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/0JJav1QhGgCH2eTCYTg0WBugY76PBl9O0X0AacA3.png",
-        "banner": null,
-        "created_at": "2025-11-10 11:53:13",
-        "updated_at": "2025-11-10 11:53:13",
-        "kode_kabupaten": "3324",
-        "nama_kabupaten": "KAB. KENDAL",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": "LEMBAGA PEMASYARAKATAN TERBUKA KELAS IIB KENDAL"
-      }
-    },
-    {
-      "id_posisi": "a0529c01-e4f8-4799-9b39-797899803b3e",
-      "posisi": "Pengelola BMN",
-      "deskripsi_posisi": "1. Mengelola aset dan inventaris milik negara di unit kerja\n2. Mencatat penerimaan, pemakaian dan penghapusan barang\n3. Melakukan inventarisasi berkala\n4. Menyusun lapoan aset sesuai kebutuhan",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "0dc636a4-cbd5-4872-9035-95d4d3fce170",
-      "created_at": "2025-11-10 11:53:13",
-      "updated_at": "2025-11-10 11:53:13",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 2,
-      "jumlah_terdaftar": 2,
-      "program_studi": "[{\"id\":\"7d00e7aa-90a4-49a6-a9cc-372a5f04983b\",\"title\":\"Manajemen Aset Publik\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
         "id_status_posisi": 2,
@@ -4876,6 +5401,81 @@
       }
     },
     {
+      "id_posisi": "a0529c01-e4f8-4799-9b39-797899803b3e",
+      "posisi": "Pengelola BMN",
+      "deskripsi_posisi": "1. Mengelola aset dan inventaris milik negara di unit kerja\n2. Mencatat penerimaan, pemakaian dan penghapusan barang\n3. Melakukan inventarisasi berkala\n4. Menyusun lapoan aset sesuai kebutuhan",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "0dc636a4-cbd5-4872-9035-95d4d3fce170",
+      "created_at": "2025-11-10 11:53:13",
+      "updated_at": "2025-11-10 11:53:13",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 2,
+      "jumlah_terdaftar": 3,
+      "program_studi": "[{\"id\":\"7d00e7aa-90a4-49a6-a9cc-372a5f04983b\",\"title\":\"Manajemen Aset Publik\"}]",
+      "jenjang": "[\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "0dc636a4-cbd5-4872-9035-95d4d3fce170",
+        "id_sumber_dana": null,
+        "id_perusahaan": "62a61a94-9c9b-495c-868d-31b4b6450b96",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "62a61a94-9c9b-495c-868d-31b4b6450b96",
+        "id_desa": null,
+        "nama_perusahaan": "LEMBAGA PEMASYARAKATAN TERBUKA KELAS IIB KENDAL",
+        "deskripsi_perusahaan": null,
+        "alamat": "Lapas Terbuka Kelas IIB Kendal\r\nJl. Raya Bleder – Kendal KM.10 \r\nDesa Wonosari Kec. Patebon Kab. Kendal Kode Pos : 51351",
+        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/0JJav1QhGgCH2eTCYTg0WBugY76PBl9O0X0AacA3.png",
+        "banner": null,
+        "created_at": "2025-11-10 11:53:13",
+        "updated_at": "2025-11-10 11:53:13",
+        "kode_kabupaten": "3324",
+        "nama_kabupaten": "KAB. KENDAL",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": "LEMBAGA PEMASYARAKATAN TERBUKA KELAS IIB KENDAL"
+      }
+    },
+    {
       "id_posisi": "a052a884-649c-40c3-964e-126ba65245f8",
       "posisi": "Pengelola Keuangan dan Anggaran",
       "deskripsi_posisi": "1. Menyusun rencana kebutuhan anggaran tahunan\n2. Mengelola pencairan dan pembukuna keuangan\n3. Membuat laporan pertanggungjawaban anggaran\n4. Memastikan kepatuhan terhadap aturan keuangan negara",
@@ -5042,7 +5642,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 2,
-      "jumlah_terdaftar": 2,
+      "jumlah_terdaftar": 3,
       "program_studi": "[{\"id\":\"e90b7fe8-f4a5-4a1c-85f8-e929004b29e1\",\"title\":\"Desain Grafis\"}]",
       "jenjang": "[\"Diploma\",\"Sarjana\"]",
       "ref_status_posisi": {
@@ -5776,81 +6376,6 @@
       }
     },
     {
-      "id_posisi": "a0528a1e-1a3f-4198-8ced-e36bf039ce04",
-      "posisi": "Pengelola BMN",
-      "deskripsi_posisi": "1. Mengelola aset dan inventaris milik negara di\nunit kerja.\n2. Mencatat penerimaan, pemakaian, dan\npenghapusan barang.\n3. Melakukan inventarisasi berkala.\n4. Menyusun laporan aset sesuai ketentuan.",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "821e936c-8696-4e14-8404-94d62dba1338",
-      "created_at": "2025-11-09 20:29:50",
-      "updated_at": "2025-11-09 20:29:50",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 2,
-      "jumlah_terdaftar": 0,
-      "program_studi": "[{\"id\":\"7d00e7aa-90a4-49a6-a9cc-372a5f04983b\",\"title\":\"Manajemen Aset Publik\"}]",
-      "jenjang": "[\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "821e936c-8696-4e14-8404-94d62dba1338",
-        "id_sumber_dana": null,
-        "id_perusahaan": "61b86299-4146-4473-a270-f1d71146d1fa",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "61b86299-4146-4473-a270-f1d71146d1fa",
-        "id_desa": null,
-        "nama_perusahaan": "LEMBAGA PEMASYARAKATAN KELAS IIA KEMBANG KUNING NUSAKAMBANGAN",
-        "deskripsi_perusahaan": null,
-        "alamat": "Nusakambangan, Tambakreja, Cilacap Selatan, Cilacap, Jawa Tengah",
-        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/ekRGTs4UEDLpkKY435pgK04wxTdv6wo1L7D2mK76.jpg",
-        "banner": null,
-        "created_at": "2025-11-09 20:29:50",
-        "updated_at": "2025-11-09 20:29:50",
-        "kode_kabupaten": "3301",
-        "nama_kabupaten": "KAB. CILACAP",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": "LEMBAGA PEMASYARAKATAN KELAS IIA KEMBANG KUNING NUSAKAMBANGAN"
-      }
-    },
-    {
       "id_posisi": "a0528a68-5672-489b-b87c-08f362130d41",
       "posisi": "Pengelola Fasilitas Umum",
       "deskripsi_posisi": "1. Menyiapkan sarana pendukung kegiatan umum\nseperti ruang rapat, kendaraan, dan logistik.\n2. Memantau penggunaan fasilitas agar efisien.\n3. Mengatur perawatan rutin fasilitas umum.\n4. Membantu kebutuhan operasional kantor",
@@ -6076,6 +6601,81 @@
       }
     },
     {
+      "id_posisi": "a0528a1e-1a3f-4198-8ced-e36bf039ce04",
+      "posisi": "Pengelola BMN",
+      "deskripsi_posisi": "1. Mengelola aset dan inventaris milik negara di\nunit kerja.\n2. Mencatat penerimaan, pemakaian, dan\npenghapusan barang.\n3. Melakukan inventarisasi berkala.\n4. Menyusun laporan aset sesuai ketentuan.",
+      "syarat_khusus": null,
+      "usia_minimal": null,
+      "usia_maksimal": null,
+      "revisi": null,
+      "id_kondisi_fisik": null,
+      "id_program": "821e936c-8696-4e14-8404-94d62dba1338",
+      "created_at": "2025-11-09 20:29:50",
+      "updated_at": "2025-11-09 20:29:50",
+      "kode_kbji": null,
+      "penempatan": null,
+      "id_jenis_kelamin": null,
+      "id_status_posisi": 2,
+      "jumlah_kuota": 2,
+      "jumlah_terdaftar": 2,
+      "program_studi": "[{\"id\":\"7d00e7aa-90a4-49a6-a9cc-372a5f04983b\",\"title\":\"Manajemen Aset Publik\"}]",
+      "jenjang": "[\"Sarjana\"]",
+      "ref_status_posisi": {
+        "id_status_posisi": 2,
+        "nama_status_posisi": "Terverifikasi"
+      },
+      "program": {
+        "id_program": "821e936c-8696-4e14-8404-94d62dba1338",
+        "id_sumber_dana": null,
+        "id_perusahaan": "61b86299-4146-4473-a270-f1d71146d1fa",
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+      },
+      "perusahaan": {
+        "id_perusahaan": "61b86299-4146-4473-a270-f1d71146d1fa",
+        "id_desa": null,
+        "nama_perusahaan": "LEMBAGA PEMASYARAKATAN KELAS IIA KEMBANG KUNING NUSAKAMBANGAN",
+        "deskripsi_perusahaan": null,
+        "alamat": "Nusakambangan, Tambakreja, Cilacap Selatan, Cilacap, Jawa Tengah",
+        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/ekRGTs4UEDLpkKY435pgK04wxTdv6wo1L7D2mK76.jpg",
+        "banner": null,
+        "created_at": "2025-11-09 20:29:50",
+        "updated_at": "2025-11-09 20:29:50",
+        "kode_kabupaten": "3301",
+        "nama_kabupaten": "KAB. CILACAP",
+        "kode_provinsi": "33",
+        "nama_provinsi": "JAWA TENGAH"
+      },
+      "jadwal": {
+        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+        "angkatan": "2",
+        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+        "tanggal_mulai": "2025-11-24 00:00:00",
+        "tanggal_selesai": "2026-05-23 23:59:59",
+        "tahun": "2025",
+        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
+        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
+        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+        "tanggal_lulus_awal": "2024-11-01 00:00:00",
+        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+        "publish": 1
+      },
+      "government_agency": {
+        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
+      },
+      "sub_government_agency": {
+        "sub_government_agency_name": "LEMBAGA PEMASYARAKATAN KELAS IIA KEMBANG KUNING NUSAKAMBANGAN"
+      }
+    },
+    {
       "id_posisi": "a0528614-cc08-4c49-9b59-288068e1bdf2",
       "posisi": "Pengelola Kehumasan",
       "deskripsi_posisi": "1. Menyusun materi layanan informasi untuk media\nelektronik\n2. Menyusun berita pelayanan informasi dan\nkehumasan melalui media: cetak, elektornik dan\ndaring (online)\n3. Menyusun naskah pelayanan informasi dan\nkehumasan dalam bentuk: ceramah, piodato, dan\nbahan tayang\n4. Menyelenggarakan penerbitan materi pelayanan\ninformasi untuk media cetak, elektronik, dan\ndaring (online)\n5. Melaksanakan tugas peliputan kegiatan\nkelembagaan dalan bentuk foto dan video",
@@ -6167,7 +6767,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 2,
-      "jumlah_terdaftar": 27,
+      "jumlah_terdaftar": 26,
       "program_studi": "[{\"id\":\"fd3ebf70-4f4b-4dab-a7ab-ec31d20bd01b\",\"title\":\"Hukum\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -6301,9 +6901,9 @@
       }
     },
     {
-      "id_posisi": "a053fe40-8e6d-412e-9de7-c094549ad059",
-      "posisi": "Arsiparis",
-      "deskripsi_posisi": "1. Menyeleksi arsip inaktif yang akan dimusnahkan\n2. Membuat daftar arsip inaktif usul musnah\n3. Melakukan identifikasi dan pengolahan data arsip inaktif\n4. Melakukan identifikasi dan pengolahan data arsip vital\n5. Melaksanakan penyerahan arsip statis ke Lembaga Kearsipan",
+      "id_posisi": "a053f9f0-1552-413f-83f5-36b7aa3867c3",
+      "posisi": "Pengelola Kesisteman",
+      "deskripsi_posisi": "1. Menyusun dan mengelola prosedur kerja serta alur sistem administrasi\n2. Memantau pelaksanaan sistem agar efisien dan sesuai aturan\n3. Mengusulkan perbaikan sistem kerja\n4. Membuat laporan evaluasi efektivitas sistem",
       "syarat_khusus": null,
       "usia_minimal": null,
       "usia_maksimal": null,
@@ -6317,8 +6917,8 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 2,
-      "jumlah_terdaftar": 5,
-      "program_studi": "[{\"id\":\"2c88d9da-5636-40d2-9d1d-d3882c313960\",\"title\":\"Kearsipan\"},{\"id\":\"71dbe027-edd3-49de-8325-d5d6f08a12ea\",\"title\":\"Ilmu Perpustakaan\"}]",
+      "jumlah_terdaftar": 3,
+      "program_studi": "[{\"id\":\"246e6e8a-413d-4dff-9d82-161b6222f8d0\",\"title\":\"Ilmu Komputer\"},{\"id\":\"cbf82a7d-423a-4b1c-b3d7-c7c82d4cc46a\",\"title\":\"Teknik Komputer Dan Jaringan\"},{\"id\":\"03b570a2-c678-4413-aa47-bfed8308fac5\",\"title\":\"Teknik Informatika\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
         "id_status_posisi": 2,
@@ -6376,9 +6976,9 @@
       }
     },
     {
-      "id_posisi": "a053f9f0-1552-413f-83f5-36b7aa3867c3",
-      "posisi": "Pengelola Kesisteman",
-      "deskripsi_posisi": "1. Menyusun dan mengelola prosedur kerja serta alur sistem administrasi\n2. Memantau pelaksanaan sistem agar efisien dan sesuai aturan\n3. Mengusulkan perbaikan sistem kerja\n4. Membuat laporan evaluasi efektivitas sistem",
+      "id_posisi": "a053fe40-8e6d-412e-9de7-c094549ad059",
+      "posisi": "Arsiparis",
+      "deskripsi_posisi": "1. Menyeleksi arsip inaktif yang akan dimusnahkan\n2. Membuat daftar arsip inaktif usul musnah\n3. Melakukan identifikasi dan pengolahan data arsip inaktif\n4. Melakukan identifikasi dan pengolahan data arsip vital\n5. Melaksanakan penyerahan arsip statis ke Lembaga Kearsipan",
       "syarat_khusus": null,
       "usia_minimal": null,
       "usia_maksimal": null,
@@ -6392,8 +6992,8 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 2,
-      "jumlah_terdaftar": 4,
-      "program_studi": "[{\"id\":\"246e6e8a-413d-4dff-9d82-161b6222f8d0\",\"title\":\"Ilmu Komputer\"},{\"id\":\"cbf82a7d-423a-4b1c-b3d7-c7c82d4cc46a\",\"title\":\"Teknik Komputer Dan Jaringan\"},{\"id\":\"03b570a2-c678-4413-aa47-bfed8308fac5\",\"title\":\"Teknik Informatika\"}]",
+      "jumlah_terdaftar": 8,
+      "program_studi": "[{\"id\":\"2c88d9da-5636-40d2-9d1d-d3882c313960\",\"title\":\"Kearsipan\"},{\"id\":\"71dbe027-edd3-49de-8325-d5d6f08a12ea\",\"title\":\"Ilmu Perpustakaan\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
         "id_status_posisi": 2,
@@ -6826,531 +7426,6 @@
       }
     },
     {
-      "id_posisi": "a054487a-062b-4aed-85e3-2bfc83ae7639",
-      "posisi": "Pembina Kemandirian",
-      "deskripsi_posisi": "1. Melatih warga binaan dalam keterampilan kerja\ndan kewirausahaan.\n2. Menyusun jadwal dan materi pelatihan kerja.\n3. Melakukan pendampingan selama praktik\nkerja.\n4. Mengevaluasi kemampuan dan kesiapan kerja",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "143f1621-2f9f-4c5b-8d66-722651045ccb",
-      "created_at": "2025-11-11 11:37:08",
-      "updated_at": "2025-11-11 11:37:08",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 2,
-      "jumlah_terdaftar": 0,
-      "program_studi": "[{\"id\":\"6107d202-63c7-4740-ba37-e422caef7e3f\",\"title\":\"Ilmu Pertanian\"}]",
-      "jenjang": "[\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "143f1621-2f9f-4c5b-8d66-722651045ccb",
-        "id_sumber_dana": null,
-        "id_perusahaan": "f219a284-47ea-4ee9-bd9b-5710bbb849b2",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "f219a284-47ea-4ee9-bd9b-5710bbb849b2",
-        "id_desa": null,
-        "nama_perusahaan": "RUMAH TAHANAN NEGARA KELAS IIB BLORA",
-        "deskripsi_perusahaan": null,
-        "alamat": "Jl.Abu Umar No 9 Kunden Blora",
-        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/RoD1qAEnbL1S8RwteGTvCNfkyDPBbt6q520Ta2se.jpg",
-        "banner": null,
-        "created_at": "2025-11-11 11:37:08",
-        "updated_at": "2025-11-11 11:37:08",
-        "kode_kabupaten": "3316",
-        "nama_kabupaten": "KAB. BLORA",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": "RUMAH TAHANAN NEGARA KELAS IIB BLORA"
-      }
-    },
-    {
-      "id_posisi": "a05449a2-4906-4d04-b123-efe04bbf514d",
-      "posisi": "Pengelola Fasilitas Umum",
-      "deskripsi_posisi": "1. Menyiapkan sarana pendukung kegiatan\numum seperti ruang rapat, kendaraan, dan\nlogistik.\n2. Memantau penggunaan fasilitas agar efisien.\n3. Mengatur perawatan rutin fasilitas umum.\n4. Membantu kebutuhan operasional kantor.",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "143f1621-2f9f-4c5b-8d66-722651045ccb",
-      "created_at": "2025-11-11 11:37:08",
-      "updated_at": "2025-11-11 11:37:08",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 2,
-      "jumlah_terdaftar": 0,
-      "program_studi": "[{\"id\":\"93594dd7-0c1d-48c0-8f50-fd4bfde199b3\",\"title\":\"Teknik Elektro\"}]",
-      "jenjang": "[\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "143f1621-2f9f-4c5b-8d66-722651045ccb",
-        "id_sumber_dana": null,
-        "id_perusahaan": "f219a284-47ea-4ee9-bd9b-5710bbb849b2",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "f219a284-47ea-4ee9-bd9b-5710bbb849b2",
-        "id_desa": null,
-        "nama_perusahaan": "RUMAH TAHANAN NEGARA KELAS IIB BLORA",
-        "deskripsi_perusahaan": null,
-        "alamat": "Jl.Abu Umar No 9 Kunden Blora",
-        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/RoD1qAEnbL1S8RwteGTvCNfkyDPBbt6q520Ta2se.jpg",
-        "banner": null,
-        "created_at": "2025-11-11 11:37:08",
-        "updated_at": "2025-11-11 11:37:08",
-        "kode_kabupaten": "3316",
-        "nama_kabupaten": "KAB. BLORA",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": "RUMAH TAHANAN NEGARA KELAS IIB BLORA"
-      }
-    },
-    {
-      "id_posisi": "a054537a-0e44-49b8-8d2f-2175359ded61",
-      "posisi": "Apoteker",
-      "deskripsi_posisi": "1. Mengelola penyimpanan dan distribusi obat di\nunit layanan Kesehatan\n2. Menyiapkan obat sesuai resep dokter.\n3. Memastikan keamanan dan kedaluwarsa obat\n4. Menyusun laporan penggunaan obat secara\nberkala.",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "143f1621-2f9f-4c5b-8d66-722651045ccb",
-      "created_at": "2025-11-11 11:37:08",
-      "updated_at": "2025-11-11 11:37:08",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 2,
-      "jumlah_terdaftar": 0,
-      "program_studi": "[{\"id\":\"4f53bef4-5310-443b-82bc-1e99f1f2ef08\",\"title\":\"Farmasi\"},{\"id\":\"e99673f1-4d14-4c5d-8c05-7e3607d3135b\",\"title\":\"Farmasi Klinik Dan Komunitas\"}]",
-      "jenjang": "[\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "143f1621-2f9f-4c5b-8d66-722651045ccb",
-        "id_sumber_dana": null,
-        "id_perusahaan": "f219a284-47ea-4ee9-bd9b-5710bbb849b2",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "f219a284-47ea-4ee9-bd9b-5710bbb849b2",
-        "id_desa": null,
-        "nama_perusahaan": "RUMAH TAHANAN NEGARA KELAS IIB BLORA",
-        "deskripsi_perusahaan": null,
-        "alamat": "Jl.Abu Umar No 9 Kunden Blora",
-        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/RoD1qAEnbL1S8RwteGTvCNfkyDPBbt6q520Ta2se.jpg",
-        "banner": null,
-        "created_at": "2025-11-11 11:37:08",
-        "updated_at": "2025-11-11 11:37:08",
-        "kode_kabupaten": "3316",
-        "nama_kabupaten": "KAB. BLORA",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": "RUMAH TAHANAN NEGARA KELAS IIB BLORA"
-      }
-    },
-    {
-      "id_posisi": "a054477b-9dac-4766-b77f-c6d4be54b962",
-      "posisi": "Pembina Kepribadian",
-      "deskripsi_posisi": "1. Menyusun dan melaksanakan program\npembinaan karakter warga binaan.\n2. Melatih keterampilan komunikasi dan\npengendalian diri\n3. Melakukan evaluasi hasil pembinaan\nkepribadian.\n4. Menyusun laporan perkembangan individu",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "143f1621-2f9f-4c5b-8d66-722651045ccb",
-      "created_at": "2025-11-11 11:37:08",
-      "updated_at": "2025-11-11 11:37:08",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 2,
-      "jumlah_terdaftar": 3,
-      "program_studi": "[{\"id\":\"bf0b7d57-cfef-42f1-82a2-aa75edcbdef2\",\"title\":\"Pendidikan Kewarganegaraan\"},{\"id\":\"12a8abcc-9c25-4032-9834-f4c3c93634bc\",\"title\":\"Pendidikan Agama\"},{\"id\":\"da10d7cd-200a-45a3-8439-5ba6c1412cce\",\"title\":\"Pendidikan Bahasa Inggris\"},{\"id\":\"1fc38c65-848b-4905-81b3-4b00c3436d98\",\"title\":\"Pendidikan IPS\"},{\"id\":\"31266e15-132e-412e-bae5-60c31e2d3399\",\"title\":\"Pendidikan Matematika\"}]",
-      "jenjang": "[\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "143f1621-2f9f-4c5b-8d66-722651045ccb",
-        "id_sumber_dana": null,
-        "id_perusahaan": "f219a284-47ea-4ee9-bd9b-5710bbb849b2",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "f219a284-47ea-4ee9-bd9b-5710bbb849b2",
-        "id_desa": null,
-        "nama_perusahaan": "RUMAH TAHANAN NEGARA KELAS IIB BLORA",
-        "deskripsi_perusahaan": null,
-        "alamat": "Jl.Abu Umar No 9 Kunden Blora",
-        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/RoD1qAEnbL1S8RwteGTvCNfkyDPBbt6q520Ta2se.jpg",
-        "banner": null,
-        "created_at": "2025-11-11 11:37:08",
-        "updated_at": "2025-11-11 11:37:08",
-        "kode_kabupaten": "3316",
-        "nama_kabupaten": "KAB. BLORA",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": "RUMAH TAHANAN NEGARA KELAS IIB BLORA"
-      }
-    },
-    {
-      "id_posisi": "a0544808-6f12-42cf-a7b0-37aa67d898d3",
-      "posisi": "Pembina Kemandirian",
-      "deskripsi_posisi": "1. Melatih warga binaan dalam keterampilan kerja\ndan kewirausahaan.\n2. Menyusun jadwal dan materi pelatihan kerja.\n3. Melakukan pendampingan selama praktik\nkerja.\n4. Mengevaluasi kemampuan dan kesiapan kerja",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "143f1621-2f9f-4c5b-8d66-722651045ccb",
-      "created_at": "2025-11-11 11:37:08",
-      "updated_at": "2025-11-11 11:37:08",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 2,
-      "jumlah_terdaftar": 1,
-      "program_studi": "[{\"id\":\"74f0be5f-6abc-455b-b326-4a3d62e1a8cf\",\"title\":\"Peternakan\"}]",
-      "jenjang": "[\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "143f1621-2f9f-4c5b-8d66-722651045ccb",
-        "id_sumber_dana": null,
-        "id_perusahaan": "f219a284-47ea-4ee9-bd9b-5710bbb849b2",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "f219a284-47ea-4ee9-bd9b-5710bbb849b2",
-        "id_desa": null,
-        "nama_perusahaan": "RUMAH TAHANAN NEGARA KELAS IIB BLORA",
-        "deskripsi_perusahaan": null,
-        "alamat": "Jl.Abu Umar No 9 Kunden Blora",
-        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/RoD1qAEnbL1S8RwteGTvCNfkyDPBbt6q520Ta2se.jpg",
-        "banner": null,
-        "created_at": "2025-11-11 11:37:08",
-        "updated_at": "2025-11-11 11:37:08",
-        "kode_kabupaten": "3316",
-        "nama_kabupaten": "KAB. BLORA",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": "RUMAH TAHANAN NEGARA KELAS IIB BLORA"
-      }
-    },
-    {
-      "id_posisi": "a05451d9-4119-4136-84db-e07273a0b195",
-      "posisi": "Pengelola Fasilitas Umum",
-      "deskripsi_posisi": "1. Menyiapkan sarana pendukung kegiatan\numum seperti ruang rapat, kendaraan, dan\nlogistik.\n2. Memantau penggunaan fasilitas agar efisien.\n3. Mengatur perawatan rutin fasilitas umum.\n4. Membantu kebutuhan operasional kantor.",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "143f1621-2f9f-4c5b-8d66-722651045ccb",
-      "created_at": "2025-11-11 11:37:08",
-      "updated_at": "2025-11-11 11:37:08",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 2,
-      "jumlah_terdaftar": 1,
-      "program_studi": "[{\"id\":\"03b570a2-c678-4413-aa47-bfed8308fac5\",\"title\":\"Teknik Informatika\"}]",
-      "jenjang": "[\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "143f1621-2f9f-4c5b-8d66-722651045ccb",
-        "id_sumber_dana": null,
-        "id_perusahaan": "f219a284-47ea-4ee9-bd9b-5710bbb849b2",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "f219a284-47ea-4ee9-bd9b-5710bbb849b2",
-        "id_desa": null,
-        "nama_perusahaan": "RUMAH TAHANAN NEGARA KELAS IIB BLORA",
-        "deskripsi_perusahaan": null,
-        "alamat": "Jl.Abu Umar No 9 Kunden Blora",
-        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/RoD1qAEnbL1S8RwteGTvCNfkyDPBbt6q520Ta2se.jpg",
-        "banner": null,
-        "created_at": "2025-11-11 11:37:08",
-        "updated_at": "2025-11-11 11:37:08",
-        "kode_kabupaten": "3316",
-        "nama_kabupaten": "KAB. BLORA",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": "RUMAH TAHANAN NEGARA KELAS IIB BLORA"
-      }
-    },
-    {
-      "id_posisi": "a054493c-b48b-4b65-a57b-53b662733693",
-      "posisi": "Perawat Kesehatan",
-      "deskripsi_posisi": "1. Memberikan perawatan kesehatan umum dan\ntindakan medis ringan.\n2. Menyusun catatan perkembangan pasien.\n3. Menjaga ketersediaan alat medis sederhana.\n4. Menyampaikan laporan kepada dokter atau\npimpinan medis.",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "143f1621-2f9f-4c5b-8d66-722651045ccb",
-      "created_at": "2025-11-11 11:37:08",
-      "updated_at": "2025-11-11 11:37:08",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 2,
-      "jumlah_terdaftar": 1,
-      "program_studi": "[{\"id\":\"dbcc16ac-6297-4f5e-a1f8-d6804bb972c7\",\"title\":\"Ilmu Gizi\"}]",
-      "jenjang": "[\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "143f1621-2f9f-4c5b-8d66-722651045ccb",
-        "id_sumber_dana": null,
-        "id_perusahaan": "f219a284-47ea-4ee9-bd9b-5710bbb849b2",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "f219a284-47ea-4ee9-bd9b-5710bbb849b2",
-        "id_desa": null,
-        "nama_perusahaan": "RUMAH TAHANAN NEGARA KELAS IIB BLORA",
-        "deskripsi_perusahaan": null,
-        "alamat": "Jl.Abu Umar No 9 Kunden Blora",
-        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/RoD1qAEnbL1S8RwteGTvCNfkyDPBbt6q520Ta2se.jpg",
-        "banner": null,
-        "created_at": "2025-11-11 11:37:08",
-        "updated_at": "2025-11-11 11:37:08",
-        "kode_kabupaten": "3316",
-        "nama_kabupaten": "KAB. BLORA",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": "Kementerian Imigrasi dan Pemasyarakatan"
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": "RUMAH TAHANAN NEGARA KELAS IIB BLORA"
-      }
-    },
-    {
       "id_posisi": "a05448ab-e5a7-4e0c-b2cc-7cca30db8433",
       "posisi": "Pembina Kemandirian",
       "deskripsi_posisi": "1. Melatih warga binaan dalam keterampilan kerja\ndan kewirausahaan.\n2. Menyusun jadwal dan materi pelatihan kerja.\n3. Melakukan pendampingan selama praktik\nkerja.\n4. Mengevaluasi kemampuan dan kesiapan kerja",
@@ -7367,7 +7442,7 @@
       "id_jenis_kelamin": null,
       "id_status_posisi": 2,
       "jumlah_kuota": 2,
-      "jumlah_terdaftar": 1,
+      "jumlah_terdaftar": 2,
       "program_studi": "[{\"id\":\"730a4616-5a8a-40c9-a422-5a082e38e933\",\"title\":\"Perikanan\"}]",
       "jenjang": "[\"Sarjana\"]",
       "ref_status_posisi": {
@@ -7424,81 +7499,6 @@
       "sub_government_agency": {
         "sub_government_agency_name": "RUMAH TAHANAN NEGARA KELAS IIB BLORA"
       }
-    },
-    {
-      "id_posisi": "a054f402-bb2e-41e4-86c2-1f0128d370fb",
-      "posisi": "Tenaga Teknis Pengaduan Lingkungan Hidup",
-      "deskripsi_posisi": "Melakukan penanganan dan penyelesaian aduan atau kasus terkait pencemaran dan/atau kerusakan lingkungan dengan menerima laporan/pengaduan dari masyarakat mengenai dugaan pencemaran atau kerusakan lingkungan, serta melakukan verifikasi dan klarifikasi awal terhadap informasi yang dilaporkan (meliputi identitas, lokasi, sumber dugaan, waktu kejadian, dan dampak).",
-      "syarat_khusus": null,
-      "usia_minimal": null,
-      "usia_maksimal": null,
-      "revisi": null,
-      "id_kondisi_fisik": null,
-      "id_program": "80f793ec-5ce0-4eb0-a008-1cafac27ad4d",
-      "created_at": "2025-11-11 08:58:22",
-      "updated_at": "2025-11-11 08:58:22",
-      "kode_kbji": null,
-      "penempatan": null,
-      "id_jenis_kelamin": null,
-      "id_status_posisi": 2,
-      "jumlah_kuota": 2,
-      "jumlah_terdaftar": 6,
-      "program_studi": "[{\"id\":\"03fa0c8f-47f8-4042-951a-a08e48aea3ac\",\"title\":\"Teknik Lingkungan\"}]",
-      "jenjang": "[\"Sarjana\"]",
-      "ref_status_posisi": {
-        "id_status_posisi": 2,
-        "nama_status_posisi": "Terverifikasi"
-      },
-      "program": {
-        "id_program": "80f793ec-5ce0-4eb0-a008-1cafac27ad4d",
-        "id_sumber_dana": null,
-        "id_perusahaan": "1ee35479-b54a-4b0c-a9dd-3be1280f0034",
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
-      },
-      "perusahaan": {
-        "id_perusahaan": "1ee35479-b54a-4b0c-a9dd-3be1280f0034",
-        "id_desa": null,
-        "nama_perusahaan": "Kantor Seksi Wilayah I Semarang, Balai Penegakan Hukum Lingkungan Hidup Kota Surabaya",
-        "deskripsi_perusahaan": null,
-        "alamat": "Jl. Teuku Umar No.57A, Tinjomoyo, Kec. Banyumanik, Kota Semarang, Jawa Tengah 50262",
-        "logo": "https://maganghub.kemnaker.go.id/be/v1/storage/uploads/logo/2025/11/GS9Q1XrVgwMHrX18lp0JuQGGnt2JQLEDciUjIrMk.png",
-        "banner": null,
-        "created_at": "2025-11-11 08:58:22",
-        "updated_at": "2025-11-11 08:58:22",
-        "kode_kabupaten": "3374",
-        "nama_kabupaten": "KOTA SEMARANG",
-        "kode_provinsi": "33",
-        "nama_provinsi": "JAWA TENGAH"
-      },
-      "jadwal": {
-        "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
-        "angkatan": "2",
-        "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
-        "tanggal_mulai": "2025-11-24 00:00:00",
-        "tanggal_selesai": "2026-05-23 23:59:59",
-        "tahun": "2025",
-        "tanggal_rencana_mulai": "2025-10-24 00:00:00",
-        "tanggal_rencana_akhir": "2025-11-12 23:59:59",
-        "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
-        "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
-        "tanggal_usulan_mulai": "2025-10-01 00:00:00",
-        "tanggal_usulan_akhir": "2025-10-08 00:00:00",
-        "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
-        "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
-        "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
-        "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
-        "tanggal_pengumuman_mulai": "2025-11-12 00:00:00",
-        "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
-        "tanggal_lulus_awal": "2024-11-01 00:00:00",
-        "tanggal_lulus_akhir": "2025-10-31 00:00:00",
-        "publish": 1
-      },
-      "government_agency": {
-        "government_agency_name": "Kementerian Lingkungan Hidup"
-      },
-      "sub_government_agency": {
-        "sub_government_agency_name": "Kantor Seksi Wilayah I Semarang, Balai Penegakan Hukum Lingkungan Hidup Kota Surabaya"
-      }
     }
   ],
   "meta": {
@@ -7514,8 +7514,8 @@
       "per_page": 100,
       "prev_page_url": null,
       "to": 1400,
-      "total": 2904
+      "total": 2937
     }
   },
-  "_scraped_at": "2025-11-12T05:49:36.179792+00:00"
+  "_scraped_at": "2025-11-12T09:53:55.971925+00:00"
 }
