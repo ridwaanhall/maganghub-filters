@@ -15,7 +15,7 @@
 			"dest": "web/staticfiles/$1"
 		},
 		{
-			"src": "/(.*)",
+			"src": "web/(.*)",
 			"dest": "web/maganghub/wsgi.py"
 		}
 	]
