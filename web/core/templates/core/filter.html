@@ -10,10 +10,10 @@
         <div>
           <label class="block mb-1">Province (multi-select)</label>
           <div id="prov-container" class="w-full p-2 border rounded h-32 overflow-auto">
-            {% for p in prov_choices %}
+            {% for folder,label in prov_choices %}
               <label class="block">
-                <input type="checkbox" name="prov" value="{{ p }}" {% if p in selected_provs %}checked{% endif %}>
-                <span class="ml-2">{{ p }}</span>
+                <input type="checkbox" name="prov" value="{{ folder }}" {% if folder in selected_provs %}checked{% endif %}>
+                <span class="ml-2">{{ label }}</span>
               </label>
             {% endfor %}
           </div>
