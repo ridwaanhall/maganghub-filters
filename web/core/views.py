@@ -109,17 +109,35 @@ def filter_view(request):
 	# list available provinces under data
 	# discover available provinces for the province multi-select
 	prov_choices = []
+	prov_map = {}
+	# try to load human-readable province names from prov_list/prov.json
+	prov_json_path = Path(__file__).resolve().parents[2] / "prov_list" / "prov.json"
+	try:
+		with open(prov_json_path, "r", encoding="utf-8") as fh:
+			pj = json.load(fh)
+			for rec in pj.get("data", []):
+				kod = str(rec.get("kode_propinsi") or "").strip()
+				name = rec.get("nama_propinsi")
+				if kod and name:
+					prov_map[kod] = name
+	except Exception:
+		prov_map = {}
+
 	try:
 		for p in (DATA_ROOT).iterdir():
 			if p.is_dir() and p.name.startswith("prov_"):
-				prov_choices.append(p.name)
+				code = p.name.split("_", 1)[1]
+				label = prov_map.get(code) or prov_map.get(code.lstrip("0")) or code
+				# store tuple (folder_name, display_label)
+				prov_choices.append((p.name, f"{label} ({code})"))
 	except Exception:
 		prov_choices = []
 
 	# build mapping of province -> kabupaten list (for client-side dynamic filtering)
 	prov_to_kabs = {}
 	try:
-		for prov_name in prov_choices:
+		for prov_tuple in prov_choices:
+			prov_name = prov_tuple[0]
 			kset = set()
 			try:
 				vs_tmp = VacancySearch(DATA_ROOT / prov_name)
